@@ -8,7 +8,6 @@
 **Added**
 - **AppleSkin** (appleskin-fabric-mc1.17-2.0.0.jar)
 - **Attribute Fix {FABRIC}** (attribute-fix-fabric-1.17-1.0.1.jar)
-- **Better Nether** (better-nether-5.1.0.jar)
 - **BitsAndChisels** (bitsandchisels-2.5.0.jar)
 - **Charm** (charm-fabric-1.17-3.1.6-beta.jar)
 - **Charmonium** (charmonium-fabric-1.17-3.1.0-BUNDLED.jar)
