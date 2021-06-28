@@ -1,3 +1,11 @@
+<h1>0.0.5</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed elements.comparator crash when joining world in certain region.
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.4</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
