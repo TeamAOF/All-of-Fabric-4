@@ -4,6 +4,7 @@
 
 **Fixes**
 - Fixed elements.comparator crash when joining world in certain region.
+- Fixed crash with pillagers.
 ---------------------------------------------------------------------------------------------
 
 <h1>0.0.4</h1>
