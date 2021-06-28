@@ -1,3 +1,45 @@
+<h1>0.0.4</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Changes**
+- Carrier blacklist is now a whitelist. Only vanilla blocks & chests/barrels of other mods can be moved as of now.
+- New Angel Ring recipe.
+- New Cobweb recipe.
+- New Discord rich presence added.
+
+**Fixes**
+- Charm chests can now be used in recipes with minecraft:chest as input.
+- Fix crash when player walks into a laser.
+
+**Added**
+- cAn i MiNe thIS bLOCk?: can-i-mine-this-block-1.1.0.jar  
+- DefaultSettings: DefaultSettings-1.17.x-3.0.2.jar  
+- Horse Info: hwyla-addon-horseinfo-0.3.0-1.17.jar  
+- Nyf's Quivers: nyfsquivers-Fabric-0.2.1-1.17.jar  
+- Patchouli: Patchouli-1.17-54-FABRIC.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.0.0+1.17.0.jar  
+- Simple Rpc: simple-rpc-1.17-2.2.2-fabric.jar  
+- Textile Backup: textile_backup-2.1.0-1.17.jar  
+- Vanilla Hammers: vanilla-hammers-3.1.0-1.17.jar  
+  
+**Updated**  
+- Architectury: architectury-2.0.16-fabric.jar  
+- Artifality: artifality-mc1.17-0.2.4-beta.jar  
+- Charm: charm-fabric-1.17-3.2.2-beta.jar  
+- Conjuring: conjuring-1.0.4.jar  
+- Enchantment Descriptions: EnchantmentDescriptions-fabric-1.17-3.0.12.jar  
+- Expanded Storage: expandedstorage-7.0.0-alpha.31+1.17.jar  
+- Fabric Language Kotlin: fabric-language-kotlin-1.6.2+kotlin.1.5.20.jar  
+- FlytreLib: flytre_lib-1.17-0.2.18.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.6.jar  
+- Improved Stations: improved-stations-2.0.6.jar  
+- Industrial Revolution: indrev-1.10.0-alpha.6.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.0.260-alpha-fabric.jar  
+- wthit: wthit-fabric-3.6.1.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.12.2_Fabric_1.17.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.3</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
