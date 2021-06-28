@@ -29,7 +29,6 @@
 - Charm: charm-fabric-1.17-3.2.2-beta.jar  
 - Conjuring: conjuring-1.0.4.jar  
 - Enchantment Descriptions: EnchantmentDescriptions-fabric-1.17-3.0.12.jar  
-- Expanded Storage: expandedstorage-7.0.0-alpha.31+1.17.jar  
 - Fabric Language Kotlin: fabric-language-kotlin-1.6.2+kotlin.1.5.20.jar  
 - FlytreLib: flytre_lib-1.17-0.2.18.jar  
 - Geckolib: geckolib-fabric-1.17-3.0.6.jar  
