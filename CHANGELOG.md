@@ -5,6 +5,7 @@
 **Fixes**
 - Fixed elements.comparator crash when joining world in certain region.
 - Fixed crash with pillagers.
+- Fixes an issue with advancements on vanilla hammers.
 ---------------------------------------------------------------------------------------------
 
 <h1>0.0.4</h1>
