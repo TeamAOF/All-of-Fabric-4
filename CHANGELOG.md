@@ -62,7 +62,7 @@
 - Beenfo: beenfo-1.17.1-fabric0.36.1-1.3.2.jar  
 - Biome Locator: biome_locator-1.17.1-1.1.3.jar  
 - BLAST: blast-1.7.jar  
-- Blockus: blockus-2.2.6+1.17.1.jar  
+- Blockus: blockus-2.2.7+1.17.1.jar  
 - Charm: charm-fabric-1.17-3.3.2.jar  
 - Charmonium: charmonium-fabric-1.17-3.3.0.jar  
 - Cherished Worlds: cherishedworlds-fabric-2.0.1-1.17.1.jar  
