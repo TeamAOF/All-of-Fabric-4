@@ -1,3 +1,111 @@
+<h1>0.0.6</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+<h2>A world reset is HIGHLY recommended with this update as proper unification is in place & world gen changed.</h2>
+
+**Changes**
+- Updated to 1.17.1
+- New light ring recipe.
+- New angel ring recipe.
+- Proper unification through out all tech mods (all recipes will now use MI variants of components).
+- Revamped mineshafts generation.
+- You can no longer make conjuring focuses for golems galore.
+- Even more revamped than the above but for strongholds.
+- Disabled Snow Storms from Charm.
+- Disabled the Collection enchantment due to bugs.
+- Disabled promenade ducks.
+- Disabled Heaven Wings (GOML Augment)
+
+**Fixes**
+- Fixed recipe conflict with copper nuggets (Could not craft indrev servos).
+- Fixed crash with deep learner on servers.
+
+**Added**
+- Balm: balm-fabric-1.2.0+0.jar  
+- BCLib: bclib-0.2.4.jar  
+- Better End: better-end-0.10.5-pre.jar  
+- YUNG's Better Mineshafts: BetterMineshafts-Fabric-1.17-1.0.0.jar  
+- YUNG's Better Strongholds: BetterStrongholds-Fabric-1.17-1.1.jar  
+- Crafting Tweaks: craftingtweaks-fabric-13.0.0+0.jar  
+- Dark Enchanting: dark-enchanting-0.4.1-1.17.1.jar  
+- DeathLog: deathlog-0.1.3.jar  
+- Ecotones: ecotones-0.8.0.jar  
+- Glassential: glassential-fabric-1.17-1.2.0.jar  
+- Goosik's Villager Hats: goosiks-villager-hats-mc1.17-1.2.0.jar  
+- Universal Graves: graves-1.0.7+1.17.1.jar  
+- KubeJS Extras: kjsextras-1.3.2.jar  
+- Lovely Snails: lovely_snails-1.0.2+1.17.jar  
+- Modern Industrialization: Modern-Industrialization-0.5.3.jar  
+- Nature's Compass: NaturesCompass-1.17.1-2.0.0-fabric.jar  
+- Notes: notes-1.17-1.0.6.jar  
+- Outvoted: outvoted-2.0.0-alpha.8-fabric.jar  
+- Pling: pling-1.4.0.jar  
+- Red Bits: red-bits-1.9.0.jar  
+- Skinned Lanterns: skinnedlanterns-1.1.5.jar  
+- Tech Reborn: TechReborn-5.0.3-beta+build.55.jar  
+- TridentReturn: trident_return-1.2.4.jar  
+- Untitled Duck Mod: untitledduckmod-0.3.0-fabric.jar  
+- Urns: urns-mc1.17-1.0.1.jar  
+- Vanilla Excavators: vanillaexcavators-2.2.0-1.17.jar  
+- Workings: workings-1.0.7.jar  
+- Xaero's World Map: XaerosWorldMap_1.14.6.1_Fabric_1.17.1.jar  
+- YUNG's API: YungsApi-1.17-Fabric-13.jar  
+
+**Removed**
+- Bits & Chisels (Will be readded at some point)
+  
+**Updated**  
+- Adorn: Adorn-2.1.1+1.17.1-fabric.jar  
+- Architectury: architectury-2.2.21-fabric.jar  
+- Artifality: artifality-mc1.17.1-0.3.3-beta.jar  
+- Attribute Fix {FABRIC}: attribute-fix-fabric-1.17.1-1.0.2.jar  
+- Beenfo: beenfo-1.17.1-fabric0.36.1-1.3.2.jar  
+- Biome Locator: biome_locator-1.17.1-1.1.3.jar  
+- BLAST: blast-1.7.jar  
+- Blockus: blockus-2.2.6+1.17.1.jar  
+- Charm: charm-fabric-1.17-3.3.2.jar  
+- Charmonium: charmonium-fabric-1.17-3.3.0.jar  
+- Cherished Worlds: cherishedworlds-fabric-2.0.1-1.17.1.jar  
+- Conjuring: conjuring-1.0.5.jar  
+- Croptopia: Croptopia-1.17-FABRIC-1.5.0.jar  
+- Deep Mob Learning: Refabricated: deepmoblearning-refabricated-0.4.2-beta.jar  
+- DefaultSettings: DefaultSettings-1.17.x-3.0.3.jar  
+- Expanded Storage: expandedstorage-7.0.0-alpha.33+1.17.jar  
+- Extra Generators: extra-generators-1.0.6-BETA+1.17.jar  
+- Fabric API: fabric-api-0.37.0+1.17.jar  
+- FerriteCore: ferritecore-3.0.1-fabric.jar  
+- FlytreLib: flytre_lib-1.17-0.2.21.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.9.jar  
+- Improved Stations: improved-stations-2.0.7.jar  
+- Industrial Revolution: indrev-1.10.0-alpha.10.jar  
+- Kibe: kibe-1.8-BETA+1.17.jar  
+- Lifts: lifts-1.2-BETA+1.17.jar  
+- Light Overlay: light-overlay-6.1.0-fabric.jar  
+- Lithium: lithium-fabric-mc1.17.1-0.7.3.jar  
+- megane: megane-5.1.1.jar  
+- Mo Glass: Mo-Glass-1.5-MC1.17.1.jar  
+- Mo' Colors: mocolors-1.2.2.jar  
+- MoreVillagersFabric: morevillagers-FABRIC-1.17-2.0.4.jar  
+- Mo' Structures: mostructures-1.2.1-1.17.jar  
+- Mouse Wheelie: mousewheelie-1.7.3-newconfig+mc1.17.1-pre1.jar  
+- Nyf's Quivers: nyfsquivers-Fabric-0.2.4-1.17.jar  
+- Packages: packages-1.17.1-1.2.1.jar  
+- Quick Shulker: quickshulker-1.1.17-1.17.jar  
+- Rat's Mischief: ratsmischief-1.2.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.1.1+1.17.1.jar  
+- Respawnable Pets: respawnablepets-1.17-2.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.0.264-alpha-fabric.jar  
+- 'Slight' GUI Modifications: slight-gui-modifications-2.0.1.jar  
+- Staff of Building: staffofbuilding-1.3.2-1.17.jar  
+- Trinkets: trinkets-3.0.2.jar  
+- True Secret Rooms: true-secret-rooms-1.1.5.jar  
+- Vanilla Hammers: vanilla-hammers-3.1.2-1.17.jar  
+- Wireless Networks: wirelessnetworks-1.1.2.jar  
+- Waystones: wraith-waystones-2.0.2.jar  
+- wthit: wthit-fabric-3.7.0.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.13.0_Fabric_1.17.1.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.5</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
