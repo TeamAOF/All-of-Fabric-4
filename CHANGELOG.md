@@ -1,3 +1,14 @@
+<h1>0.0.7</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed incorrect folder path of src (Causing permission/access problems in certain scenarios).
+
+**Removed**
+- Skinned Lanterns
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.6</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
