@@ -83,6 +83,7 @@
 - Light Overlay: light-overlay-6.1.0-fabric.jar  
 - Lithium: lithium-fabric-mc1.17.1-0.7.3.jar  
 - megane: megane-5.1.1.jar  
+- Mod Menu: modmenu-2.0.3.jar
 - Mo Glass: Mo-Glass-1.5-MC1.17.1.jar  
 - Mo' Colors: mocolors-1.2.2.jar  
 - MoreVillagersFabric: morevillagers-FABRIC-1.17-2.0.4.jar  
