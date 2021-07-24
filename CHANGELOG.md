@@ -2,6 +2,9 @@
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+**Changes**
+- Disabled everything from Dank Storage (Will be re-enabled when crashes are fixed).
+
 **Fixes**
 - Fixed TR Compressor recipe using incorrect unfication input of plates.
 - Fixed crash when equipping quantum chestplate.
