@@ -1,3 +1,39 @@
+<h1>0.0.8</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed TR Compressor recipe using incorrect unfication input of plates.
+- Fixed crash when equipping quantum chestplate.
+- Fixed DML server crash when fight was not finished and left chunk.
+- Fixed random slot popping up in top left corner when wearing trinkets.
+- Fixed crashing when using Zephyr Workbench.
+- Fixed some advancements auto completing on world join.
+- More unification fixes to certain dusts still showing up in REI lookups
+
+**Added**
+- Caracal Mob
+- Reborn Core
+- Traverse
+  
+**Updated**  
+- Ambient Environment: AmbientEnvironment-fabric-1.17.1-6.0.13.jar  
+- AppleSkin: appleskin-fabric-mc1.17-2.1.0.jar  
+- Balm: balm-fabric-1.3.0+0.jar  
+- Clumps: Clumps-fabric-1.17.1-7.0.4.jar  
+- Deep Mob Learning: Refabricated: deepmoblearning-refabricated-0.4.4-beta.jar  
+- Fabric API: fabric-api-0.37.1+1.17.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.10.jar  
+- Industrial Revolution: indrev-1.10.0-alpha.11.jar  
+- Nyf's Quivers: nyfsquivers-Fabric-0.2.6-1.17.jar  
+- Outvoted: outvoted-2.0.0-alpha.9-fabric.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.1.2+1.17.1.jar  
+- Tech Reborn: TechReborn-5.0.5-beta+build.85.jar  
+- Winged Mod: winged-1.17.1-3.0.0.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.14.0_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.15.0.1_Fabric_1.17.1.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.7</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
