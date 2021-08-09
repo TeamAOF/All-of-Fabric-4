@@ -1,3 +1,69 @@
+<h1>0.0.9</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed certain configs being overriden server-side causing issues like faulty ore gen.
+- Fixed furnace recipes breaking with certain enchantment & vein mine.
+- Fixed construction mode crash with danks.
+- Fixed incorrect outputs from tags in indrev machines.
+- Fixed crash when trying to start ritual of extraction.
+- Fixed duplicate of same recipes for output showing up in REI.
+- Fixed cascading amounts of insane and brutal lag with servers due to MI pipes.
+- Fixed the remaining auto completion advancements on first world join that shouldnt of been completed, obv...
+
+**Changes**
+- Blacklisted rats from conjuring.
+
+**Added**
+- Alaska Native Craft: alaskanativecraft-1.3.1.jar  
+- Deep Mob Learning: Simulacrum: dmlSimulacrum-1.0.2.jar  
+  
+**Updated**  
+- Adorn: Adorn-2.1.3+1.17.1-fabric.jar  
+- Ambient Environment: AmbientEnvironment-fabric-1.17.1-6.0.21.jar  
+- AppleSkin: appleskin-fabric-mc1.17-2.1.2.jar  
+- Architectury: architectury-2.3.24-fabric.jar  
+- YUNG's Better Mineshafts: BetterMineshafts-Fabric-1.17-1.0.1.jar  
+- YUNG's Better Strongholds: BetterStrongholds-Fabric-1.17-1.1.1.jar  
+- Blockus: blockus-2.2.8+1.17.1.jar  
+- Cloth Config v4: cloth-config-5.0.38-fabric.jar  
+- Conjuring: conjuring-1.0.7.jar  
+- Croptopia: Croptopia-1.17-FABRIC-1.6.1.jar  
+- Dank Storage: dankstorage-2.1-1.17.1.jar  
+- Dark Loading Screen: dark-loading-screen-1.6.6.jar  
+- Dark Paintings: DarkPaintings-fabric-1.17.1-4.0.2.jar  
+- Dawn API: dawn-2.0.5.jar  
+- Dynamic FPS: dynamic-fps-2.0.5.jar  
+- Ecotones: ecotones-0.8.1.jar  
+- Enchantment Descriptions: EnchantmentDescriptions-fabric-1.17.1-4.0.1.jar  
+- Expanded Storage: expandedstorage-7.0.0+1.17.1.jar  
+- Fabric API: fabric-api-0.37.2+1.17.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.11.jar  
+- Incantationem: incantationem-1.1.2+1.17.1.jar  
+- Industrial Revolution: indrev-1.10.0-alpha.12.jar  
+- megane: megane-5.2.0.jar  
+- Modern Industrialization: Modern-Industrialization-0.5.8.jar  
+- Mo' Structures: mostructures-1.3.0-pre1-1.17.1-fabric.jar  
+- Nature's Compass: NaturesCompass-1.17.1-2.0.1-fabric.jar  
+- Outvoted: outvoted-2.0.0-alpha.11-fabric.jar  
+- Quick Shulker: quickshulker-1.2.2-1.17.jar  
+- Red Bits: red-bits-1.10.0.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.2.0+1.17.1.jar  
+- Respawnable Pets: respawnablepets-1.17-3.jar  
+- Runelic: Runelic-fabric-1.17.1-3.0.1.jar  
+- Shulker Box Tooltip: shulkerboxtooltip-3.0.1+1.17.jar  
+- Simple Rpc: simple-rpc-1.17-2.3.1-fabric.jar  
+- Textile Backup: textile_backup-2.2.0-1.17.jar  
+- Tool Stats: ToolStats-fabric-1.17.1-2.0.1.jar  
+- Traverse: traverse-4.0.0-beta.2.jar  
+- Waystones: wraith-waystones-2.0.3.jar  
+- wthit: wthit-fabric-3.8.1.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.14.1_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.16.0_Fabric_1.17.1.jar  
+- YUNG's API: YungsApi-1.17-Fabric-15.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.8</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
