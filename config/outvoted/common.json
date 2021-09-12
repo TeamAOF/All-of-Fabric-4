@@ -1,0 +1,72 @@
+{
+  "entities": {
+    "wildfire": {
+      "spawn": true,
+      "rate": 1,
+      "biomes": [
+        "minecraft:nether_wastes",
+        "minecraft:basalt_deltas",
+        "minecraft:crimson_forest",
+        "minecraft:soul_sand_valley"
+      ],
+      "health": 50.0,
+      "attacking": {
+        "fireballCount": 17,
+        "offsetAngle": 4.0,
+        "maxDepressAngle": 50.0,
+        "doFireballExplosion": false,
+        "fireballExplosionPower": 0.5
+      }
+    },
+    "glutton": {
+      "spawn": true,
+      "rate": 5,
+      "biomes": [
+        "#swamp",
+        "#desert",
+        "minecraft:badlands_plateau",
+        "minecraft:badlands"
+      ],
+      "health": 20.0,
+      "stealEnchants": true,
+      "capEnchants": true,
+      "maxEnchants": 5
+    },
+    "barnacle": {
+      "spawn": true,
+      "rate": 2,
+      "biomes": [
+        "minecraft:deep_warm_ocean",
+        "minecraft:deep_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:deep_lukewarm_ocean"
+      ],
+      "health": 40.0
+    },
+    "meerkat": {
+      "spawn": true,
+      "burrowRate": 40,
+      "biomes": [
+        "#desert"
+      ],
+      "health": 10.0
+    },
+    "ostrich": {
+      "spawn": true,
+      "rate": 2,
+      "biomes": [
+        "#savanna"
+      ],
+      "health": 15.0
+    }
+  },
+  "generation": {
+    "genPalmTrees": true,
+    "genBaobabTrees": true,
+    "baobabType": 0
+  },
+  "misc": {
+    "helmetPenalty": 40,
+    "givePatchouliBookOnLogin": true
+  }
+}

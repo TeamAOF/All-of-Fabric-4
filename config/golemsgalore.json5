@@ -1,0 +1,66 @@
+{
+  //Diamond Golem
+  "healthDiamond": 230,
+  "speedDiamond": 0.2,
+  "knockbackResistanceDiamond": 1.0,
+  "attackDamageDiamond": 20.0,
+  //Netherite Golem
+  "healthNetherite": 450,
+  "speedNetherite": 0.18,
+  "knockbackResistanceNetherite": 1.1,
+  "attackDamageNetherite": 30.0,
+  //Golden Golem
+  "healthGolden": 50,
+  "speedGolden": 0.35,
+  "knockbackResistanceGolden": 1.0,
+  "attackDamageGolden": 19.9,
+  //Obsidian Golem
+  "healthObsidian": 190,
+  "speedObsidian": 0.15,
+  "knockbackResistanceObsidian": 2.0,
+  "attackDamageObsidian": 15.0,
+  //Quartz Golem
+  "healthQuartz": 50,
+  "speedQuartz": 0.25,
+  "knockbackResistanceQuartz": 0.5,
+  "attackDamageQuartz": 5.0,
+  //Hay Golem
+  "healthHay": 25,
+  "speedHay": 0.3,
+  "knockbackResistanceHay": 0.1,
+  "attackDamageHay": 5.0,
+  //Amethyst Golem
+  "healthAmethyst": 120,
+  "speedAmethyst": 0.29,
+  "knockbackResistanceAmethyst": 0.7,
+  "attackDamageAmethyst": 24.0,
+  //Laser Golem
+  "healthLaser": 75,
+  "speedLaser": 0.25,
+  "knockbackResistanceLaser": 1.0,
+  "attackDamageLaser": 10.0,
+  //Diamond Laser Golem
+  "healthDiamondLaser": 200,
+  "speedDiamondLaser": 0.22,
+  "knockbackResistanceDiamondLaser": 1.0,
+  "attackDamageDiamondLaser": 20.0,
+  //Anti-Creeper Golem
+  "healthCreeper": 75,
+  "speedCreeper": 0.3,
+  "knockbackResistanceCreeper": 1.0,
+  "attackDamageCreeper": 20.0,
+  //Obama Prism Golem
+  "healthObama": 400,
+  "speedObama": 0.25,
+  "knockbackResistanceObama": 1.0,
+  "attackDamageObama": 20.1,
+  //Ghastly Golem (NOT IN GAME YET!)
+  "healthGhostly": 250,
+  "speedGhostly": 0.3,
+  "knockbackResistanceGhostly": 1.0,
+  "attackDamageGhostly": 15.0,
+  //Performance
+  "renderLaserFlames": true,
+  //Misc
+  "playLaserSound": true
+}

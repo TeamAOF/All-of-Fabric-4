@@ -1,0 +1,36 @@
+{
+	// Function as whitelist instead
+	"isWhitelist": false,
+	// Block IDs to blacklist from being mined
+	"blacklistedBlocks": [
+		"techreborn:insulated_gold_cable",
+		"techreborn:gold_cable",
+		"indrev:item_pipe_mk2",
+		"indrev:item_pipe_mk1",
+		"indrev:item_pipe_mk4",
+		"indrev:item_pipe_mk3",
+		"indrev:cable_mk4",
+		"modern_industrialization:pipe",
+		"indrev:cable_mk2",
+		"indrev:cable_mk3",
+		"indrev:cable_mk1",
+		"techreborn:insulated_copper_cable",
+		"indrev:lazuli_flux_container_mk1",
+		"indrev:lazuli_flux_container_mk4",
+		"indrev:lazuli_flux_container_mk2",
+		"indrev:lazuli_flux_container_mk3",
+		"adorn:trading_station",
+		"indrev:fluid_pipe_mk3",
+		"indrev:fluid_pipe_mk2",
+		"indrev:fluid_pipe_mk1",
+		"techreborn:hv_cable",
+		"techreborn:tin_cable",
+		"techreborn:copper_cable",
+		"techreborn:glassfiber_cable",
+		"minecraft:chest",
+		"indrev:tank",
+		"indrev:fluid_pipe_mk4",
+		"techreborn:insulated_hv_cable",
+		"kibe:tank"
+	]
+}

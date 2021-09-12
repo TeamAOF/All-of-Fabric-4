@@ -1,0 +1,15 @@
+[grid]
+largeFont = false
+energyUsage = 50
+maxRowsStretch = 256
+preventSortingWhileShiftIsDown = true
+detailedTooltip = true
+rememberSearchQuery = false
+smoothScrolling = true
+[controller]
+capacity = 1000
+[diskDrive]
+energyUsage = 100
+energyUsagePerDisk = 10
+[cable]
+energyUsage = 0

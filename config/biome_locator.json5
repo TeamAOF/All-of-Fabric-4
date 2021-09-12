@@ -1,0 +1,12 @@
+{
+  "client": {
+    //[TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT]
+    "ui_location": "TOP_LEFT",
+    "high_contrast_mode": false
+  },
+  "server": {
+    "max_biome_distance": 6400,
+    "required_advancement": "none",
+    "chance_as_loot": 0.16
+  }
+}

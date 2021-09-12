@@ -1,0 +1,53 @@
+
+[general]
+	#Enable/Disable Serverside Overrides
+	enabled = false
+	#Internal Version Number. NO TOUCHY!
+	version = 1
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Playing on %servername% with %players% players"
+	#The second line of text under the app name
+	state = "Playing online"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "mclogo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#World/Dimension Image Overrides
+[world_images]
+	#Enabled/Disable custom images for Worlds/Biomes
+	enabled = false
+
+	#The Worlds/Biomes to override
+	[[world_images.worlds]]
+		worldname = "overworld"
+		largeImageKey = "overworld"
+		largeImageText = "In the Overworld"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+
+	[[world_images.worlds]]
+		worldname = "the_nether"
+		largeImageKey = "nether"
+		largeImageText = "In the Nether"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+
+	[[world_images.worlds]]
+		worldname = "the_end"
+		largeImageKey = "end"
+		largeImageText = "In the End"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+

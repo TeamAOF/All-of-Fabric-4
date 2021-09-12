@@ -1,0 +1,40 @@
+{
+	// Should the Lectern Structure Processor run?
+	"doLecternProcessor": true,
+	// Should the Bookshelf Structure Processor run?
+	"doBookshelfProcessor": true,
+	// Should Village Libraries have Spell Books spawn?
+	"librariesHaveBooks": true,
+	// Should Stronghold Libraries have Spell Books spawn?
+	"strongholdsHaveBooks": true,
+	// Should Ruined Portals have Spell Books spawn?
+	"ruinedPortalsHaveBooks": true,
+	/* Whether or not burnout should be applied when using too
+	       much mana.
+	*/
+	"haveBurnout": true,
+	/* The colour of objects created by spells (i.e. the laser
+	       from Solar Strike and the wall from Arcane Wall).
+	*/
+	"magicColour": "7ecdfb",
+	// The time Mana takes to refill by 1 in ticks before modifiers.
+	"baseManaCooldown": 20,
+	// The time Burnout takes to reduce by 1 in ticks before modifiers.
+	"baseBurnoutCooldown": 60,
+	// The Mana cost for the Lunge spell.
+	"lungeCastingCost": 5,
+	// The Mana cost for the Dream Warp spell.
+	"dreamWarpCastingCost": 15,
+	// The Mana cost for the Magic Missile spell.
+	"magicMissileCastingCost": 3,
+	// The Mana cost for the Telekinetic Shock spell.
+	"telekinesisCastingCost": 4,
+	// The Mana cost for the Heal spell.
+	"healCastingCost": 10,
+	// The Mana cost for the Discombobulate spell.
+	"discombobulateCastingCost": 10,
+	// The Mana cost for the Solar Strike spell.
+	"solarStrikeCastingCost": 20,
+	// The Mana cost for the Arcane Barrier spell.
+	"arcaneBarrierCastingCost": 4
+}

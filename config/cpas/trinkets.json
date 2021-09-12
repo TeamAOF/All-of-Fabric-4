@@ -1,0 +1,20 @@
+{
+  "slotGroups": {
+    "head": [
+      "head"
+    ],
+    "feet": [
+      "feet"
+    ],
+    "chest": [
+      "chest"
+    ],
+    "legs": [
+      "legs"
+    ],
+    "offhand": [
+      "offhand",
+      "hand"
+    ]
+  }
+}

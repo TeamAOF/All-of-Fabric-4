@@ -1,0 +1,29 @@
+{
+  "tools": {
+    "aeternium_shovel [default: true]": true,
+    "aeternium_sword [default: true]": true,
+    "aeternium_pickaxe [default: true]": true,
+    "aeternium_axe [default: true]": true,
+    "aeternium_hoe [default: true]": true,
+    "aeternium_hammer [default: true]": true,
+    "iron_hammer [default: true]": true,
+    "golden_hammer [default: true]": true,
+    "diamond_hammer [default: true]": true,
+    "netherite_hammer [default: true]": true,
+    "thallasium_shovel [default: true]": true,
+    "thallasium_sword [default: true]": true,
+    "thallasium_pickaxe [default: true]": true,
+    "thallasium_axe [default: true]": true,
+    "thallasium_hoe [default: true]": true,
+    "thallasium_hammer [default: true]": true,
+    "terminite_shovel [default: true]": true,
+    "terminite_sword [default: true]": true,
+    "terminite_pickaxe [default: true]": true,
+    "terminite_axe [default: true]": true,
+    "terminite_hoe [default: true]": true,
+    "terminite_hammer [default: true]": true
+  },
+  "items": {
+    "guidebook [default: true]": true
+  }
+}

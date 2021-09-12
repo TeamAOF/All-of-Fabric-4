@@ -1,0 +1,121 @@
+{
+	"enchantment": {
+		// The rarity of the enchantment
+		"rarity": "RARE",
+		// The number of levels of the enchantment
+		"levels": 1,
+		// Whether or not to consider this enchantment as a treasure
+		"isTreasure": false,
+		// Whether or not this enchantment can be randomly selected for enchanting
+		"isRandomlySelectable": true,
+		// Whether or not this enchantment is available on books
+		"isAvailableOnBooks": true,
+		// The minimum enchanting power requirement for the first enchantment level
+		"minPowerBase": 15,
+		// The additional enchanting power requirement for each enchantment level after the first
+		"minPowerPerLevel": 5,
+		// List of enchantments that cannot be applied together with this enchantment
+		"incompatibleEnchantments": []
+	},
+	"veinMining": {
+		// The maximum number of blocks to mine without the enchantment
+		"requireEffectiveTool": false,
+		// The maximum number of blocks to mine without the enchantment
+		"maxBlocksBase": 0,
+		// The maximum distance from the source block without the enchantment
+		"maxDistanceBase": 0,
+		// The maximum number of blocks to mine per level of the enchantment
+		"maxBlocksPerLevel": 50,
+		// The maximum distance from the source block per level of the enchantment
+		"maxDistancePerLevel": 15,
+		// Whether or not to vein mine diagonally, note this may lead to hidden drops if relocateDrops is false
+		"diagonalMining": true,
+		// Whether or not to move all drops to the same location
+		"relocateDrops": true,
+		// Whether or not the tool can break while mining additional blocks
+		"preventToolDestruction": false,
+		// Whether or not the tool takes damage from mining additional blocks
+		"addToolDamage": true,
+		// The multiplier to tool damage from mining additional blocks
+		"toolDamageMultiplier": 1,
+		// Whether or not the player gets exhaustion from mining additional blocks
+		"addPlayerExhaustion": true,
+		// The multiplier to player exhaustion from mining additional blocks
+		"playerExhaustionMultiplier": 1.0,
+		// Whether or not to stop vein mining when the tool can no longer be used
+		"limitedByDurability": true,
+		// Whether to activate vein mining by standing, crouching, or holding down the keybind
+		"activationState": "STANDING",
+		// List of whitelisted/blacklisted blocks or block tags
+		"blocks": [],
+		// Whether the blocks configuration is a whitelist or a blacklist
+		"blocksPermission": "BLACKLIST",
+		// List of groupings by block IDs or block tags, comma-separated
+		"groups": [
+			"#c:topaz_ores",
+			"#c:runite_ores",
+			"#c:antimony_ores",
+			"#c:sphalerite_ores",
+			"#c:uranium_ores",
+			"#c:sapphire_ores",
+			"#c:nickel_ores",
+			"#c:sheldonite_ores",
+			"#c:vermiculite_ores",
+			"#c:lutetium_ores",
+			"#c:unobtainium_ores",
+			"#c:lapis_ores",
+			"#c:zinc_ores",
+			"#c:platinum_ores",
+			"#c:lunum_ores",
+			"#c:tin_ores",
+			"#c:stormyx_ores",
+			"#c:adamantite_ores",
+			"#c:lead_ores",
+			"#c:aquarium_ores",
+			"#c:copper_ores",
+			"#c:aetherium_ores",
+			"#c:asterite_ores",
+			"#c:iron_ores",
+			"#c:banglum_ores",
+			"#c:certus_quartz_ores",
+			"#c:cinnabar_ores",
+			"#c:bauxite_ores",
+			"#c:iridium_ores",
+			"#c:sulfur_ores",
+			"#c:quadrillum_ores",
+			"#c:salt_ores",
+			"#c:truesilver_ores",
+			"#c:osmium_ores",
+			"#c:diamond_ores",
+			"#c:amethyst_ores",
+			"#c:palladium_ores",
+			"#c:tungsten_ores",
+			"#c:aluminum_ores",
+			"#c:prometheum_ores",
+			"#c:sodalite_ores",
+			"#c:emerald_ores",
+			"#c:galaxium_ores",
+			"#c:mythril_ores",
+			"#c:carmot_ores",
+			"#c:metite_ores",
+			"#c:redstone_ores",
+			"#c:cobalt_ores",
+			"#c:tantalite_ores",
+			"#c:peridot_ores",
+			"#c:manganese_ores",
+			"#c:silver_ores",
+			"#c:titanium_ores",
+			"#c:starrite_ores",
+			"#c:orichalcum_ores",
+			"#c:stellum_ores",
+			"#c:ur_ores",
+			"#c:coal_ores",
+			"#c:kyber_ores",
+			"#c:ruby_ores",
+			"#c:pyrite_ores",
+			"#c:gold_ores,#minecraft:gold_ores",
+			"#c:galena_ores",
+			"#c:quartz_ores"
+		]
+	}
+}

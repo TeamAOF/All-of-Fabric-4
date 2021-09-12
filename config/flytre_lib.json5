@@ -1,0 +1,5 @@
+//Hit F3 + M to edit configs client side in game
+{
+  //Whether the title screen has a button to open the config editor. Recommended on for ease of access as other methods of adjusting configs are more hidden.
+  "display_title_screen_config_button": false
+}

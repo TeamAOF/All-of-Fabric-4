@@ -1,0 +1,32 @@
+{
+  "quarry": {
+    "QuarryMaxInput": {
+      "comment": "Quarry Max Input (Value in EU)",
+      "value": 128
+    },
+    "QuarryMaxInputOverclockerMultipier": {
+      "comment": "Quarry Max Input Multiplier by overclocker upgrades",
+      "value": 6.0
+    },
+    "QuarryMaxEnergy": {
+      "comment": "Quarry Max Energy (Value in EU)",
+      "value": 100000
+    },
+    "QuarrySqrWorkRadius": {
+      "comment": "Quarry Sqr Work Radius, square radius of work, in blocks",
+      "value": 8
+    },
+    "QuarryTiksPerExcavation": {
+      "comment": "Quarry Tiks Per Excavation, 20 ticks - 1 second",
+      "value": 60
+    },
+    "QuarryMinTiksPerExcavation": {
+      "comment": "Quarry Min Tiks Per Excavation (with all 4 upgrdes), 20 ticks - 1 second",
+      "value": 8
+    },
+    "QuarryEnergyPerExcavation": {
+      "comment": "Quarry Energy Per Excavation (Value in EU)",
+      "value": 6000
+    }
+  }
+}

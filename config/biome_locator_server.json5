@@ -1,0 +1,6 @@
+{
+  "max_biome_distance": 6400,
+  //Use the /advancement command for help with advancement ids
+  "required_advancement": "none",
+  "chance_as_loot": 0.16
+}

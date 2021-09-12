@@ -1,0 +1,1 @@
+console.info('Loading All Of Fabric 4 v1.0.0 BETA')

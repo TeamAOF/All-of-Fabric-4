@@ -1,0 +1,5 @@
+{
+  //What corner of the screen the biome tracker overlay is in [top_left, top_right, bottom_left, bottom_right]
+  "ui_location": "top_left",
+  "high_contrast_mode": false
+}

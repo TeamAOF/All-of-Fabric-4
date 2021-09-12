@@ -1,0 +1,66 @@
+{
+  "configVersion": 3,
+  "inventory": {
+    "enabled": false,
+    "itemCount": false,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "entityInventory": {
+    "enabled": false,
+    "itemCount": false,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane": 7408640,
+      "indrev": 3885790,
+      "techreborn": 8390656,
+      "wirelessnetworks": 7408640,
+      "lifts": 7408640,
+      "quarrymod": 7408640
+    },
+    "units": {
+      "megane": "E",
+      "indrev": "LF",
+      "techreborn": "E",
+      "wirelessnetworks": "E",
+      "lifts": "E",
+      "quarrymod": "E"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane:default": 855385,
+      "minecraft:water": 4159204
+    },
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": []
+  },
+  "effect": {
+    "enabled": true,
+    "level": true,
+    "roman": false,
+    "hidden": false,
+    "blacklist": []
+  },
+  "catchServerErrors": true,
+  "spawnEgg": false,
+  "playerHead": true
+}
