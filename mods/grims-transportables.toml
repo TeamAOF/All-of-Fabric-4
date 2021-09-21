@@ -1,0 +1,14 @@
+name = "Grim's Transportables"
+filename = "transportables-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3445/880/transportables-1.0.6.jar"
+hash-format = "murmur2"
+hash = "678408214"
+
+[update]
+[update.curseforge]
+file-id = 3445880
+project-id = 473508
+release-channel = "beta"

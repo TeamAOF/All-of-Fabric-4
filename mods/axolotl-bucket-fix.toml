@@ -1,0 +1,14 @@
+name = "Axolotl Bucket Fix"
+filename = "axolotl-item-fix-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/450/axolotl-item-fix-1.1.2.jar"
+hash-format = "murmur2"
+hash = "1984552522"
+
+[update]
+[update.curseforge]
+file-id = 3423450
+project-id = 495453
+release-channel = "beta"

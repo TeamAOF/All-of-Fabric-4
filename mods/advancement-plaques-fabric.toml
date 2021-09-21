@@ -1,0 +1,14 @@
+name = "Advancement Plaques [Fabric]"
+filename = "AdvancementPlaques-1.17.1-fabric-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3440/484/AdvancementPlaques-1.17.1-fabric-1.4.0.jar"
+hash-format = "murmur2"
+hash = "3393982290"
+
+[update]
+[update.curseforge]
+file-id = 3440484
+project-id = 514882
+release-channel = "beta"

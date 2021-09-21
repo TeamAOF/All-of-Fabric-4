@@ -1,0 +1,14 @@
+name = "[FABRIC] Launchpads"
+filename = "zihlaunchpads-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3464/703/zihlaunchpads-1.1.1.jar"
+hash-format = "murmur2"
+hash = "390048738"
+
+[update]
+[update.curseforge]
+file-id = 3464703
+project-id = 521065
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Miner's Horizon"
+filename = "miners-horizon-1.7.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3455/972/miners-horizon-1.7.0-1.17.1.jar"
+hash-format = "murmur2"
+hash = "249498627"
+
+[update]
+[update.curseforge]
+file-id = 3455972
+project-id = 319826
+release-channel = "beta"

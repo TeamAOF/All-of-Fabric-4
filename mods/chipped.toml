@@ -1,0 +1,14 @@
+name = "Chipped"
+filename = "FABRIC_1.17_chipped-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/823/FABRIC_1.17_chipped-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1614333051"
+
+[update]
+[update.curseforge]
+file-id = 3423823
+project-id = 456956
+release-channel = "beta"

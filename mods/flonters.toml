@@ -1,0 +1,14 @@
+name = "Flonters"
+filename = "Flonters-1.2.1+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/740/Flonters-1.2.1+1.17.1.jar"
+hash-format = "murmur2"
+hash = "147330334"
+
+[update]
+[update.curseforge]
+file-id = 3405740
+project-id = 356118
+release-channel = "beta"

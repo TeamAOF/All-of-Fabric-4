@@ -1,3 +1,113 @@
+<h1>1.0.0</h1>
+
+<h2>All of Fabric 4 - 1.0.0 (not released)</h2>
+
+**Changes**
+- Moved to new fluid/item/energy api, this means much better compat between tech mods as well as kibe.
+- Data required for each tier in DML has been altered to higher amounts.
+- Enabled Silver Ore, will require new chunks to obtain.
+- Enabled MI Easy Mode (less resources needed for crafting).
+- Re-enabled gem tools from TR.
+- Disabled Totem Of Preserving.
+- Blacklisted mobs from Better End, Outvoted & Terrarian Slimes in the conjurer.
+
+**Fixes**
+- Fixed brutal loading times due to how universal graves was handling blockstates, should now see up to 150% faster loading times depending on computer.
+- Fixed the stutter issue every 3 second people were having on certain launchers.
+- Fixed incorrect tags as output in infusing recipes.
+- Fixed server crash when placing datamodel in simulation chamber.
+- Fixed multiple broken recipes in Better End.
+
+**Added**
+- Additional Additions
+- Advancement Plaques
+- Arcanus
+- Axolotl Item Fix
+- YUNG's Better Dungeons
+- Bits and Chisels
+- Bountiful
+- Campanion
+- Chipped
+- Cosmetic Armor
+- Extended Armor Bars
+- Firework Frenzy
+- Flonters
+- Kambrik
+- Magic Fungi
+- More Axolotl Variants Mod
+- Miner's Horizon
+- Mythic Mounts
+- Quarry Reborn
+- The Graveyard
+- Grim's Transportables
+- Vanilla Degus
+- ZIH Launchpads
+
+**Removed**
+- Simple Rpc
+- Workings
+
+**Updated**
+- Adorn: Adorn-2.1.3+1.17.1-fabric.jar -> Adorn-2.1.5+1.17.1-fabric.jar
+- AppleSkin: appleskin-fabric-mc1.17-2.1.2.jar -> appleskin-fabric-mc1.17-2.1.3.jar
+- Architectury API (Fabric): architectury-2.3.24-fabric.jar -> architectury-2.5.27-fabric.jar
+- Artifality: artifality-mc1.17.1-0.3.3-beta.jar -> artifality-mc1.17.1-0.3.5.jar
+- Attribute Fix {FABRIC}: attribute-fix-fabric-1.17.1-1.0.2.jar -> attribute-fix-fabric-1.17.1-1.0.3.jar
+- BCLib: bclib-0.2.4.jar -> bclib-0.3.1.jar
+- BetterEnd: better-end-0.10.5-pre.jar -> better-end-0.11.0-pre.jar
+- Biome Locator: biome_locator-1.17.1-1.1.3.jar -> biome_locator-1.17.1-1.3.0.jar
+- Blockus: blockus-2.2.8+1.17.1.jar -> blockus-2.2.10+1.17.1.jar
+- Caracal Mod: caracalmob-1.17-1.2.2.jar -> caracal-1.17-1.3.2.jar
+- Clumps: Clumps-fabric-1.17.1-7.0.4.jar -> Clumps-fabric-1.17.1-7.0.7.jar
+- Croptopia [FABRIC/FORGE]: Croptopia-1.17-FABRIC-1.6.1.jar -> Croptopia-1.17.1-FABRIC-1.6.3.jar
+- Dark Enchanting: dark-enchanting-0.4.1-1.17.1.jar -> dark-enchanting-0.5.0-1.17.1.jar
+- Dark Loading Screen: dark-loading-screen-1.6.6.jar -> dark-loading-screen-1.6.10.jar
+- Dawn API: dawn-2.0.5.jar -> dawn-2.0.6.jar
+- DeathLog: deathlog-0.1.3.jar -> deathlog-0.2.1.jar
+- Deep Mob Learning: Simulacrum: dmlSimulacrum-1.0.2.jar -> dmlSimulacrum-1.0.5.jar
+- DefaultSettings Fabric: DefaultSettings-1.17.x-3.0.3.jar -> DefaultSettings-1.17.x-3.0.4.jar
+- Entity Banners: entity-banners-1.0.1-BETA+1.17.jar -> entity-banners-1.0.2-BETA+1.17.jar
+- [Fabric] Expanded Storage: expandedstorage-7.0.0+1.17.1.jar -> expandedstorage-7.1.2+1.17.1.jar
+- Extra Generators: extra-generators-1.0.6-BETA+1.17.jar -> extra-generators-1.1-BETA+1.17.jar
+- Fabric API: fabric-api-0.37.2+1.17.jar -> fabric-api-0.40.1+1.17.jar
+- Fabric Language Kotlin: fabric-language-kotlin-1.6.3+kotlin.1.5.21.jar -> fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar
+- Fabric Waystones: wraith-waystones-2.0.3.jar -> wraith-waystones-2.0.4.jar
+- FerriteCore (Fabric): ferritecore-3.0.1-fabric.jar -> ferritecore-3.0.3-fabric.jar
+- Gate of Babylon: gate-of-babylon-1.5.0-1.17.jar -> gate-of-babylon-1.5.1-1.17.1.jar
+- GeckoLib: geckolib-fabric-1.17-3.0.11.jar -> geckolib-fabric-1.17-3.0.14.jar
+- Golems Galore: golemsgalore-1.0.2+mc.1.17.jar -> golemsgalore-1.0.3-1.17.1.jar
+- Grizzly bear Mod: grizzlybear-1.1.1.jar -> grizzlybear-1.17-1.2.0.jar
+- Harvest Scythes: wraith-harvestscythes-2.0.5.jar -> wraith-harvestscythes-2.0.6.jar
+- Inmis: inmis-2.3.1-1.17.jar -> inmis-2.3.2-1.17.1.jar
+- Inventory Sorting: InventorySorter-1.7.9-1.17.jar -> InventorySorter-1.8.0-1.17.jar
+- Kibe Utilities: kibe-1.8-BETA+1.17.jar -> kibe-1.9.1-BETA+1.17.jar
+- Flytre Lib (FlytreLib): flytre_lib-1.17-0.2.21.jar -> flytre-lib-1.3.9.jar
+- Lifts: lifts-1.2-BETA+1.17.jar -> lifts-1.3-BETA+1.17.jar
+- Lithium (Fabric): lithium-fabric-mc1.17.1-0.7.3.jar -> lithium-fabric-mc1.17.1-0.7.4.jar
+- Lovely Snails: lovely_snails-1.0.2+1.17.jar -> lovely_snails-1.0.3+1.17.jar
+- megane: megane-5.2.0.jar -> megane-5.4.1.jar
+- Modern Industrialization: Modern-Industrialization-0.5.8.jar -> Modern-Industrialization-0.5.12.jar
+- More Villagers [Fabric]: morevillagers-FABRIC-1.17-2.0.4.jar -> morevillagers-FABRIC-1.17-2.1.0.jar
+- Notes Fabric: notes-1.17-1.0.6.jar -> notes-1.17-1.0.7.jar
+- Outvoted: outvoted-2.0.0-alpha.11-fabric.jar -> outvoted-2.0.0-alpha.13-fabric.jar
+- Rat's Mischief 🐀: ratsmischief-1.2.jar -> ratsmischief-1.2.2.jar
+- Reborn Core: RebornCore-5.0.5-beta+build.85.jar -> RebornCore-5.0.8-beta+build.111.jar
+- Repurposed Structures (Fabric): repurposed_structures_fabric-2.2.0+1.17.1.jar -> repurposed_structures_fabric-2.3.3+1.17.1.jar
+- Roughly Enough Items Fabric (REI): RoughlyEnoughItems-6.0.264-alpha-fabric.jar -> RoughlyEnoughItems-6.0.279-alpha-fabric.jar
+- Simple Discord RPC [Forge/Fabric]: simple-rpc-1.17-2.3.1-fabric.jar -> simple-rpc-1.17-2.4-fabric.jar
+- Smoother Bedrock: smootherbedrock-1.0.1.jar -> smootherbedrock-1.0.2.jar
+- Stoneholm, Underground Villages (Fabric): stoneholm-1.2.7.jar -> stoneholm-1.3.jar
+- Tech Reborn: TechReborn-5.0.5-beta+build.85.jar -> TechReborn-5.0.8-beta+build.111.jar
+- Trinkets (Fabric): trinkets-3.0.2.jar -> trinkets-3.0.4.jar
+- Universal Graves: graves-1.0.7+1.17.1.jar -> graves-1.0.8+1.17.1.jar
+- Wolves With Armor: wolves-with-armor-1.6.0-1.17.jar -> wolves-with-armor-1.6.1-1.17.1.jar
+- Woods and Mires: WoodsAndMires-1.1.0+1.17.jar -> WoodsAndMires-1.1.1+1.17.jar
+- WTHIT: wthit-fabric-3.8.1.jar -> wthit-fabric-3.9.1.jar
+- Xaero's Minimap: Xaeros_Minimap_21.14.1_Fabric_1.17.1.jar -> Xaeros_Minimap_21.16.0_Fabric_1.17.1.jar
+- Xaero's World Map: XaerosWorldMap_1.16.0_Fabric_1.17.1.jar -> XaerosWorldMap_1.17.0_Fabric_1.17.1.jar
+- YUNG's API (Fabric): YungsApi-1.17-Fabric-15.jar -> YungsApi-1.17-Fabric-16.jar
+---------------------------------------------------------------------------------------------
+
 <h1>0.0.9</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>

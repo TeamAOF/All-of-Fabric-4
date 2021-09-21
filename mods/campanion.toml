@@ -1,0 +1,14 @@
+name = "Campanion"
+filename = "campanion-2.0.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3461/158/campanion-2.0.0-beta.1.jar"
+hash-format = "murmur2"
+hash = "2349448584"
+
+[update]
+[update.curseforge]
+file-id = 3461158
+project-id = 373138
+release-channel = "beta"

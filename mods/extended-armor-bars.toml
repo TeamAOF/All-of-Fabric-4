@@ -1,0 +1,14 @@
+name = "[Fabric] Extended Armor Bars"
+filename = "extended-armor-bars-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/191/extended-armor-bars-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2023842925"
+
+[update]
+[update.curseforge]
+file-id = 3432191
+project-id = 515818
+release-channel = "beta"

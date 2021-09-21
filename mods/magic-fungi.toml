@@ -1,0 +1,14 @@
+name = "Magic Fungi"
+filename = "magicfungi-0.4.1-BETA+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3467/554/magicfungi-0.4.1-BETA+1.17.1.jar"
+hash-format = "murmur2"
+hash = "1240225330"
+
+[update]
+[update.curseforge]
+file-id = 3467554
+project-id = 506412
+release-channel = "beta"

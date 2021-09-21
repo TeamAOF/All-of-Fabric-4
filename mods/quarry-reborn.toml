@@ -1,0 +1,14 @@
+name = "Quarry Reborn"
+filename = "quarry-reborn-1.17-0.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3464/462/quarry-reborn-1.17-0.4.3.jar"
+hash-format = "murmur2"
+hash = "2376420535"
+
+[update]
+[update.curseforge]
+file-id = 3464462
+project-id = 511254
+release-channel = "beta"

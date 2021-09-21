@@ -1,0 +1,14 @@
+name = "Air Strafing Attribute"
+filename = "air-strafing-attribute-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3461/776/air-strafing-attribute-1.1.jar"
+hash-format = "murmur2"
+hash = "43526303"
+
+[update]
+[update.curseforge]
+file-id = 3461776
+project-id = 527987
+release-channel = "beta"
