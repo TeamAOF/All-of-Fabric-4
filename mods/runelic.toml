@@ -1,0 +1,14 @@
+name = "Runelic"
+filename = "Runelic-fabric-1.17.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/991/Runelic-fabric-1.17.1-3.0.1.jar"
+hash-format = "murmur2"
+hash = "1806209017"
+
+[update]
+[update.curseforge]
+file-id = 3400991
+project-id = 393149
+release-channel = "beta"

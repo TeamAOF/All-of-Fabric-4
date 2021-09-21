@@ -1,0 +1,14 @@
+name = "Nyf's Quivers"
+filename = "nyfsquivers-Fabric-0.2.6-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3399/26/nyfsquivers-Fabric-0.2.6-1.17.jar"
+hash-format = "murmur2"
+hash = "3082070640"
+
+[update]
+[update.curseforge]
+file-id = 3399026
+project-id = 482731
+release-channel = "beta"

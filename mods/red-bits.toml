@@ -1,0 +1,14 @@
+name = "Red Bits"
+filename = "red-bits-1.10.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/209/red-bits-1.10.0.jar"
+hash-format = "murmur2"
+hash = "2221234233"
+
+[update]
+[update.curseforge]
+file-id = 3402209
+project-id = 403914
+release-channel = "beta"

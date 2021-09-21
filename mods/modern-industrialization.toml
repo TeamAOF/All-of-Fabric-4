@@ -1,0 +1,14 @@
+name = "Modern Industrialization"
+filename = "Modern-Industrialization-0.5.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/578/Modern-Industrialization-0.5.8.jar"
+hash-format = "murmur2"
+hash = "3677388552"
+
+[update]
+[update.curseforge]
+file-id = 3420578
+project-id = 405388
+release-channel = "beta"

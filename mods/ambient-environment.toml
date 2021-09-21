@@ -1,0 +1,14 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-fabric-1.17.1-6.0.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3407/959/AmbientEnvironment-fabric-1.17.1-6.0.21.jar"
+hash-format = "murmur2"
+hash = "2037278051"
+
+[update]
+[update.curseforge]
+file-id = 3407959
+project-id = 320163
+release-channel = "beta"

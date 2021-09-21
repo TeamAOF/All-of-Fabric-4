@@ -1,0 +1,14 @@
+name = "Controlling for Fabric"
+filename = "Controlling-For-Fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3331/405/Controlling-For-Fabric-1.2.0.jar"
+hash-format = "murmur2"
+hash = "1912147842"
+
+[update]
+[update.curseforge]
+file-id = 3331405
+project-id = 308841
+release-channel = "beta"

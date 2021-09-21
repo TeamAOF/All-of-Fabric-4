@@ -1,0 +1,14 @@
+name = "Addendum (Fabric)"
+filename = "addendum-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/658/addendum-1.0.2.jar"
+hash-format = "murmur2"
+hash = "888564161"
+
+[update]
+[update.curseforge]
+file-id = 3345658
+project-id = 435744
+release-channel = "beta"

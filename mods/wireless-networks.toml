@@ -1,0 +1,14 @@
+name = "Wireless Networks"
+filename = "wirelessnetworks-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3382/566/wirelessnetworks-1.1.2.jar"
+hash-format = "murmur2"
+hash = "645140640"
+
+[update]
+[update.curseforge]
+file-id = 3382566
+project-id = 461316
+release-channel = "beta"

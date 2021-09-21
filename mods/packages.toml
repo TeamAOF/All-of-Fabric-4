@@ -1,0 +1,14 @@
+name = "Packages"
+filename = "packages-1.17.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3389/396/packages-1.17.1-1.2.1.jar"
+hash-format = "murmur2"
+hash = "2549062165"
+
+[update]
+[update.curseforge]
+file-id = 3389396
+project-id = 383733
+release-channel = "beta"

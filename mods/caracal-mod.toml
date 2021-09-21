@@ -1,0 +1,14 @@
+name = "Caracal Mod"
+filename = "caracalmob-1.17-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3396/179/caracalmob-1.17-1.2.2.jar"
+hash-format = "murmur2"
+hash = "556067690"
+
+[update]
+[update.curseforge]
+file-id = 3396179
+project-id = 486505
+release-channel = "beta"

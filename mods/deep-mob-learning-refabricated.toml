@@ -1,0 +1,14 @@
+name = "Deep Mob Learning: Refabricated"
+filename = "deepmoblearning-refabricated-0.4.4-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3398/554/deepmoblearning-refabricated-0.4.4-beta.jar"
+hash-format = "murmur2"
+hash = "160559712"
+
+[update]
+[update.curseforge]
+file-id = 3398554
+project-id = 398614
+release-channel = "beta"

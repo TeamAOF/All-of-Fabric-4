@@ -1,0 +1,14 @@
+name = "No Angled Brackets"
+filename = "NoAngleBrackets-1.17-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/395/NoAngleBrackets-1.17-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2295259180"
+
+[update]
+[update.curseforge]
+file-id = 3329395
+project-id = 435141
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Kibe Utilities"
+filename = "kibe-1.8-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/714/kibe-1.8-BETA+1.17.jar"
+hash-format = "murmur2"
+hash = "3637863963"
+
+[update]
+[update.curseforge]
+file-id = 3386714
+project-id = 388832
+release-channel = "beta"

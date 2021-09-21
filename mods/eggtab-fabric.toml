@@ -1,0 +1,14 @@
+name = "Egg Tab - Fabric"
+filename = "eggtab-2.1.0+1.16-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3158/251/eggtab-2.1.0+1.16-fabric.jar"
+hash-format = "murmur2"
+hash = "75852237"
+
+[update]
+[update.curseforge]
+file-id = 3158251
+project-id = 360449
+release-channel = "beta"

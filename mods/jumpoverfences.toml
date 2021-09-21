@@ -1,0 +1,14 @@
+name = "JumpOverFences"
+filename = "jumpoverfences-1.16-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2992/917/jumpoverfences-1.16-0.0.3.jar"
+hash-format = "murmur2"
+hash = "1666886765"
+
+[update]
+[update.curseforge]
+file-id = 2992917
+project-id = 353641
+release-channel = "beta"

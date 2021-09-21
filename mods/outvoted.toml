@@ -1,0 +1,14 @@
+name = "Outvoted"
+filename = "outvoted-2.0.0-alpha.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3413/370/outvoted-2.0.0-alpha.11-fabric.jar"
+hash-format = "murmur2"
+hash = "106295521"
+
+[update]
+[update.curseforge]
+file-id = 3413370
+project-id = 415057
+release-channel = "beta"

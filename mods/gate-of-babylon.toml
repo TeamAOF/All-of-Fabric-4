@@ -1,0 +1,14 @@
+name = "Gate of Babylon"
+filename = "gate-of-babylon-1.5.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3352/501/gate-of-babylon-1.5.0-1.17.jar"
+hash-format = "murmur2"
+hash = "2738427231"
+
+[update]
+[update.curseforge]
+file-id = 3352501
+project-id = 407500
+release-channel = "beta"

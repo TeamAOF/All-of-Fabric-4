@@ -1,0 +1,14 @@
+name = "Woods and Mires"
+filename = "WoodsAndMires-1.1.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3349/227/WoodsAndMires-1.1.0+1.17.jar"
+hash-format = "murmur2"
+hash = "683201700"
+
+[update]
+[update.curseforge]
+file-id = 3349227
+project-id = 391737
+release-channel = "beta"

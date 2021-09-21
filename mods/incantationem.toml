@@ -1,0 +1,14 @@
+name = "Incantationem"
+filename = "incantationem-1.1.2+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3415/84/incantationem-1.1.2+1.17.1.jar"
+hash-format = "murmur2"
+hash = "946480177"
+
+[update]
+[update.curseforge]
+file-id = 3415084
+project-id = 483166
+release-channel = "beta"

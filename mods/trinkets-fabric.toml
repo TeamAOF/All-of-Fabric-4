@@ -1,0 +1,14 @@
+name = "Trinkets (Fabric)"
+filename = "trinkets-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/660/trinkets-3.0.2.jar"
+hash-format = "murmur2"
+hash = "3982010175"
+
+[update]
+[update.curseforge]
+file-id = 3390660
+project-id = 341284
+release-channel = "beta"

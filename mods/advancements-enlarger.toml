@@ -1,0 +1,14 @@
+name = "Advancements Enlarger"
+filename = "advancements-enlarger-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/360/advancements-enlarger-0.2.4.jar"
+hash-format = "murmur2"
+hash = "482232745"
+
+[update]
+[update.curseforge]
+file-id = 3329360
+project-id = 355583
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Vanilla Excavators"
+filename = "vanillaexcavators-2.2.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3368/397/vanillaexcavators-2.2.0-1.17.jar"
+hash-format = "murmur2"
+hash = "329115089"
+
+[update]
+[update.curseforge]
+file-id = 3368397
+project-id = 341772
+release-channel = "beta"

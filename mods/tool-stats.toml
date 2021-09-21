@@ -1,0 +1,14 @@
+name = "Tool Stats"
+filename = "ToolStats-fabric-1.17.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3401/2/ToolStats-fabric-1.17.1-2.0.1.jar"
+hash-format = "murmur2"
+hash = "3658433051"
+
+[update]
+[update.curseforge]
+file-id = 3401002
+project-id = 377109
+release-channel = "beta"

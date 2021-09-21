@@ -1,0 +1,14 @@
+name = "Golems Galore"
+filename = "golemsgalore-1.0.2+mc.1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/668/golemsgalore-1.0.2+mc.1.17.jar"
+hash-format = "murmur2"
+hash = "367242599"
+
+[update]
+[update.curseforge]
+file-id = 3345668
+project-id = 387197
+release-channel = "beta"

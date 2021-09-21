@@ -1,0 +1,14 @@
+name = "Charmonium"
+filename = "charmonium-fabric-1.17-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/114/charmonium-fabric-1.17-3.3.0.jar"
+hash-format = "murmur2"
+hash = "3726804958"
+
+[update]
+[update.curseforge]
+file-id = 3379114
+project-id = 378696
+release-channel = "beta"

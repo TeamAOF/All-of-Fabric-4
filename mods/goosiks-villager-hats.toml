@@ -1,0 +1,14 @@
+name = "Goosik's Villager Hats"
+filename = "goosiks-villager-hats-mc1.17-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3385/237/goosiks-villager-hats-mc1.17-1.2.0.jar"
+hash-format = "murmur2"
+hash = "105765211"
+
+[update]
+[update.curseforge]
+file-id = 3385237
+project-id = 501456
+release-channel = "beta"

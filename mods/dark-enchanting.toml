@@ -1,0 +1,14 @@
+name = "Dark Enchanting"
+filename = "dark-enchanting-0.4.1-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3389/862/dark-enchanting-0.4.1-1.17.1.jar"
+hash-format = "murmur2"
+hash = "535571675"
+
+[update]
+[update.curseforge]
+file-id = 3389862
+project-id = 473553
+release-channel = "beta"

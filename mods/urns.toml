@@ -1,0 +1,14 @@
+name = "Urns"
+filename = "urns-mc1.17-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/227/urns-mc1.17-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3502599445"
+
+[update]
+[update.curseforge]
+file-id = 3390227
+project-id = 491911
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Auth Me"
+filename = "authme-1.17-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/35/authme-1.17-1.5.0.jar"
+hash-format = "murmur2"
+hash = "507516564"
+
+[update]
+[update.curseforge]
+file-id = 3345035
+project-id = 356643
+release-channel = "beta"

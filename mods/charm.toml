@@ -1,0 +1,14 @@
+name = "Charm"
+filename = "charm-fabric-1.17-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/290/charm-fabric-1.17-3.3.2.jar"
+hash-format = "murmur2"
+hash = "3571657685"
+
+[update]
+[update.curseforge]
+file-id = 3393290
+project-id = 318872
+release-channel = "beta"

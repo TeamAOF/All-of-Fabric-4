@@ -1,0 +1,14 @@
+name = "BetterF3"
+filename = "betterf3-1.1.5+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/660/betterf3-1.1.5+1.17.jar"
+hash-format = "murmur2"
+hash = "1122561644"
+
+[update]
+[update.curseforge]
+file-id = 3347660
+project-id = 401648
+release-channel = "beta"

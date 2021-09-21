@@ -1,0 +1,14 @@
+name = "Artifality"
+filename = "artifality-mc1.17.1-0.3.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3387/77/artifality-mc1.17.1-0.3.3-beta.jar"
+hash-format = "murmur2"
+hash = "777379823"
+
+[update]
+[update.curseforge]
+file-id = 3387077
+project-id = 490812
+release-channel = "beta"

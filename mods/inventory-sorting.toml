@@ -1,0 +1,14 @@
+name = "Inventory Sorting"
+filename = "InventorySorter-1.7.9-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/25/InventorySorter-1.7.9-1.17.jar"
+hash-format = "murmur2"
+hash = "111526896"
+
+[update]
+[update.curseforge]
+file-id = 3351025
+project-id = 325471
+release-channel = "beta"

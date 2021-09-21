@@ -1,0 +1,14 @@
+name = "Builtin Servers"
+filename = "builtin-servers-1.0.1-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3342/144/builtin-servers-1.0.1-BETA+1.17.jar"
+hash-format = "murmur2"
+hash = "2705986642"
+
+[update]
+[update.curseforge]
+file-id = 3342144
+project-id = 473131
+release-channel = "beta"

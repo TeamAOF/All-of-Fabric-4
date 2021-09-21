@@ -1,0 +1,14 @@
+name = "BLAST 💣"
+filename = "blast-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/557/blast-1.7.jar"
+hash-format = "murmur2"
+hash = "503974461"
+
+[update]
+[update.curseforge]
+file-id = 3392557
+project-id = 349938
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Simple Discord RPC [Forge/Fabric]"
+filename = "simple-rpc-1.17-2.3.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/551/simple-rpc-1.17-2.3.1-fabric.jar"
+hash-format = "murmur2"
+hash = "655054836"
+
+[update]
+[update.curseforge]
+file-id = 3420551
+project-id = 411816
+release-channel = "beta"

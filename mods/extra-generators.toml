@@ -1,0 +1,14 @@
+name = "Extra Generators"
+filename = "extra-generators-1.0.6-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3369/727/extra-generators-1.0.6-BETA+1.17.jar"
+hash-format = "murmur2"
+hash = "254070590"
+
+[update]
+[update.curseforge]
+file-id = 3369727
+project-id = 475623
+release-channel = "beta"

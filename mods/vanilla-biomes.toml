@@ -1,0 +1,14 @@
+name = "Vanilla+ Biomes"
+filename = "vanillaplusbiomes-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3355/670/vanillaplusbiomes-0.3.2.jar"
+hash-format = "murmur2"
+hash = "605176057"
+
+[update]
+[update.curseforge]
+file-id = 3355670
+project-id = 367944
+release-channel = "beta"

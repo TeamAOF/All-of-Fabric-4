@@ -1,0 +1,14 @@
+name = "Hwyla Addon Horse Info"
+filename = "hwyla-addon-horseinfo-0.3.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3367/368/hwyla-addon-horseinfo-0.3.0-1.17.jar"
+hash-format = "murmur2"
+hash = "1826185493"
+
+[update]
+[update.curseforge]
+file-id = 3367368
+project-id = 390027
+release-channel = "beta"

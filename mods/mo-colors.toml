@@ -1,0 +1,14 @@
+name = "Mo' Colors"
+filename = "mocolors-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/696/mocolors-1.2.2.jar"
+hash-format = "murmur2"
+hash = "1345743093"
+
+[update]
+[update.curseforge]
+file-id = 3390696
+project-id = 446767
+release-channel = "beta"

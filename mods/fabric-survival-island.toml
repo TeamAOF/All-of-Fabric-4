@@ -1,0 +1,14 @@
+name = "[Fabric] Survival island"
+filename = "survivalisland-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/525/survivalisland-0.1.7.jar"
+hash-format = "murmur2"
+hash = "1923798236"
+
+[update]
+[update.curseforge]
+file-id = 3344525
+project-id = 364426
+release-channel = "beta"

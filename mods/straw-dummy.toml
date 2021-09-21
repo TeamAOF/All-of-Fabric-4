@@ -1,0 +1,14 @@
+name = "Straw Dummy"
+filename = "strawdummy-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3327/328/strawdummy-1.5.0.jar"
+hash-format = "murmur2"
+hash = "611903874"
+
+[update]
+[update.curseforge]
+file-id = 3327328
+project-id = 393392
+release-channel = "beta"

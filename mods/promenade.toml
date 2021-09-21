@@ -1,0 +1,14 @@
+name = "Promenade"
+filename = "promenade-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/109/promenade-2.1.2.jar"
+hash-format = "murmur2"
+hash = "1919301321"
+
+[update]
+[update.curseforge]
+file-id = 3346109
+project-id = 399648
+release-channel = "beta"

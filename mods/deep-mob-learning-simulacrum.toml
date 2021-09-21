@@ -1,0 +1,14 @@
+name = "Deep Mob Learning: Simulacrum"
+filename = "dmlSimulacrum-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/155/dmlSimulacrum-1.0.2.jar"
+hash-format = "murmur2"
+hash = "920723411"
+
+[update]
+[update.curseforge]
+file-id = 3405155
+project-id = 508931
+release-channel = "beta"

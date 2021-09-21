@@ -1,0 +1,14 @@
+name = "Ok Zoomer"
+filename = "okzoomer-5.0.0-beta.2+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/194/okzoomer-5.0.0-beta.2+1.17.jar"
+hash-format = "murmur2"
+hash = "1707929440"
+
+[update]
+[update.curseforge]
+file-id = 3360194
+project-id = 354047
+release-channel = "beta"

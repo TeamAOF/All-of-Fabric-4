@@ -1,0 +1,14 @@
+name = "Respawnable Pets"
+filename = "respawnablepets-1.17-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/360/respawnablepets-1.17-3.jar"
+hash-format = "murmur2"
+hash = "1441845367"
+
+[update]
+[update.curseforge]
+file-id = 3405360
+project-id = 319582
+release-channel = "beta"

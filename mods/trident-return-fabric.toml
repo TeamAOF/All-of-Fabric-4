@@ -1,0 +1,14 @@
+name = "Trident Return Fabric"
+filename = "trident_return-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/579/trident_return-1.2.4.jar"
+hash-format = "murmur2"
+hash = "3226793629"
+
+[update]
+[update.curseforge]
+file-id = 3381579
+project-id = 490459
+release-channel = "beta"

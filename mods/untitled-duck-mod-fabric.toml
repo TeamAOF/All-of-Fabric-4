@@ -1,0 +1,14 @@
+name = "Untitled Duck Mod (Fabric)"
+filename = "untitledduckmod-0.3.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3377/486/untitledduckmod-0.3.0-fabric.jar"
+hash-format = "murmur2"
+hash = "3829347245"
+
+[update]
+[update.curseforge]
+file-id = 3377486
+project-id = 451766
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Terrarian Slimes"
+filename = "terrarian-slimes-1.1-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3358/234/terrarian-slimes-1.1-BETA+1.17.jar"
+hash-format = "murmur2"
+hash = "1133554501"
+
+[update]
+[update.curseforge]
+file-id = 3358234
+project-id = 465336
+release-channel = "beta"

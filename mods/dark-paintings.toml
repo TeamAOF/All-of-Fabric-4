@@ -1,0 +1,14 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-fabric-1.17.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/950/DarkPaintings-fabric-1.17.1-4.0.2.jar"
+hash-format = "murmur2"
+hash = "398046733"
+
+[update]
+[update.curseforge]
+file-id = 3400950
+project-id = 377281
+release-channel = "beta"

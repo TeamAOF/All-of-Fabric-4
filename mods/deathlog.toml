@@ -1,0 +1,14 @@
+name = "DeathLog"
+filename = "deathlog-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/740/deathlog-0.1.3.jar"
+hash-format = "murmur2"
+hash = "2379082500"
+
+[update]
+[update.curseforge]
+file-id = 3381740
+project-id = 496150
+release-channel = "beta"

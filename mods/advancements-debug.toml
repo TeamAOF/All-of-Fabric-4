@@ -1,0 +1,14 @@
+name = "Advancements Debug"
+filename = "advdebug-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/570/advdebug-2.3.0.jar"
+hash-format = "murmur2"
+hash = "4236943057"
+
+[update]
+[update.curseforge]
+file-id = 3345570
+project-id = 422316
+release-channel = "beta"

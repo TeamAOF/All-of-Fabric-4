@@ -1,0 +1,14 @@
+name = "Quick Shulker"
+filename = "quickshulker-1.2.2-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3403/771/quickshulker-1.2.2-1.17.jar"
+hash-format = "murmur2"
+hash = "2657789208"
+
+[update]
+[update.curseforge]
+file-id = 3403771
+project-id = 362669
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Harvest Scythes"
+filename = "wraith-harvestscythes-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/526/wraith-harvestscythes-2.0.5.jar"
+hash-format = "murmur2"
+hash = "2832646669"
+
+[update]
+[update.curseforge]
+file-id = 3350526
+project-id = 412225
+release-channel = "beta"

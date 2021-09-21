@@ -1,0 +1,14 @@
+name = "Textile Backup"
+filename = "textile_backup-2.2.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3412/941/textile_backup-2.2.0-1.17.jar"
+hash-format = "murmur2"
+hash = "2462042665"
+
+[update]
+[update.curseforge]
+file-id = 3412941
+project-id = 359893
+release-channel = "beta"

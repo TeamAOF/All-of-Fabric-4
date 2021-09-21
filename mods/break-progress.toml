@@ -1,0 +1,14 @@
+name = "Break Progress"
+filename = "breakprogress-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3133/167/breakprogress-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2469200469"
+
+[update]
+[update.curseforge]
+file-id = 3133167
+project-id = 416406
+release-channel = "beta"

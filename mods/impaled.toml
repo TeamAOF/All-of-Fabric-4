@@ -1,0 +1,14 @@
+name = "Impaled 🔱"
+filename = "impaled-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3356/470/impaled-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3234133462"
+
+[update]
+[update.curseforge]
+file-id = 3356470
+project-id = 478843
+release-channel = "beta"

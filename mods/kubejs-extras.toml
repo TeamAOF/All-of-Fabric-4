@@ -1,0 +1,14 @@
+name = "KubeJS Extras"
+filename = "kjsextras-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/130/kjsextras-1.3.2.jar"
+hash-format = "murmur2"
+hash = "1747718110"
+
+[update]
+[update.curseforge]
+file-id = 3393130
+project-id = 504045
+release-channel = "beta"
