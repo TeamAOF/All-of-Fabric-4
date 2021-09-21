@@ -1,14 +1,14 @@
 name = "Inmis"
-filename = "inmis-2.3.1-1.17.jar"
+filename = "inmis-2.3.2-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3352/302/inmis-2.3.1-1.17.jar"
+url = "https://edge.forgecdn.net/files/3452/481/inmis-2.3.2-1.17.1.jar"
 hash-format = "murmur2"
-hash = "938380938"
+hash = "4068688851"
 
 [update]
 [update.curseforge]
-file-id = 3352302
+file-id = 3452481
 project-id = 369254
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Entity Banners"
-filename = "entity-banners-1.0.1-BETA+1.17.jar"
+filename = "entity-banners-1.0.2-BETA+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3339/416/entity-banners-1.0.1-BETA+1.17.jar"
+url = "https://edge.forgecdn.net/files/3424/737/entity-banners-1.0.2-BETA+1.17.jar"
 hash-format = "murmur2"
-hash = "1897637380"
+hash = "3741491633"
 
 [update]
 [update.curseforge]
-file-id = 3339416
+file-id = 3424737
 project-id = 470149
 release-channel = "beta"

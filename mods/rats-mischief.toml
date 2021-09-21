@@ -1,14 +1,14 @@
 name = "Rat's Mischief 🐀"
-filename = "ratsmischief-1.2.jar"
+filename = "ratsmischief-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3392/759/ratsmischief-1.2.jar"
+url = "https://edge.forgecdn.net/files/3432/795/ratsmischief-1.2.2.jar"
 hash-format = "murmur2"
-hash = "929011344"
+hash = "698077754"
 
 [update]
 [update.curseforge]
-file-id = 3392759
+file-id = 3432795
 project-id = 431787
 release-channel = "beta"

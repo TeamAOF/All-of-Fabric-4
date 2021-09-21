@@ -1,14 +1,14 @@
 name = "Golems Galore"
-filename = "golemsgalore-1.0.2+mc.1.17.jar"
+filename = "golemsgalore-1.0.3-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3345/668/golemsgalore-1.0.2+mc.1.17.jar"
+url = "https://edge.forgecdn.net/files/3452/515/golemsgalore-1.0.3-1.17.1.jar"
 hash-format = "murmur2"
-hash = "367242599"
+hash = "1273580156"
 
 [update]
 [update.curseforge]
-file-id = 3345668
+file-id = 3452515
 project-id = 387197
 release-channel = "beta"

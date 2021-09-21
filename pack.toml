@@ -3,7 +3,7 @@ name = "All of Fabric 4"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0d12d153552623edc5479140d6749ca25ef8c83d4faa251f3c953abc7b7e8766"
+hash = "a7eccf229f5d3bff692d62f9495e854eab00b0ebde7727e8305b2379610e1483"
 
 [versions]
 fabric = "0.11.6"

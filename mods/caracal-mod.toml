@@ -1,14 +1,14 @@
 name = "Caracal Mod"
-filename = "caracalmob-1.17-1.2.2.jar"
+filename = "caracal-1.17-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3396/179/caracalmob-1.17-1.2.2.jar"
+url = "https://edge.forgecdn.net/files/3459/451/caracal-1.17-1.3.2.jar"
 hash-format = "murmur2"
-hash = "556067690"
+hash = "3985257370"
 
 [update]
 [update.curseforge]
-file-id = 3396179
+file-id = 3459451
 project-id = 486505
 release-channel = "beta"

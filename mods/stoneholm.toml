@@ -1,14 +1,14 @@
 name = "Stoneholm, Underground Villages (Fabric)"
-filename = "stoneholm-1.2.7.jar"
+filename = "stoneholm-1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3354/993/stoneholm-1.2.7.jar"
+url = "https://edge.forgecdn.net/files/3368/677/stoneholm-1.3.jar"
 hash-format = "murmur2"
-hash = "1786043562"
+hash = "1918439362"
 
 [update]
 [update.curseforge]
-file-id = 3354993
+file-id = 3368677
 project-id = 460336
 release-channel = "beta"

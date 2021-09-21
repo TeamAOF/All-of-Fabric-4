@@ -1,14 +1,14 @@
 name = "Adorn"
-filename = "Adorn-2.1.3+1.17.1-fabric.jar"
+filename = "Adorn-2.1.5+1.17.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3401/804/Adorn-2.1.3+1.17.1-fabric.jar"
+url = "https://edge.forgecdn.net/files/3460/564/Adorn-2.1.5+1.17.1-fabric.jar"
 hash-format = "murmur2"
-hash = "1504356504"
+hash = "2715662726"
 
 [update]
 [update.curseforge]
-file-id = 3401804
+file-id = 3460564
 project-id = 320215
 release-channel = "beta"

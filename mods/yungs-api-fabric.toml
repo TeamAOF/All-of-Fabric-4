@@ -1,14 +1,14 @@
 name = "YUNG's API (Fabric)"
-filename = "YungsApi-1.17-Fabric-15.jar"
+filename = "YungsApi-1.17-Fabric-16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3418/763/YungsApi-1.17-Fabric-15.jar"
+url = "https://edge.forgecdn.net/files/3433/783/YungsApi-1.17-Fabric-16.jar"
 hash-format = "murmur2"
-hash = "958621514"
+hash = "3889764201"
 
 [update]
 [update.curseforge]
-file-id = 3418763
+file-id = 3433783
 project-id = 421649
 release-channel = "beta"

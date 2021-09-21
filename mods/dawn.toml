@@ -1,14 +1,14 @@
 name = "Dawn API"
-filename = "dawn-2.0.5.jar"
+filename = "dawn-2.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3403/968/dawn-2.0.5.jar"
+url = "https://edge.forgecdn.net/files/3438/648/dawn-2.0.6.jar"
 hash-format = "murmur2"
-hash = "499728772"
+hash = "276235526"
 
 [update]
 [update.curseforge]
-file-id = 3403968
+file-id = 3438648
 project-id = 399309
 release-channel = "beta"

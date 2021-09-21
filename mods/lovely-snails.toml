@@ -1,14 +1,14 @@
 name = "Lovely Snails"
-filename = "lovely_snails-1.0.2+1.17.jar"
+filename = "lovely_snails-1.0.3+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3383/517/lovely_snails-1.0.2+1.17.jar"
+url = "https://edge.forgecdn.net/files/3422/183/lovely_snails-1.0.3+1.17.jar"
 hash-format = "murmur2"
-hash = "1407440847"
+hash = "2870741047"
 
 [update]
 [update.curseforge]
-file-id = 3383517
+file-id = 3422183
 project-id = 499425
 release-channel = "beta"
