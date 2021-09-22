@@ -1,0 +1,14 @@
+name = "Go Fish"
+filename = "go-fish-1.3.0-beta-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/653/go-fish-1.3.0-beta-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2332480926"
+
+[update]
+[update.curseforge]
+file-id = 3452653
+project-id = 431135
+release-channel = "beta"
