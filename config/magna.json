@@ -6,5 +6,5 @@
   "disableExtendedHitboxWhileSneaking": true,
   "breakSingleBlockWhenSneaking": true,
   "individualBlockOutlines": false,
-  "autoPickup": false
+  "autoPickup": true
 }
