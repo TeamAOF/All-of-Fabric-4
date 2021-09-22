@@ -1,0 +1,14 @@
+name = "The Guild"
+filename = "guild-fabric-0.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3468/293/guild-fabric-0.0.8.jar"
+hash-format = "murmur2"
+hash = "151411531"
+
+[update]
+[update.curseforge]
+file-id = 3468293
+project-id = 526011
+release-channel = "beta"
