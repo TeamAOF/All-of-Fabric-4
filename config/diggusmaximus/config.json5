@@ -28,5 +28,9 @@
 	// Multiply exhaustion when excavating
 	"exhaustionMultiplier": 64.0,
 	// Other items to be considered tools ie: "minecraft:stick"
-	"tools": []
+	"tools": [
+		"indrev:mining_drill_mk3",
+		"indrev:mining_drill_mk2",
+		"indrev:mining_drill_mk1"
+	]
 }
