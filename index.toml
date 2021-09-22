@@ -30,7 +30,7 @@ hash = "a92bc49113bcc13724f2bad20d2945a265fe1572ecaaf8a9cc076123467d8e3e"
 
 [[files]]
 file = "config/arcanus.json5"
-hash = "41536bfaf9b21162725bf15ab1dfc3c49bd4dd5160c81634ed826099ed47f3b0"
+hash = "93354e71482a91e1984e5a1406751981ff2c5539344fa2afb2af0cdf4ca09116"
 
 [[files]]
 file = "config/attribute_fix.json5"
@@ -146,7 +146,7 @@ hash = "38db636ce3e9402fcf945a3add96e80ca66684f8cdcfbbc736381b578eea7953"
 
 [[files]]
 file = "config/charm.toml"
-hash = "fd549ccaf948d55c42416770617ade1ce886c4f9ad848c120e4b0f73e5765730"
+hash = "a750d92447240294581d3a0d55dbb46059bd3108fabf165ed2e2c6056d8ae5ba"
 
 [[files]]
 file = "config/charmonium.toml"
@@ -162,7 +162,7 @@ hash = "5c83681e5d01caa53264799e06e0dab7e499d3a9af31bd37769868693fbc075a"
 
 [[files]]
 file = "config/conjuring.json5"
-hash = "daa1603375e6d8cc6a4c7d046430c6240ba351cabbb3784d162aa94809f05fa3"
+hash = "42241dbb4b481df9fe9c0520321d8bbd045cd3fc1dc4e749d903efaec4c311be"
 
 [[files]]
 file = "config/couplings.toml"
@@ -214,7 +214,7 @@ hash = "13982b3ee1ec645f79f5eac8476c14c9fa09c88ab4b2eb3285dbe2b642fe11ad"
 
 [[files]]
 file = "config/diggusmaximus/config.json5"
-hash = "b0d6394675cc12a0774d1847c7d188e92bac56595d9b7acd5f78ef7845126fe2"
+hash = "797c97e69c2c82f2d8a328bcc22c75e236cb0a49e86af86acca0296da91f91ce"
 
 [[files]]
 file = "config/diggusmaximus/grouping.json5"
@@ -314,7 +314,7 @@ hash = "4f2c605520efc615aed26e1b96dc86407db914e052ae58d47d78fc21db01f7f8"
 
 [[files]]
 file = "config/inventorysorter/config.json5"
-hash = "fe89d10ba846a3b02a5142b8692cdc654d638ddb57d7dd339b1304e1c8010a9b"
+hash = "6ad781ebcdad977be0af121ebc206801f42efc1fe7b891551ff84fc86d8969c5"
 
 [[files]]
 file = "config/iris.properties"
@@ -350,7 +350,7 @@ hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/magna.json"
-hash = "cb718db36998fed85d8a76db3c78d8de6d29cede78021225dc864e24028f3e91"
+hash = "bb34496365965c0afeb4e4012536037967415df0dee7cf51a0a9305debf45e25"
 
 [[files]]
 file = "config/modern_industrialization.toml"
@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "ccda6921293da55577e327bde48395f17b1d9161c3530d4e6a90092ea5e860a8"
+hash = "24948e256886df1a7d9f85d5ec91d64bb56460ed619009a6b7370ebc284c0a9e"
 metafile = true
 
 [[files]]
