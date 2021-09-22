@@ -3,8 +3,10 @@ name = "All of Fabric 4"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2cd1dbc958ed73598d1f09228f838b962d8454609f4e111b7899b85859db030d"
 
 [versions]
 fabric = "0.11.6"
 minecraft = "1.17.1"
+
+[options]
+no-internal-hashes = "true"

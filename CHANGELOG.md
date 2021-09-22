@@ -19,6 +19,7 @@
 - Fixed multiple broken recipes in Better End.
 
 **Added**
+- 3D Skin Layers
 - Additional Additions
 - Advancement Plaques
 - Arcanus
@@ -28,12 +29,16 @@
 - Bountiful
 - Campanion
 - Chipped
+- Colorful Subtitles
+- Columns
 - Cosmetic Armor
 - Extended Armor Bars
 - Firework Frenzy
 - Flonters
+- Go Fish
 - Kambrik
 - Magic Fungi
+- Mod Menu
 - More Axolotl Variants Mod
 - Miner's Horizon
 - Mythic Mounts
@@ -93,6 +98,7 @@
 - Rat's Mischief 🐀: ratsmischief-1.2.jar -> ratsmischief-1.2.2.jar
 - Reborn Core: RebornCore-5.0.5-beta+build.85.jar -> RebornCore-5.0.8-beta+build.111.jar
 - Repurposed Structures (Fabric): repurposed_structures_fabric-2.2.0+1.17.1.jar -> repurposed_structures_fabric-2.3.3+1.17.1.jar
+- Rhino: rhino-1605.1.2-build.40.jar -> rhino-fabric-1605.1.4-build.59.jar
 - Roughly Enough Items Fabric (REI): RoughlyEnoughItems-6.0.264-alpha-fabric.jar -> RoughlyEnoughItems-6.0.279-alpha-fabric.jar
 - Simple Discord RPC [Forge/Fabric]: simple-rpc-1.17-2.3.1-fabric.jar -> simple-rpc-1.17-2.4-fabric.jar
 - Smoother Bedrock: smootherbedrock-1.0.1.jar -> smootherbedrock-1.0.2.jar
