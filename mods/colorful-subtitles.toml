@@ -1,0 +1,14 @@
+name = "Colorful Subtitles"
+filename = "colorfulsubtitles-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/901/colorfulsubtitles-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2852424990"
+
+[update]
+[update.curseforge]
+file-id = 3420901
+project-id = 514041
+release-channel = "beta"
