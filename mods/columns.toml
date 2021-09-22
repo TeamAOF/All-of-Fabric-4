@@ -1,0 +1,14 @@
+name = "Columns"
+filename = "columns-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3467/926/columns-1.2.0.jar"
+hash-format = "murmur2"
+hash = "2264830184"
+
+[update]
+[update.curseforge]
+file-id = 3467926
+project-id = 385230
+release-channel = "beta"
