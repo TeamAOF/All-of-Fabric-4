@@ -4,9 +4,9 @@
 	// Middle click slot to sort inventorys
 	"middleClick": true,
 	// Double click slot to sort inventorys
-	"doubleClickSort": true,
+	"doubleClickSort": false,
 	// Enable second 'Sort' button in player inv
-	"seperateBtn": true,
+	"seperateBtn": false,
 	// Sorting inv also sorts player inv
 	"sortPlayer": false,
 	// Method of sorting, NAME,CATEGORY,MOD
