@@ -9,7 +9,7 @@
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = true
 #Unlocks all vanilla recipes.
-"AutomaticRecipeUnlock Enabled" = true
+"AutomaticRecipeUnlock Enabled" = false
 #Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
 "AzaleaWood Enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
@@ -156,7 +156,7 @@
 #Tamed animals do not take direct damage from players.
 "TamedAnimalsNoDamage Enabled" = true
 #Items will be held in the Totem of Preserving if you die.
-"TotemOfPreserving Enabled" = true
+"TotemOfPreserving Enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
