@@ -44,6 +44,7 @@
 - Mythic Mounts
 - Quarry Reborn
 - The Graveyard
+- The Guild
 - Grim's Transportables
 - Vanilla Degus
 - ZIH Launchpads
