@@ -1143,6 +1143,10 @@ file = "mods/slight-gui-modifications.toml"
 metafile = true
 
 [[files]]
+file = "mods/slotlink.toml"
+metafile = true
+
+[[files]]
 file = "mods/slotlock.toml"
 metafile = true
 

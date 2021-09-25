@@ -1,14 +1,14 @@
 name = "Air Strafing Attribute"
-filename = "air-strafing-attribute-1.1.jar"
+filename = "air-strafing-attribute-1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3461/776/air-strafing-attribute-1.1.jar"
+url = "https://edge.forgecdn.net/files/3468/493/air-strafing-attribute-1.2.jar"
 hash-format = "murmur2"
-hash = "43526303"
+hash = "243437156"
 
 [update]
 [update.curseforge]
-file-id = 3461776
+file-id = 3468493
 project-id = 527987
 release-channel = "beta"

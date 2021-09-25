@@ -43,6 +43,7 @@
 - Miner's Horizon
 - Mythic Mounts
 - Quarry Reborn
+- Slotlink
 - The Graveyard
 - The Guild
 - Grim's Transportables
