@@ -1,0 +1,14 @@
+name = "SlimyFloor"
+filename = "slimyfloor-1.17.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3421/3/slimyfloor-1.17.1-1.2.0.jar"
+hash-format = "murmur2"
+hash = "3138801247"
+
+[update]
+[update.curseforge]
+file-id = 3421003
+project-id = 456996
+release-channel = "beta"

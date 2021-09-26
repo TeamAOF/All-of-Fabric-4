@@ -1,0 +1,14 @@
+name = "MixinTrace"
+filename = "mixintrace-1.1.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/465/mixintrace-1.1.0+1.17.jar"
+hash-format = "murmur2"
+hash = "4119643624"
+
+[update]
+[update.curseforge]
+file-id = 3348465
+project-id = 433447
+release-channel = "beta"

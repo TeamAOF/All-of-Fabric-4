@@ -1,0 +1,14 @@
+name = "Attach leads to logs"
+filename = "attachleadstologs-1.0.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/780/attachleadstologs-1.0.0-1.17.1.jar"
+hash-format = "murmur2"
+hash = "1289163522"
+
+[update]
+[update.curseforge]
+file-id = 3391780
+project-id = 452814
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Starlight (Fabric)"
+filename = "starlight-1.0.0+fabric.73f6d37.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/770/starlight-1.0.0+fabric.73f6d37.jar"
+hash-format = "murmur2"
+hash = "2912240587"
+
+[update]
+[update.curseforge]
+file-id = 3442770
+project-id = 521783
+release-channel = "beta"

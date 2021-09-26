@@ -1,0 +1,14 @@
+name = "BadStdOut"
+filename = "badstdout-1.1.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/123/badstdout-1.1.0-1.17.jar"
+hash-format = "murmur2"
+hash = "1288855666"
+
+[update]
+[update.curseforge]
+file-id = 3424123
+project-id = 511672
+release-channel = "beta"

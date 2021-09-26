@@ -1,0 +1,14 @@
+name = "Inv View"
+filename = "InvView-1.4.6-1.17.1+.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/467/InvView-1.4.6-1.17.1+.jar"
+hash-format = "murmur2"
+hash = "886605357"
+
+[update]
+[update.curseforge]
+file-id = 3423467
+project-id = 405159
+release-channel = "beta"

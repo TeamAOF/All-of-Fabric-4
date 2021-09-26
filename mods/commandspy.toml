@@ -1,0 +1,14 @@
+name = "CommandSpy"
+filename = "commandspy-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3430/722/commandspy-1.2.3.jar"
+hash-format = "murmur2"
+hash = "154181950"
+
+[update]
+[update.curseforge]
+file-id = 3430722
+project-id = 366500
+release-channel = "beta"

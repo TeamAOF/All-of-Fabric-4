@@ -1,0 +1,14 @@
+name = "BlockBot"
+filename = "blockbot-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/154/blockbot-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2640370498"
+
+[update]
+[update.curseforge]
+file-id = 3344154
+project-id = 482904
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Server Tick"
+filename = "servertick-mc1.17-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/950/servertick-mc1.17-1.5.jar"
+hash-format = "murmur2"
+hash = "3973965882"
+
+[update]
+[update.curseforge]
+file-id = 3343950
+project-id = 402240
+release-channel = "beta"

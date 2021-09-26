@@ -1,0 +1,14 @@
+name = "Open Loader"
+filename = "OpenLoader-fabric-1.17.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/977/OpenLoader-fabric-1.17.1-3.0.1.jar"
+hash-format = "murmur2"
+hash = "1247260011"
+
+[update]
+[update.curseforge]
+file-id = 3400977
+project-id = 354339
+release-channel = "beta"

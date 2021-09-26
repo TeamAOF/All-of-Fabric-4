@@ -1,0 +1,14 @@
+name = "TickTools"
+filename = "ticktools-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3470/431/ticktools-1.1.0.jar"
+hash-format = "murmur2"
+hash = "4126808907"
+
+[update]
+[update.curseforge]
+file-id = 3470431
+project-id = 496418
+release-channel = "beta"

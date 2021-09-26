@@ -1,0 +1,14 @@
+name = "Essential Commands"
+filename = "essential_commands-0.16.2-mc1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/263/essential_commands-0.16.2-mc1.17.1.jar"
+hash-format = "murmur2"
+hash = "3588530791"
+
+[update]
+[update.curseforge]
+file-id = 3472263
+project-id = 475964
+release-channel = "beta"

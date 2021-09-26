@@ -1,0 +1,14 @@
+name = "Fabric per player spawns"
+filename = "fabric-per-player-spawns-1.17-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/415/fabric-per-player-spawns-1.17-2.0.0.jar"
+hash-format = "murmur2"
+hash = "2088258891"
+
+[update]
+[update.curseforge]
+file-id = 3347415
+project-id = 473051
+release-channel = "beta"

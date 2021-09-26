@@ -1,0 +1,14 @@
+name = "Fish on a Leash!"
+filename = "fishonaleash-Fabric-1.17-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/660/fishonaleash-Fabric-1.17-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2768443314"
+
+[update]
+[update.curseforge]
+file-id = 3346660
+project-id = 409397
+release-channel = "beta"

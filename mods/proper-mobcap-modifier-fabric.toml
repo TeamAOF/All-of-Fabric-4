@@ -1,0 +1,14 @@
+name = "Proper Mobcap Modifier Fabric"
+filename = "proper-mobcap-modifier-3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3377/767/proper-mobcap-modifier-3.0.jar"
+hash-format = "murmur2"
+hash = "3859156576"
+
+[update]
+[update.curseforge]
+file-id = 3377767
+project-id = 453519
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Styled Player List"
+filename = "styledplayerlist-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3359/896/styledplayerlist-2.1.0.jar"
+hash-format = "murmur2"
+hash = "229624071"
+
+[update]
+[update.curseforge]
+file-id = 3359896
+project-id = 442282
+release-channel = "beta"

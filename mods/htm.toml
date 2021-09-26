@@ -1,0 +1,14 @@
+name = "Hey That's Mine"
+filename = "htm-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/653/htm-1.1.3.jar"
+hash-format = "murmur2"
+hash = "3472523376"
+
+[update]
+[update.curseforge]
+file-id = 3388653
+project-id = 462534
+release-channel = "beta"

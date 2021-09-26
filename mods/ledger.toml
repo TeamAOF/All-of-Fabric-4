@@ -1,0 +1,14 @@
+name = "Ledger"
+filename = "ledger-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3469/880/ledger-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3065182215"
+
+[update]
+[update.curseforge]
+file-id = 3469880
+project-id = 491137
+release-channel = "beta"

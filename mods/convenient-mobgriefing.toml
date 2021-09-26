@@ -1,0 +1,14 @@
+name = "Convenient mobGriefing"
+filename = "convenient-mobgriefing-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3355/80/convenient-mobgriefing-2.0.2.jar"
+hash-format = "murmur2"
+hash = "2778699411"
+
+[update]
+[update.curseforge]
+file-id = 3355080
+project-id = 374048
+release-channel = "beta"

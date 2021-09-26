@@ -1,0 +1,14 @@
+name = "Creative One-Punch"
+filename = "CreativeOnePunch-1.2-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/42/CreativeOnePunch-1.2-1.17.jar"
+hash-format = "murmur2"
+hash = "1504002636"
+
+[update]
+[update.curseforge]
+file-id = 3345042
+project-id = 444261
+release-channel = "beta"

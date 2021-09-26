@@ -1,0 +1,14 @@
+name = "Stonevaults, Dungeons & Towers"
+filename = "stonevaults-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/125/stonevaults-1.1.0.jar"
+hash-format = "murmur2"
+hash = "633520984"
+
+[update]
+[update.curseforge]
+file-id = 3394125
+project-id = 503712
+release-channel = "beta"

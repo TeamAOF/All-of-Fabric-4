@@ -1,0 +1,14 @@
+name = "Server Holograms"
+filename = "holograms-1.3.0+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/433/holograms-1.3.0+1.17.1.jar"
+hash-format = "murmur2"
+hash = "1559798342"
+
+[update]
+[update.curseforge]
+file-id = 3400433
+project-id = 494722
+release-channel = "beta"

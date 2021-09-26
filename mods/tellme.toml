@@ -1,0 +1,14 @@
+name = "TellMe"
+filename = "tellme-fabric-1.17.1-0.9.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3436/747/tellme-fabric-1.17.1-0.9.0.jar"
+hash-format = "murmur2"
+hash = "1802195105"
+
+[update]
+[update.curseforge]
+file-id = 3436747
+project-id = 225781
+release-channel = "beta"
