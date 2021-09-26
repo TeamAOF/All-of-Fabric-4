@@ -1,14 +1,14 @@
 name = "Dark Loading Screen"
-filename = "dark-loading-screen-1.6.10.jar"
+filename = "dark-loading-screen-1.6.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3461/237/dark-loading-screen-1.6.10.jar"
+url = "https://edge.forgecdn.net/files/3470/993/dark-loading-screen-1.6.11.jar"
 hash-format = "murmur2"
-hash = "4065420948"
+hash = "1112947789"
 
 [update]
 [update.curseforge]
-file-id = 3461237
+file-id = 3470993
 project-id = 365727
 release-channel = "beta"
