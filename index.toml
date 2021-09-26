@@ -611,6 +611,10 @@ file = "mods/artifality.toml"
 metafile = true
 
 [[files]]
+file = "mods/attach-leads-to-logs.toml"
+metafile = true
+
+[[files]]
 file = "mods/attribute.toml"
 metafile = true
 
@@ -620,6 +624,10 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-bucket-fix.toml"
+metafile = true
+
+[[files]]
+file = "mods/badstdout.toml"
 metafile = true
 
 [[files]]
@@ -655,7 +663,15 @@ file = "mods/bits-and-chisels.toml"
 metafile = true
 
 [[files]]
+file = "mods/blame-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/blast.toml"
+metafile = true
+
+[[files]]
+file = "mods/blockbot.toml"
 metafile = true
 
 [[files]]
@@ -664,6 +680,10 @@ metafile = true
 
 [[files]]
 file = "mods/bountiful-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/box-of-placeholders.toml"
 metafile = true
 
 [[files]]
@@ -727,6 +747,10 @@ file = "mods/columns.toml"
 metafile = true
 
 [[files]]
+file = "mods/commandspy.toml"
+metafile = true
+
+[[files]]
 file = "mods/conjuring.toml"
 metafile = true
 
@@ -735,11 +759,19 @@ file = "mods/controlling-for-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.toml"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-fabric.toml"
 metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/creative-one-punch.toml"
 metafile = true
 
 [[files]]
@@ -819,6 +851,10 @@ file = "mods/entity-banners.toml"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-fabric.toml"
 metafile = true
 
@@ -847,6 +883,10 @@ file = "mods/fabric-launchpads.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-per-player-spawns.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-survival-island.toml"
 metafile = true
 
@@ -860,6 +900,14 @@ metafile = true
 
 [[files]]
 file = "mods/firework-frenzy.toml"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-a-leash.toml"
+metafile = true
+
+[[files]]
+file = "mods/flan.toml"
 metafile = true
 
 [[files]]
@@ -915,6 +963,10 @@ file = "mods/horsestatsvanilla.toml"
 metafile = true
 
 [[files]]
+file = "mods/htm.toml"
+metafile = true
+
+[[files]]
 file = "mods/hwyla-addon-horse-info.toml"
 metafile = true
 
@@ -936,6 +988,14 @@ metafile = true
 
 [[files]]
 file = "mods/inmis.toml"
+metafile = true
+
+[[files]]
+file = "mods/interdimensional.toml"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.toml"
 metafile = true
 
 [[files]]
@@ -971,6 +1031,14 @@ file = "mods/lazydfu.toml"
 metafile = true
 
 [[files]]
+file = "mods/ledger.toml"
+metafile = true
+
+[[files]]
+file = "mods/lengthy-ladders.toml"
+metafile = true
+
+[[files]]
 file = "mods/lib.toml"
 metafile = true
 
@@ -980,6 +1048,10 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
+metafile = true
+
+[[files]]
+file = "mods/litematica.toml"
 metafile = true
 
 [[files]]
@@ -995,6 +1067,10 @@ file = "mods/magic-fungi.toml"
 metafile = true
 
 [[files]]
+file = "mods/malilib.toml"
+metafile = true
+
+[[files]]
 file = "mods/mavm.toml"
 metafile = true
 
@@ -1004,6 +1080,10 @@ metafile = true
 
 [[files]]
 file = "mods/miners-horizon.toml"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.toml"
 metafile = true
 
 [[files]]
@@ -1059,7 +1139,15 @@ file = "mods/nyfs-quivers.toml"
 metafile = true
 
 [[files]]
+file = "mods/observable.toml"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.toml"
 metafile = true
 
 [[files]]
@@ -1075,11 +1163,19 @@ file = "mods/patchouli-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/player-roles-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/pling.toml"
 metafile = true
 
 [[files]]
 file = "mods/promenade.toml"
+metafile = true
+
+[[files]]
+file = "mods/proper-mobcap-modifier-fabric.toml"
 metafile = true
 
 [[files]]
@@ -1096,6 +1192,10 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
 metafile = true
 
 [[files]]
@@ -1123,11 +1223,23 @@ file = "mods/roughly-enough-items.toml"
 metafile = true
 
 [[files]]
+file = "mods/rpgstats.toml"
+metafile = true
+
+[[files]]
 file = "mods/runelic.toml"
 metafile = true
 
 [[files]]
 file = "mods/secret-rooms-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/server-holograms.toml"
+metafile = true
+
+[[files]]
+file = "mods/servertick.toml"
 metafile = true
 
 [[files]]
@@ -1143,6 +1255,10 @@ file = "mods/slight-gui-modifications.toml"
 metafile = true
 
 [[files]]
+file = "mods/slimyfloor.toml"
+metafile = true
+
+[[files]]
 file = "mods/slotlink.toml"
 metafile = true
 
@@ -1155,7 +1271,15 @@ file = "mods/smoother-bedrock.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+metafile = true
+
+[[files]]
 file = "mods/staff-of-building.toml"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
 metafile = true
 
 [[files]]
@@ -1163,11 +1287,27 @@ file = "mods/stoneholm.toml"
 metafile = true
 
 [[files]]
+file = "mods/stonevaults-dungeons-towers.toml"
+metafile = true
+
+[[files]]
 file = "mods/straw-dummy.toml"
 metafile = true
 
 [[files]]
+file = "mods/styled-player-list.toml"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.toml"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.toml"
+metafile = true
+
+[[files]]
+file = "mods/tellme.toml"
 metafile = true
 
 [[files]]
@@ -1180,6 +1320,10 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/ticktools.toml"
 metafile = true
 
 [[files]]
@@ -1252,6 +1396,10 @@ metafile = true
 
 [[files]]
 file = "mods/woods-and-mires.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
 metafile = true
 
 [[files]]
