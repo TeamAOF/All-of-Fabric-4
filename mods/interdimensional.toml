@@ -1,14 +1,14 @@
 name = "Interdimensional"
-filename = "interdimensional-1.0.0.jar"
+filename = "interdimensional-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3448/226/interdimensional-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3472/649/interdimensional-1.0.1.jar"
 hash-format = "murmur2"
-hash = "326702726"
+hash = "179552774"
 
 [update]
 [update.curseforge]
-file-id = 3448226
+file-id = 3472649
 project-id = 522143
 release-channel = "beta"
