@@ -1043,6 +1043,10 @@ file = "mods/natures-compass.toml"
 metafile = true
 
 [[files]]
+file = "mods/ninjaphenixs-container-library.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-angled-brackets.toml"
 metafile = true
 
