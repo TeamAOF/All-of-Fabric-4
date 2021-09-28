@@ -1,14 +1,14 @@
 name = "[Fabric] Expanded Storage"
-filename = "expandedstorage-7.2.1+1.17.1.jar"
+filename = "expandedstorage-7.2.2+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3473/206/expandedstorage-7.2.1+1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3474/888/expandedstorage-7.2.2+1.17.1.jar"
 hash-format = "murmur2"
-hash = "2129977858"
+hash = "3078172844"
 
 [update]
 [update.curseforge]
-file-id = 3473206
+file-id = 3474888
 project-id = 317856
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "ToolTipFix"
-filename = "tooltipfix-1.0.3-1.17.jar"
+filename = "tooltipfix-1.0.3-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3353/265/tooltipfix-1.0.3-1.17.jar"
+url = "https://edge.forgecdn.net/files/3475/192/tooltipfix-1.0.3-1.17.1.jar"
 hash-format = "murmur2"
-hash = "147834442"
+hash = "3342208489"
 
 [update]
 [update.curseforge]
-file-id = 3353265
+file-id = 3475192
 project-id = 411557
 release-channel = "beta"
