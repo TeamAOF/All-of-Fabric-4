@@ -1,14 +1,14 @@
 name = "Kibe Utilities"
-filename = "kibe-1.9.1-BETA+1.17.jar"
+filename = "kibe-1.9.2-BETA+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3467/426/kibe-1.9.1-BETA+1.17.jar"
+url = "https://edge.forgecdn.net/files/3476/349/kibe-1.9.2-BETA+1.17.jar"
 hash-format = "murmur2"
-hash = "2644728259"
+hash = "3767150133"
 
 [update]
 [update.curseforge]
-file-id = 3467426
+file-id = 3476349
 project-id = 388832
 release-channel = "beta"

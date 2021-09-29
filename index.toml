@@ -919,6 +919,10 @@ file = "mods/hwyla-addon-horse-info.toml"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.toml"
+metafile = true
+
+[[files]]
 file = "mods/impaled.toml"
 metafile = true
 

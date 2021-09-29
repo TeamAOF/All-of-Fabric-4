@@ -1,14 +1,14 @@
 name = "YUNG's Better Dungeons (Fabric)"
-filename = "BetterDungeons-Fabric-1.17-1.0.1.jar"
+filename = "BetterDungeons-Fabric-1.17-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3455/978/BetterDungeons-Fabric-1.17-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3476/131/BetterDungeons-Fabric-1.17-1.0.2.jar"
 hash-format = "murmur2"
-hash = "2140505830"
+hash = "668598800"
 
 [update]
 [update.curseforge]
-file-id = 3455978
+file-id = 3476131
 project-id = 525586
 release-channel = "beta"

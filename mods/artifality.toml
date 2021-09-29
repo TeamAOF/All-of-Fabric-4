@@ -1,14 +1,14 @@
 name = "Artifality"
-filename = "artifality-mc1.17.1-0.3.5.jar"
+filename = "artifality-mc1.17.1-0.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3448/249/artifality-mc1.17.1-0.3.5.jar"
+url = "https://edge.forgecdn.net/files/3475/922/artifality-mc1.17.1-0.4.0.jar"
 hash-format = "murmur2"
-hash = "2116892081"
+hash = "1581664084"
 
 [update]
 [update.curseforge]
-file-id = 3448249
+file-id = 3475922
 project-id = 490812
 release-channel = "beta"
