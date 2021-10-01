@@ -1,0 +1,14 @@
+name = "I Know What I'm Doing (IKWID)"
+filename = "IKnowWhatImDoing-3.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/670/IKnowWhatImDoing-3.1.0-fabric.jar"
+hash-format = "murmur2"
+hash = "3322335787"
+
+[update]
+[update.curseforge]
+file-id = 3395670
+project-id = 271492
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Fabric Waystones"
-filename = "wraith-waystones-2.0.4.jar"
+filename = "wraith-waystones-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3436/790/wraith-waystones-2.0.4.jar"
+url = "https://edge.forgecdn.net/files/3475/330/wraith-waystones-2.1.1.jar"
 hash-format = "murmur2"
-hash = "2659629012"
+hash = "2195234341"
 
 [update]
 [update.curseforge]
-file-id = 3436790
+file-id = 3475330
 project-id = 410902
 release-channel = "beta"
