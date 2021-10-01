@@ -1,14 +1,14 @@
 name = "The Guild"
-filename = "guild-fabric-0.1.0.jar"
+filename = "guild-fabric-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3475/826/guild-fabric-0.1.0.jar"
+url = "https://edge.forgecdn.net/files/3477/510/guild-fabric-0.1.1.jar"
 hash-format = "murmur2"
-hash = "1975143637"
+hash = "3979479622"
 
 [update]
 [update.curseforge]
-file-id = 3475826
+file-id = 3477510
 project-id = 526011
 release-channel = "beta"
