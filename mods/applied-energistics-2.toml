@@ -1,0 +1,14 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-9.0.0-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3480/91/appliedenergistics2-9.0.0-alpha.1.jar"
+hash-format = "murmur2"
+hash = "956653346"
+
+[update]
+[update.curseforge]
+file-id = 3480091
+project-id = 223794
+release-channel = "beta"
