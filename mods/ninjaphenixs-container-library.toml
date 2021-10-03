@@ -1,14 +1,14 @@
 name = "NinjaPhenix's Container Library"
-filename = "ninjaphenix-container-library-1.2.0+1.17.1.jar"
+filename = "ninjaphenix-container-library-1.2.1+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3477/997/ninjaphenix-container-library-1.2.0+1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3479/348/ninjaphenix-container-library-1.2.1+1.17.1.jar"
 hash-format = "murmur2"
-hash = "2478034290"
+hash = "720186191"
 
 [update]
 [update.curseforge]
-file-id = 3477997
+file-id = 3479348
 project-id = 530668
 release-channel = "beta"
