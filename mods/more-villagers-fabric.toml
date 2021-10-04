@@ -1,14 +1,14 @@
 name = "More Villagers [Fabric]"
-filename = "morevillagers-FABRIC-1.17-2.1.0.jar"
+filename = "morevillagers-FABRIC-1.17-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3451/430/morevillagers-FABRIC-1.17-2.1.0.jar"
+url = "https://edge.forgecdn.net/files/3480/631/morevillagers-FABRIC-1.17-2.1.1.jar"
 hash-format = "murmur2"
-hash = "2687107392"
+hash = "2049449688"
 
 [update]
 [update.curseforge]
-file-id = 3451430
+file-id = 3480631
 project-id = 486080
 release-channel = "beta"
