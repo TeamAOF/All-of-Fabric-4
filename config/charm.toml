@@ -409,7 +409,7 @@
 	#If true, barrels with custom names will be displayed.
 	"Show barrel labels" = true
 	#If true, chests with custom names will be displayed.
-	"Show chest labels" = true
+	"Show chest labels" = false
 	#Maximum squared distance at which label will be shown. Lower = player closer, Higher = player further.
 	"View distance" = 10
 
