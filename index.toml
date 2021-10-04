@@ -991,6 +991,10 @@ file = "mods/light-overlay.toml"
 metafile = true
 
 [[files]]
+file = "mods/lightest-lamps-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 metafile = true
 
