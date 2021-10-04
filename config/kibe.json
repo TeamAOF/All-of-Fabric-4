@@ -2,7 +2,9 @@
   "miscellaneousModule": {
     "tanksChangeLights": true,
     "cursedDirtMobCap": 25,
-    "cursedDirtBlacklist": []
+    "cursedDirtBlacklist": [
+	"outvoted:wildfire"
+	]
   },
   "chunkLoaderModule": {
     "checkForPlayer": false,
