@@ -1,14 +1,14 @@
 name = "Vanilla Degus"
-filename = "vanilla_degus-1.17.1-v1.2.1-fabric.jar"
+filename = "vanilla_degus-1.17.1-v1.2.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3476/276/vanilla_degus-1.17.1-v1.2.1-fabric.jar"
+url = "https://edge.forgecdn.net/files/3479/911/vanilla_degus-1.17.1-v1.2.2-fabric.jar"
 hash-format = "murmur2"
-hash = "1862650870"
+hash = "4267067712"
 
 [update]
 [update.curseforge]
-file-id = 3476276
+file-id = 3479911
 project-id = 463073
 release-channel = "beta"

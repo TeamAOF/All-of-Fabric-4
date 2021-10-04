@@ -599,6 +599,10 @@ file = "mods/appleskin.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.toml"
+metafile = true
+
+[[files]]
 file = "mods/arcanus.toml"
 metafile = true
 
@@ -1052,6 +1056,10 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
+metafile = true
+
+[[files]]
+file = "mods/lightest-lamps-fabric.toml"
 metafile = true
 
 [[files]]

@@ -54,7 +54,7 @@ const UNIFICATION_ORDER = [
     "indrev",
     "techreborn",
     "charm",
-    "workings"
+    "appliedenergistics2"
 ];
 // List of tags NOT to unify
 const UNIFICATION_BLACKLIST = [
