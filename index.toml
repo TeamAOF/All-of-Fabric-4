@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cf_export.bat"
+
+[[files]]
 file = "config/Adorn.json5"
 
 [[files]]
@@ -470,6 +473,9 @@ file = "config/xaeroworldmap.txt"
 
 [[files]]
 file = "config/yosbr/options.txt"
+
+[[files]]
+file = "detect_mods.bat"
 
 [[files]]
 file = "kubejs/README.txt"
