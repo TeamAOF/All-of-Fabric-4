@@ -505,6 +505,12 @@ file = "kubejs/assets/dankstorage/textures/block/dank_6.png"
 file = "kubejs/assets/dankstorage/textures/block/dank_7.png"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/models/armor/glitch_layer_1.png"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/models/armor/glitch_layer_2.png"
+
+[[files]]
 file = "kubejs/client_scripts/rei_unification.js"
 
 [[files]]
