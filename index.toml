@@ -623,6 +623,10 @@ file = "mods/architectury-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/artifality.toml"
 metafile = true
 
@@ -1016,6 +1020,10 @@ metafile = true
 
 [[files]]
 file = "mods/magic-fungi.toml"
+metafile = true
+
+[[files]]
+file = "mods/magitek-mechs.toml"
 metafile = true
 
 [[files]]
