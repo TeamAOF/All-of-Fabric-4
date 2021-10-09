@@ -1,0 +1,14 @@
+name = "Explorer's Delight"
+filename = "explorers-delight-1.0.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3485/606/explorers-delight-1.0.0-beta.1.jar"
+hash-format = "murmur2"
+hash = "1338544251"
+
+[update]
+[update.curseforge]
+file-id = 3485606
+project-id = 532078
+release-channel = "beta"
