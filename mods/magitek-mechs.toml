@@ -1,14 +1,14 @@
 name = "Magitek Mechs"
-filename = "magitekmechs-fabric-MC1.17-1.0.1.jar"
+filename = "magitekmechs-fabric-MC1.17-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3482/440/magitekmechs-fabric-MC1.17-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3486/347/magitekmechs-fabric-MC1.17-1.0.3.jar"
 hash-format = "murmur2"
-hash = "1781372381"
+hash = "1740303659"
 
 [update]
 [update.curseforge]
-file-id = 3482440
+file-id = 3486347
 project-id = 534029
 release-channel = "beta"
