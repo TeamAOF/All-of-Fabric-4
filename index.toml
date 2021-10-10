@@ -705,6 +705,10 @@ file = "mods/carrier.toml"
 metafile = true
 
 [[files]]
+file = "mods/chalk-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/charm.toml"
 metafile = true
 
