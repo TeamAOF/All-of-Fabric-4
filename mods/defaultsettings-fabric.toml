@@ -1,14 +1,14 @@
 name = "DefaultSettings Fabric"
-filename = "DefaultSettings-1.17.x-3.0.4.jar"
+filename = "DefaultSettings-1.17.x-3.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3462/130/DefaultSettings-1.17.x-3.0.4.jar"
+url = "https://edge.forgecdn.net/files/3486/783/DefaultSettings-1.17.x-3.1.0.jar"
 hash-format = "murmur2"
-hash = "1340916728"
+hash = "2703325438"
 
 [update]
 [update.curseforge]
-file-id = 3462130
+file-id = 3486783
 project-id = 451860
 release-channel = "beta"
