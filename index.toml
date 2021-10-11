@@ -22,6 +22,12 @@ file = "config/alaskanativecraft.json"
 file = "config/appleskin.json5"
 
 [[files]]
+file = "config/appliedenergistics2/client.json"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+
+[[files]]
 file = "config/arcanus.json5"
 
 [[files]]
@@ -624,10 +630,6 @@ file = "mods/artifacts-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/artifality.toml"
-metafile = true
-
-[[files]]
 file = "mods/attribute.toml"
 metafile = true
 
@@ -657,10 +659,6 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.toml"
 metafile = true
 
 [[files]]
@@ -1181,10 +1179,6 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-metafile = true
-
-[[files]]
-file = "mods/slotlink.toml"
 metafile = true
 
 [[files]]
