@@ -158,7 +158,7 @@
 #Items will be held in the Totem of Preserving if you die.
 "TotemOfPreserving Enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
-"UseTotemFromInventory Enabled" = false
+"UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
 "VariantBarrels Enabled" = true
 #Variant bars crafted from vanilla metal ingots.
