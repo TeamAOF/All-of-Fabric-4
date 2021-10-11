@@ -1,5 +1,7 @@
 <h1>1.0.0</h1>
 
+<h2>A world reset is highly recommended with this release!</h2>
+
 **Changes**
 - Moved to new fluid/item api, this means much better compat between tech mods and aswell kibe.
 - Data required for each tier in DML has been altered to higher amounts.
