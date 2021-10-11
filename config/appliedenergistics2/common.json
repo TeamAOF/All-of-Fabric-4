@@ -1,0 +1,123 @@
+{
+  "general": {
+    "__comment": "Enables the ability of Tiny TNT to break blocks.",
+    "removeCrashingItemsOnLoad": false,
+    "unsupportedDeveloperTools": false,
+    "matterCannonBlockDamage": true,
+    "tinyTntBlockDamage": true
+  },
+  "automation": {
+    "formationPlaneEntityLimit": 128
+  },
+  "facades": {
+    "__comment": "Unsupported: Allows whitelisting block entities as facades. Could work, have render issues, or corrupt your world. USE AT YOUR OWN RISK.",
+    "allowBlockEntities": false
+  },
+  "craftingCPU": {
+    "craftingCalculationTimePerTick": 5
+  },
+  "crafting": {
+    "__comment": "Enable the recipes for disassembling storage cells and crafting units.",
+    "inWorldSingularity": true,
+    "inWorldFluix": true,
+    "inWorldPurification": true,
+    "disassemblyCrafting": true
+  },
+  "spatialio": {
+    "spatialPowerMultiplier": 1250.0,
+    "spatialPowerExponent": 1.35
+  },
+  "logging": {
+    "securityAuditLog": false,
+    "blockUpdateLog": false,
+    "packetLog": false,
+    "craftingLog": false,
+    "debugLog": false,
+    "__comment": "Enable stack trace logging for the chunk loading debug command",
+    "chunkLoggerTrace": false
+  },
+  "battery": {
+    "wirelessTerminal": 1600000,
+    "chargedStaff": 8000,
+    "entropyManipulator": 200000,
+    "portableCell": 20000,
+    "colorApplicator": 20000,
+    "matterCannon": 200000
+  },
+  "worldGen": {
+    "spawnChargedChance": 0.08,
+    "generateMeteorites": true,
+    "__comment": "Biome IDs in which quartz ores should NOT be generated (i.e. minecraft:plains).",
+    "meteoriteBiomeBlacklist": [
+    "minershorizon:mining_biome"
+    ],
+    "spawnPressesInMeteorites": true,
+    "generateQuartzOre": true,
+    "quartzOresPerCluster": 4,
+    "quartzOresClusterAmount": 20,
+    "quartzOresBiomeBlacklist": []
+  },
+  "wireless": {
+    "wirelessBaseCost": 8.0,
+    "wirelessCostMultiplier": 1.0,
+    "wirelessBaseRange": 16.0,
+    "wirelessBoosterRangeMultiplier": 1.0,
+    "wirelessBoosterExp": 1.5,
+    "wirelessHighWirelessCount": 64.0,
+    "wirelessTerminalDrainMultiplier": 1.0
+  },
+  "PowerRatios": {
+    "TechReborn": 2.0,
+    "UsageMultiplier": 1.0
+  },
+  "Integration": {
+    "__comment": "The maximum amount of TechReborn energy units that can be transfered per operation.",
+    "MaxTechRebornEnergyPerTransaction": 10000.0
+  },
+  "Condenser": {
+    "MatterBalls": 256,
+    "Singularity": 256000
+  },
+  "tickRates": {
+    "__comment": " Min / Max Tickrates for dynamic ticking, most of these components also use sleeping, to prevent constant ticking, adjust with care, non standard rates are not supported or tested.",
+    "InterfaceMin": 5,
+    "InterfaceMax": 120,
+    "ImportBusMin": 5,
+    "ImportBusMax": 40,
+    "FluidImportBusMin": 5,
+    "FluidImportBusMax": 40,
+    "ExportBusMin": 5,
+    "ExportBusMax": 60,
+    "FluidExportBusMin": 5,
+    "FluidExportBusMax": 60,
+    "AnnihilationPlaneMin": 2,
+    "AnnihilationPlaneMax": 120,
+    "METunnelMin": 5,
+    "METunnelMax": 20,
+    "InscriberMin": 1,
+    "InscriberMax": 1,
+    "ChargerMin": 10,
+    "ChargerMax": 120,
+    "IOPortMin": 1,
+    "IOPortMax": 5,
+    "VibrationChamberMin": 10,
+    "VibrationChamberMax": 40,
+    "ItemStorageBusMin": 5,
+    "ItemStorageBusMax": 60,
+    "FluidStorageBusMin": 5,
+    "FluidStorageBusMax": 60,
+    "ItemTunnelMin": 5,
+    "ItemTunnelMax": 60,
+    "LightTunnelMin": 5,
+    "LightTunnelMax": 60,
+    "OpenComputersTunnelMin": 1,
+    "OpenComputersTunnelMax": 5,
+    "PressureTunnelMin": 1,
+    "PressureTunnelMax": 120
+  },
+  "inWorldPurification": {
+    "__comment": "The speed multiplier to use when the crystals are submerged in the improved fluid.",
+    "improvedFluidTag": "",
+    "improvedFluidMultiplier": 2.0
+  }
+}
