@@ -158,7 +158,7 @@
 #Items will be held in the Totem of Preserving if you die.
 "TotemOfPreserving Enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
-"UseTotemFromInventory Enabled" = true
+"UseTotemFromInventory Enabled" = false
 #Barrels available in all types of vanilla wood.
 "VariantBarrels Enabled" = true
 #Variant bars crafted from vanilla metal ingots.
@@ -287,7 +287,7 @@
 
 [ExtraRecipes]
 	#If true, adds a blast furnace recipe for smelting raw ore blocks into ore blocks.
-	"Ore block from raw ore block" = true
+	"Ore block from raw ore block" = false
 	#If true, adds a recipe for Gilded Blackstone using gold nuggets and blackstone.
 	"Gilded Blackstone" = true
 	#If true, adds a recipe for the Trident using prismarine shards and crystals.
