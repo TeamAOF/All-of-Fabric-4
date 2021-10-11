@@ -265,6 +265,9 @@ file = "config/lithium.properties"
 file = "config/magna.json"
 
 [[files]]
+file = "config/minershorizon.json"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 
 [[files]]
