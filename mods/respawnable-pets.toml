@@ -1,14 +1,14 @@
 name = "Respawnable Pets"
-filename = "respawnablepets-1.17-3.jar"
+filename = "respawnablepets-1.17-5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3405/360/respawnablepets-1.17-3.jar"
+url = "https://edge.forgecdn.net/files/3489/972/respawnablepets-1.17-5.jar"
 hash-format = "murmur2"
-hash = "1441845367"
+hash = "4248493617"
 
 [update]
 [update.curseforge]
-file-id = 3405360
+file-id = 3489972
 project-id = 319582
 release-channel = "beta"

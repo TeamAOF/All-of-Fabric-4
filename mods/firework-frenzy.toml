@@ -1,14 +1,14 @@
 name = "Firework Frenzy"
-filename = "fireworkfrenzy-1.5.jar"
+filename = "fireworkfrenzy-1.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3468/496/fireworkfrenzy-1.5.jar"
+url = "https://edge.forgecdn.net/files/3488/198/fireworkfrenzy-1.6.jar"
 hash-format = "murmur2"
-hash = "3811969731"
+hash = "2994316299"
 
 [update]
 [update.curseforge]
-file-id = 3468496
+file-id = 3488198
 project-id = 520310
 release-channel = "beta"

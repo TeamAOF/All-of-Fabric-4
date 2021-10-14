@@ -1,14 +1,14 @@
 name = "Arcanus"
-filename = "arcanus-1.16.jar"
+filename = "arcanus-1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3475/199/arcanus-1.16.jar"
+url = "https://edge.forgecdn.net/files/3488/199/arcanus-1.17.jar"
 hash-format = "murmur2"
-hash = "2125213624"
+hash = "951186252"
 
 [update]
 [update.curseforge]
-file-id = 3475199
+file-id = 3488199
 project-id = 517833
 release-channel = "beta"
