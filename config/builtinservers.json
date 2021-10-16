@@ -1,16 +1,12 @@
 {
   "builtinServers": [
   	{
-      "name": "EU Server for Testing 1.0.0",
+      "name": "EU Server",
       "address": "aof4eu.alloffabric.com"
     },
     {
-      "name": "NA West Server - Still Old Version",
+      "name": "NA West Server",
       "address": "nw.alloffabric.com"
-    },
-	{
-      "name": "NA East Server - Not Yet Setup",
-      "address": "aof4na.alloffabric.com"
     }
   ]
 }
