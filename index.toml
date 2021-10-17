@@ -1098,6 +1098,10 @@ file = "mods/outvoted.toml"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+metafile = true
+
+[[files]]
 file = "mods/packages.toml"
 metafile = true
 
