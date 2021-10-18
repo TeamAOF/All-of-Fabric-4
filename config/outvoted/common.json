@@ -34,7 +34,7 @@
     },
     "barnacle": {
       "spawn": true,
-      "rate": 2,
+      "rate": 10,
       "biomes": [
         "minecraft:deep_warm_ocean",
         "minecraft:deep_ocean",
@@ -45,7 +45,7 @@
     },
     "meerkat": {
       "spawn": true,
-      "burrowRate": 40,
+      "burrowRate": 128,
       "biomes": [
         "#desert"
       ],
@@ -53,7 +53,7 @@
     },
     "ostrich": {
       "spawn": true,
-      "rate": 2,
+      "rate": 5,
       "biomes": [
         "#savanna"
       ],
@@ -67,6 +67,6 @@
   },
   "misc": {
     "helmetPenalty": 40,
-    "givePatchouliBookOnLogin": true
+    "givePatchouliBookOnLogin": false
   }
 }
