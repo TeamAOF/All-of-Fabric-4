@@ -13,6 +13,12 @@ file = "config/AqMods/grizzly.config"
 file = "config/Lakeside.properties"
 
 [[files]]
+file = "config/MythicMounts.txt"
+
+[[files]]
+file = "config/additional-additions-config.json"
+
+[[files]]
 file = "config/advancementplaques.json5"
 
 [[files]]
@@ -28,10 +34,16 @@ file = "config/appliedenergistics2/client.json"
 file = "config/appliedenergistics2/common.json"
 
 [[files]]
-file = "config/appliedenergistics2/common.json.bak"
+file = "config/arcanus.json5"
 
 [[files]]
-file = "config/arcanus.json5"
+file = "config/arcanus.json5.bak"
+
+[[files]]
+file = "config/artifacts/general.toml"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
 
 [[files]]
 file = "config/attribute_fix.json5"
@@ -115,6 +127,12 @@ file = "config/bountiful/bountiful.json"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/builtinservers.json.bak"
+
+[[files]]
+file = "config/campanion.json"
+
+[[files]]
 file = "config/carrier.json"
 
 [[files]]
@@ -193,6 +211,9 @@ file = "config/eggtab.toml"
 file = "config/entitybanners.json"
 
 [[files]]
+file = "config/entitybanners.json.bak"
+
+[[files]]
 file = "config/expandedstorage.json"
 
 [[files]]
@@ -208,6 +229,15 @@ file = "config/fabric_loader_dependencies.json"
 file = "config/ferritecore.mixin.properties"
 
 [[files]]
+file = "config/ferritecore.mixin.properties.bak"
+
+[[files]]
+file = "config/fireworkfrenzy.json5"
+
+[[files]]
+file = "config/flonters.properties"
+
+[[files]]
 file = "config/flytre_lib.json5"
 
 [[files]]
@@ -215,6 +245,9 @@ file = "config/getoffmylawn.json5"
 
 [[files]]
 file = "config/golemsgalore.json5"
+
+[[files]]
+file = "config/guild.json5"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -268,10 +301,16 @@ file = "config/libgui.json5"
 file = "config/lifts.json"
 
 [[files]]
+file = "config/lightest-lamps.json5"
+
+[[files]]
 file = "config/lightoverlay.properties"
 
 [[files]]
 file = "config/lithium.properties"
+
+[[files]]
+file = "config/magicfungi.json"
 
 [[files]]
 file = "config/magna.json"
@@ -280,7 +319,13 @@ file = "config/magna.json"
 file = "config/minershorizon.json"
 
 [[files]]
+file = "config/minershorizon.json.bak"
+
+[[files]]
 file = "config/modern_industrialization.toml"
+
+[[files]]
+file = "config/modern_industrialization.toml.bak"
 
 [[files]]
 file = "config/modmenu.json"
@@ -331,6 +376,9 @@ file = "config/promenade/structures.json"
 file = "config/quarrymod/machines.json"
 
 [[files]]
+file = "config/quarrymod/machines.json.bak"
+
+[[files]]
 file = "config/quickshulkerconfig.json5"
 
 [[files]]
@@ -338,6 +386,9 @@ file = "config/reborncore/misc.json"
 
 [[files]]
 file = "config/redbits.json"
+
+[[files]]
+file = "config/redbits.json.bak"
 
 [[files]]
 file = "config/refinedstorage2.toml"
@@ -418,7 +469,13 @@ file = "config/survivalisland.json"
 file = "config/techreborn/generators.json"
 
 [[files]]
+file = "config/techreborn/generators.json.bak"
+
+[[files]]
 file = "config/techreborn/items.json"
+
+[[files]]
+file = "config/techreborn/items.json.bak"
 
 [[files]]
 file = "config/techreborn/machines.json"
@@ -434,6 +491,9 @@ file = "config/terrarianslimes.json"
 
 [[files]]
 file = "config/textile_backup.json5"
+
+[[files]]
+file = "config/the-graveyard-config.json5"
 
 [[files]]
 file = "config/transportables.json5"
@@ -461,6 +521,9 @@ file = "config/waila/megane.json"
 
 [[files]]
 file = "config/waila/megane_modules.json"
+
+[[files]]
+file = "config/waila/megane_modules.json.bak"
 
 [[files]]
 file = "config/waila/waila.json"
