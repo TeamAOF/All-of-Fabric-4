@@ -169,6 +169,9 @@ file = "config/diggusmaximus/blacklist.json5"
 file = "config/diggusmaximus/config.json5"
 
 [[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+
+[[files]]
 file = "config/diggusmaximus/grouping.json5"
 
 [[files]]
