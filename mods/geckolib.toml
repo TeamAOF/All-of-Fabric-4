@@ -1,14 +1,14 @@
 name = "GeckoLib"
-filename = "geckolib-fabric-1.17-3.0.16.jar"
+filename = "geckolib-fabric-1.17-3.0.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3489/641/geckolib-fabric-1.17-3.0.16.jar"
+url = "https://edge.forgecdn.net/files/3495/720/geckolib-fabric-1.17-3.0.17.jar"
 hash-format = "murmur2"
-hash = "1390428347"
+hash = "491188317"
 
 [update]
 [update.curseforge]
-file-id = 3489641
+file-id = 3495720
 project-id = 388172
 release-channel = "beta"
