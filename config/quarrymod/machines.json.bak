@@ -12,10 +12,6 @@
       "comment": "Quarry Max Energy (Value in EU)",
       "value": 100000
     },
-    "QuarryAccessibleExcavationModes": {
-      "comment": "Quarry Accessible Excavation Modes, 1 - ores only, 2 - all only, 3 - all and ores",
-      "value": 3
-    },
     "QuarrySqrWorkRadius": {
       "comment": "Quarry Sqr Work Radius, square radius of work, in blocks",
       "value": 8
@@ -31,12 +27,6 @@
     "QuarryEnergyPerExcavation": {
       "comment": "Quarry Energy Per Excavation (Value in EU)",
       "value": 6000
-    },
-    "QuarryAdditioanlBlocksToMine": {
-      "comment": "Additioanl Blocks to Mine list",
-      "value": [
-        "minecraft:ancient_debris"
-      ]
     }
   }
 }

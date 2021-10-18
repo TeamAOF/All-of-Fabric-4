@@ -37,6 +37,7 @@
     "megane-dml-simulacrum": {
       "badasintended.megane.impl.DmlSimulacrum": true
     },
+
     "megane-wireless-networks": {
       "badasintended.megane.impl.WirelessNetworks": true
     },

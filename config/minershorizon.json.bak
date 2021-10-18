@@ -9,41 +9,69 @@
   "zone2StoneDarkness": 60,
   "zone3StoneDarkness": 80,
   "worldMidHeight": 200,
-  "enableMineshafts": false,
-  "enableLakes": false,
-  "enableCaves": false,
-  "enableCanyons": false,
+  "enableMineshafts": true,
+  "enableLakes": true,
+  "enableCaves": true,
+  "enableCanyons": true,
   "oreConfigList": [
     {
       "block": "modern_industrialization:tin_ore",
       "size": 9,
       "count": 15,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
     },
     {
-      "block": "minecraft:copper_ore",
+      "block": "modern_industrialization:mozanite_ore",
       "size": 9,
       "count": 15,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
+    },
+    {
+      "block": "modern_industrialization:copper_ore",
+      "size": 9,
+      "count": 15,
+      "minY": 100,
+      "maxY": 255
     },
     {
       "block": "techreborn:galena_ore",
       "size": 8,
       "count": 15,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
+    },
+    {
+      "block": "modern_industrialization:lead_ore",
+      "size": 9,
+      "count": 10,
+      "minY": 100,
+      "maxY": 255
     },
     {
       "block": "indrev:silver_ore",
       "size": 9,
       "count": 10,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
     },
     {
-      "block": "minecraft:copper_ore",
+      "block": "modern_industrialization:bauxite_ore",
+      "size": 8,
+      "count": 12,
+      "minY": 100,
+      "maxY": 255
+    },
+    {
+      "block": "modern_industrialization:tin_ore",
+      "size": 9,
+      "count": 5,
+      "minY": 0,
+      "maxY": 100
+    },
+    {
+      "block": "modern_industrialization:copper_ore",
       "size": 9,
       "count": 5,
       "minY": 0,
@@ -57,8 +85,22 @@
       "maxY": 100
     },
     {
+      "block": "modern_industrialization:lead_ore",
+      "size": 9,
+      "count": 5,
+      "minY": 0,
+      "maxY": 100
+    },
+    {
       "block": "indrev:silver_ore",
       "size": 9,
+      "count": 5,
+      "minY": 0,
+      "maxY": 100
+    },
+    {
+      "block": "modern_industrialization:bauxite_ore",
+      "size": 8,
       "count": 5,
       "minY": 0,
       "maxY": 100
@@ -78,18 +120,25 @@
       "maxY": 100
     },
     {
+      "block": "modern_industrialization:lignite_coal_ore",
+      "size": 17,
+      "count": 30,
+      "minY": 100,
+      "maxY": 255
+    },
+    {
       "block": "minecraft:coal_ore",
       "size": 17,
-      "count": 5,
+      "count": 30,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
     },
     {
       "block": "minecraft:iron_ore",
       "size": 9,
       "count": 30,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
     },
     {
       "block": "minecraft:gold_ore",
@@ -125,6 +174,13 @@
       "count": 1,
       "minY": 100,
       "maxY": 120
+    },
+    {
+      "block": "modern_industrialization:lignite_coal_ore",
+      "size": 17,
+      "count": 5,
+      "minY": 60,
+      "maxY": 100
     },
     {
       "block": "minecraft:coal_ore",
