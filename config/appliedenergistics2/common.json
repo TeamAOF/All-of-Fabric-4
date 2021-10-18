@@ -20,7 +20,7 @@
     "__comment": "Enable the recipes for disassembling storage cells and crafting units.",
     "inWorldSingularity": true,
     "inWorldFluix": true,
-    "inWorldPurification": true,
+    "inWorldCrystalGrowth": true,
     "disassemblyCrafting": true
   },
   "spatialio": {
@@ -115,7 +115,7 @@
     "PressureTunnelMin": 1,
     "PressureTunnelMax": 120
   },
-  "inWorldPurification": {
+  "inWorldCrystalGrowth": {
     "__comment": "The speed multiplier to use when the crystals are submerged in the improved fluid.",
     "improvedFluidTag": "",
     "improvedFluidMultiplier": 2.0

@@ -34,12 +34,9 @@
     },
     "barnacle": {
       "spawn": true,
-      "rate": 10,
+      "rate": 1,
       "biomes": [
-        "minecraft:deep_warm_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:deep_lukewarm_ocean"
+        "minecraft:deep_cold_ocean"
       ],
       "health": 40.0
     },

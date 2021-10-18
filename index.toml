@@ -28,6 +28,9 @@ file = "config/appliedenergistics2/client.json"
 file = "config/appliedenergistics2/common.json"
 
 [[files]]
+file = "config/appliedenergistics2/common.json.bak"
+
+[[files]]
 file = "config/arcanus.json5"
 
 [[files]]
