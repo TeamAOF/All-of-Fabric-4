@@ -26,11 +26,11 @@
 	// Should player get exhaustion
 	"playerExhaustion": true,
 	// Multiply exhaustion when excavating
-	"exhaustionMultiplier": 64.0,
+	"exhaustionMultiplier": 256.0,
 	// Other items to be considered tools ie: "minecraft:stick"
 	"tools": [
 		"indrev:mining_drill_mk3",
-		"indrev:mining_drill_mk2",
-		"indrev:mining_drill_mk1"
+		"indrev:mining_drill_mk1",
+		"indrev:mining_drill_mk2"
 	]
 }
