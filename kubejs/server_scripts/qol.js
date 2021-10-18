@@ -4,6 +4,14 @@
 
 events.listen("recipes", function (event) {
 
+  //easier makeshift anchor
+  event.remove({ output: "goml:makeshift_claim_anchor" });
+  event.shaped(item.of("goml:makeshift_claim_anchor"), [
+    ["#minecraft:logs", "minecraft:stone", "#minecraft:logs"],
+    ["minecraft:stone", "minecraft:gold_ingot", "minecraft:stone"],
+    ["#minecraft:logs", "minecraft:stone", "#minecraft:logs"],
+  ]);	
+
   // Sticks
   event.shaped(item.of("minecraft:stick", 16), [
     ["#minecraft:logs"],
