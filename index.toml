@@ -358,9 +358,6 @@ file = "config/promenade/structures.json"
 file = "config/quarrymod/machines.json"
 
 [[files]]
-file = "config/quarrymod/machines.json.bak"
-
-[[files]]
 file = "config/quickshulkerconfig.json5"
 
 [[files]]
@@ -448,13 +445,7 @@ file = "config/survivalisland.json"
 file = "config/techreborn/generators.json"
 
 [[files]]
-file = "config/techreborn/generators.json.bak"
-
-[[files]]
 file = "config/techreborn/items.json"
-
-[[files]]
-file = "config/techreborn/items.json.bak"
 
 [[files]]
 file = "config/techreborn/machines.json"
@@ -500,9 +491,6 @@ file = "config/waila/megane.json"
 
 [[files]]
 file = "config/waila/megane_modules.json"
-
-[[files]]
-file = "config/waila/megane_modules.json.bak"
 
 [[files]]
 file = "config/waila/waila.json"

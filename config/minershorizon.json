@@ -3,93 +3,97 @@
   "zone2Start": 60,
   "zone3Start": 30,
   "zone1HardnessModifier": 3,
-  "zone2HardnessModifier": 6,
-  "zone3HardnessModifier": 10,
+  "zone2HardnessModifier": 9,
+  "zone3HardnessModifier": 27,
   "zone1StoneDarkness": 40,
   "zone2StoneDarkness": 60,
   "zone3StoneDarkness": 80,
   "worldMidHeight": 200,
-  "enableMineshafts": false,
-  "enableLakes": false,
-  "enableCaves": false,
-  "enableCanyons": false,
+  "enableMineshafts": true,
+  "enableLakes": true,
+  "enableCaves": true,
+  "enableCanyons": true,
   "oreConfigList": [
-    {
-      "block": "modern_industrialization:tin_ore",
-      "size": 9,
-      "count": 15,
-      "minY": 100,
-      "maxY": 150
-    },
-    {
-      "block": "minecraft:copper_ore",
-      "size": 9,
-      "count": 15,
-      "minY": 100,
-      "maxY": 150
-    },
-    {
-      "block": "techreborn:galena_ore",
-      "size": 8,
-      "count": 15,
-      "minY": 100,
-      "maxY": 150
-    },
-    {
-      "block": "indrev:silver_ore",
-      "size": 9,
-      "count": 10,
-      "minY": 100,
-      "maxY": 150
-    },
-    {
-      "block": "minecraft:copper_ore",
-      "size": 9,
-      "count": 5,
-      "minY": 0,
-      "maxY": 100
-    },
-    {
-      "block": "techreborn:galena_ore",
-      "size": 8,
-      "count": 5,
-      "minY": 0,
-      "maxY": 100
-    },
-    {
-      "block": "indrev:silver_ore",
-      "size": 9,
-      "count": 5,
-      "minY": 0,
-      "maxY": 100
-    },
-    {
-      "block": "techreborn:ruby_ore",
-      "size": 8,
-      "count": 4,
-      "minY": 0,
-      "maxY": 100
-    },
-    {
-      "block": "techreborn:sapphire_ore",
-      "size": 8,
-      "count": 4,
-      "minY": 0,
-      "maxY": 100
-    },
+    {"block": "indrev:silver_ore","size": 9,"count": 10,"minY": 100,"maxY": 255},
+    {"block": "indrev:silver_ore","size": 9,"count": 10,"minY": 60,"maxY": 100},
+    {"block": "indrev:silver_ore","size": 9,"count": 10,"minY": 30,"maxY": 60},
+
+    {"block": "techreborn:galena_ore","size": 8,"count": 15,"minY": 100,"maxY": 255},
+    {"block": "techreborn:galena_ore","size": 8,"count": 15,"minY": 60,"maxY": 100},
+
+    {"block": "techreborn:ruby_ore","size": 8,"count": 4,"minY": 60,"maxY": 100},
+    {"block": "techreborn:ruby_ore","size": 8,"count": 4,"minY": 30,"maxY": 60},
+
+    {"block": "techreborn:sapphire_ore","size": 8,"count": 4,"minY": 60,"maxY": 100},
+    {"block": "techreborn:sapphire_ore","size": 8,"count": 4,"minY": 30,"maxY": 60},
+
+    {"block": "modern_industrialization:lignite_coal_ore","size": 17,"count": 30,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:lignite_coal_ore","size": 17,"count": 5,"minY": 60,"maxY": 100},
+
+    {"block": "modern_industrialization:lead_ore","size": 9,"count": 30,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:lead_ore","size": 9,"count": 5,"minY": 60,"maxY": 100},
+
+    {"block": "modern_industrialization:tin_ore","size": 10,"count": 6,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:tin_ore","size": 10,"count": 6,"minY": 60,"maxY": 100},
+    {"block": "modern_industrialization:tin_ore","size": 10,"count": 3,"minY": 30,"maxY": 60},
+
+    {"block": "modern_industrialization:quartz_ore","size": 7,"count": 8,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:quartz_ore","size": 7,"count": 8,"minY": 60,"maxY": 100},
+
+    {"block": "modern_industrialization:salt_ore","size": 8,"count": 8,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:salt_ore","size": 8,"count": 8,"minY": 60,"maxY": 100},
+
+    {"block": "modern_industrialization:bauxite_ore","size": 9,"count": 8,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:bauxite_ore","size": 9,"count": 8,"minY": 60,"maxY": 100},
+    {"block": "modern_industrialization:bauxite_ore","size": 9,"count": 8,"minY": 30,"maxY": 60},
+
+    {"block": "modern_industrialization:nickel_ore","size": 9,"count": 8,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:nickel_ore","size": 9,"count": 8,"minY": 60,"maxY": 100},
+    {"block": "modern_industrialization:nickel_ore","size": 9,"count": 8,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:nickel_ore","size": 9,"count": 8,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:antimony_ore","size": 9,"count": 8,"minY": 100,"maxY": 255},
+    {"block": "modern_industrialization:antimony_ore","size": 9,"count": 8,"minY": 60,"maxY": 100},
+    {"block": "modern_industrialization:antimony_ore","size": 9,"count": 8,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:antimony_ore","size": 9,"count": 8,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:tungsten_ore","size": 9,"count": 2,"minY": 60,"maxY": 100},
+    {"block": "modern_industrialization:tungsten_ore","size": 9,"count": 4,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:tungsten_ore","size": 9,"count": 4,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:iridium_ore","size": 9,"count": 4,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:iridium_ore","size": 9,"count": 4,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:mozanite_ore","size": 6,"count": 3,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:mozanite_ore","size": 6,"count": 3,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:platinum_ore","size": 8,"count": 4,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:platinum_ore","size": 8,"count": 4,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:titanium_ore","size": 8,"count": 4,"minY": 30,"maxY": 60},
+    {"block": "modern_industrialization:titanium_ore","size": 8,"count": 4,"minY": 0,"maxY": 30},
+
+    {"block": "modern_industrialization:uranium_ore","size": 7,"count": 4,"minY": 0,"maxY": 30},
     {
       "block": "minecraft:coal_ore",
       "size": 17,
-      "count": 5,
+      "count": 30,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
+    },
+    {
+      "block": "minecraft:copper_ore",
+      "size": 10,
+      "count": 6,
+      "minY": 100,
+      "maxY": 255
     },
     {
       "block": "minecraft:iron_ore",
       "size": 9,
       "count": 30,
       "minY": 100,
-      "maxY": 150
+      "maxY": 255
     },
     {
       "block": "minecraft:gold_ore",
@@ -134,6 +138,13 @@
       "maxY": 100
     },
     {
+      "block": "minecraft:copper_ore",
+      "size": 10,
+      "count": 6,
+      "minY": 60,
+      "maxY": 100
+    },
+    {
       "block": "minecraft:iron_ore",
       "size": 9,
       "count": 5,
@@ -174,6 +185,13 @@
       "count": 2,
       "minY": 60,
       "maxY": 100
+    },
+    {
+      "block": "minecraft:copper_ore",
+      "size": 10,
+      "count": 3,
+      "minY": 30,
+      "maxY": 60
     },
     {
       "block": "minecraft:gold_ore",
