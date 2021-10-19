@@ -37,9 +37,6 @@ file = "config/appliedenergistics2/common.json"
 file = "config/arcanus.json5"
 
 [[files]]
-file = "config/arcanus.json5.bak"
-
-[[files]]
 file = "config/artifacts/general.toml"
 
 [[files]]
@@ -127,9 +124,6 @@ file = "config/bountiful/bountiful.json"
 file = "config/builtinservers.json"
 
 [[files]]
-file = "config/builtinservers.json.bak"
-
-[[files]]
 file = "config/campanion.json"
 
 [[files]]
@@ -211,9 +205,6 @@ file = "config/eggtab.toml"
 file = "config/entitybanners.json"
 
 [[files]]
-file = "config/entitybanners.json.bak"
-
-[[files]]
 file = "config/expandedstorage.json"
 
 [[files]]
@@ -227,9 +218,6 @@ file = "config/fabric_loader_dependencies.json"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-
-[[files]]
-file = "config/ferritecore.mixin.properties.bak"
 
 [[files]]
 file = "config/fireworkfrenzy.json5"
@@ -319,13 +307,7 @@ file = "config/magna.json"
 file = "config/minershorizon.json"
 
 [[files]]
-file = "config/minershorizon.json.bak"
-
-[[files]]
 file = "config/modern_industrialization.toml"
-
-[[files]]
-file = "config/modern_industrialization.toml.bak"
 
 [[files]]
 file = "config/modmenu.json"
@@ -386,9 +368,6 @@ file = "config/reborncore/misc.json"
 
 [[files]]
 file = "config/redbits.json"
-
-[[files]]
-file = "config/redbits.json.bak"
 
 [[files]]
 file = "config/refinedstorage2.toml"
