@@ -1,14 +1,14 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-9.0.0-alpha.5.jar"
+filename = "appliedenergistics2-9.0.0-alpha.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3494/100/appliedenergistics2-9.0.0-alpha.5.jar"
+url = "https://edge.forgecdn.net/files/3498/466/appliedenergistics2-9.0.0-alpha.6.jar"
 hash-format = "murmur2"
-hash = "422298627"
+hash = "3146082778"
 
 [update]
 [update.curseforge]
-file-id = 3494100
+file-id = 3498466
 project-id = 223794
 release-channel = "beta"

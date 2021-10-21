@@ -1,14 +1,14 @@
 name = "Notes Fabric"
-filename = "notes-1.17-1.0.7.jar"
+filename = "notes-1.17-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3429/708/notes-1.17-1.0.7.jar"
+url = "https://edge.forgecdn.net/files/3498/416/notes-1.17-1.0.8.jar"
 hash-format = "murmur2"
-hash = "1903361918"
+hash = "2280977932"
 
 [update]
 [update.curseforge]
-file-id = 3429708
+file-id = 3498416
 project-id = 388252
 release-channel = "beta"
