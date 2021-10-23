@@ -37,6 +37,12 @@ file = "config/appliedenergistics2/common.json"
 file = "config/arcanus.json5"
 
 [[files]]
+file = "config/artifacts/general.toml"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
+
+[[files]]
 file = "config/attribute_fix.json5"
 
 [[files]]

@@ -3,12 +3,12 @@ filename = "notes-1.17-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3498/585/notes-1.17-1.0.8.jar"
+url = "https://edge.forgecdn.net/files/3499/689/notes-1.17-1.0.8.jar"
 hash-format = "murmur2"
-hash = "1634670618"
+hash = "1477252737"
 
 [update]
 [update.curseforge]
-file-id = 3498585
+file-id = 3499689
 project-id = 388252
 release-channel = "beta"
