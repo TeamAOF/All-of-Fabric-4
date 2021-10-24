@@ -1,3 +1,107 @@
+<h1>1.0.1</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Changes**
+- Updated loader to 0.11.7
+- Excavate now uses more hunger (64 > 128), not a huge amount but it'll make excavate not so OP.. Especially when looking for amethyst.
+- AE2 meteors will no longer appear in Miners Horizon.
+
+**Fixes**
+- Corrected server names & their info aswell.
+- Fixed random crash when looking through recipe pages connected to kibe.
+- Fixed mythic mounts bug causing them to be slower than they should of been (this was caused by a bug in air strafing attribute) .
+- Fixed miners horizon ore placement on height.
+- Fixed negative energy crash.
+- Fixed rancher not picking up items.
+- Fixed AE2 REI recipe integration.
+- Fixed rare crash with + (auto complete) recipe function.
+- Fixed horizontal speeds on flyable mythic mounts, they'll now act like normal.
+- Fixed meteors spawning in miners horizon dimension, they'll no longer make huge holes full of ores.
+
+**Added**
+- Health Overlay: HealthOverlay-1.17.1-4.0.2.jar  
+- oÏ‰o: owo-0.3.0.jar  
+  
+**Updated**  
+- 3d Skin Layers: 3dSkinLayers-Fabric-1.1.1.jar  
+- Adorn: Adorn-2.2.0+1.17.1-fabric.jar  
+- Applied Energistics 2: appliedenergistics2-9.0.0-alpha.7.jar  
+- Arcanus: arcanus-1.20.jar  
+- Architectury: architectury-2.6.35.jar  
+- Biome Locator: biome_locator-1.17.1-1.3.1.jar  
+- Chalk: chalk-1.0.1.jar  
+- Clumps: Clumps-fabric-1.17.1-7.0.10.jar  
+- Conjuring: conjuring-1.0.12.jar  
+- Croptopia: Croptopia-1.17.1-FABRIC-1.6.3.jar  
+- Dank Storage: dankstorage-2.2-1.17.1.jar  
+- Dark Enchanting: dark-enchanting-0.5.0-1.17.1.jar  
+- Dawn API: dawn-2.0.6.jar  
+- DeathLog: deathlog-0.2.1.jar  
+- DefaultSettings: DefaultSettings-1.17.x-3.1.0.jar  
+- Diggus Maximus: diggusmaximus-1.5.1-1.17.jar  
+- Deep Mob Learning: Simulacrum: dmlSimulacrum-1.0.5.jar  
+- Dynamic FPS: dynamic-fps-2.0.6.jar  
+- Entity Banners: entity-banners-1.0.2-BETA+1.17.jar  
+- Expanded Storage: expandedstorage-7.2.7+1.17.1.jar  
+- Extra Generators: extra-generators-1.1-BETA+1.17.jar  
+- Fabric API: fabric-api-0.41.0+1.17.jar  
+- Fabric Language Kotlin: fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar  
+- FerriteCore: ferritecore-3.1.0-fabric.jar  
+- Firework Frenzy: fireworkfrenzy-1.6.jar  
+- Gate Of Babylon: gate-of-babylon-1.5.1-1.17.1.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.19.jar  
+- Golems Galore: golemsgalore-1.0.3-1.17.1.jar  
+- Universal Graves: graves-1.1.3b+1.17.1.jar  
+- Grizzly Bear mob: grizzlybear-1.17-1.2.0.jar  
+- Guild: guild-fabric-0.3.3.jar  
+- Industrial Revolution: indrev-1.11.0-alpha.4.jar  
+- Inmis: inmis-2.3.2-1.17.1.jar  
+- Inventory Sorter: InventorySorter-1.8.0-1.17.jar  
+- Kibe: kibe-1.9.3-BETA+1.17.jar  
+- KubeJS Extras: kjsextras-1.4.0.jar  
+- KubeJS: kubejs-fabric-1701.3.10-build.9999.jar  
+- Lifts: lifts-1.3-BETA+1.17.jar  
+- Light Overlay: light-overlay-6.0.1-fabric.jar  
+- Lightest Lamps: lightest-lamps-fabric-0.9.3.jar  
+- Lithium: lithium-fabric-mc1.17.1-0.7.4.jar  
+- Lovely Snails: lovely_snails-1.0.3+1.17.jar  
+- Magic Fungi: magicfungi-0.5.0-BETA+1.17.1.jar  
+- Magitek Mechs: magitekmechs-fabric-MC1.17-1.0.4.jar  
+- megane: megane-5.5.0.jar  
+- Modern Industrialization: Modern-Industrialization-0.6.0-alpha.02.jar  
+- MoreVillagersFabric: morevillagers-FABRIC-1.17-2.1.1.jar  
+- Mythic Mounts: mythic-mounts-1.17.1-2.0.jar  
+- NinjaPhenix's Container Library: ninjaphenix-container-library-1.2.4+1.17.1.jar  
+- Outvoted: outvoted-1.5.0-b1.jar  
+- Patchouli: Patchouli-1.17.1-56-FABRIC.jar  
+- Industial Quarry Mod: quarry-reborn-1.17-0.5.0.jar  
+- Quick Shulker: quickshulker-1.3.0-1.17.jar  
+- Rat's Mischief: ratsmischief-1.2.3.jar  
+- Reborn Core: RebornCore-5.0.9-beta+build.131.jar  
+- Red Bits: red-bits-1.10.1.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.4.3+1.17.1.jar  
+- Respawnable Pets: respawnablepets-1.17-5.jar  
+- Rhino: rhino-fabric-1701.1.5-build.71.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.0.307-alpha.jar  
+- Secret Rooms: secretrooms-1.1.0+1.17.jar  
+- Smoother Bedrock: smootherbedrock-1.0.2.jar  
+- Stoneholm: stoneholm-1.3.jar  
+- Tech Reborn: TechReborn-5.0.9-beta+build.131.jar  
+- ToolTip Fix: tooltipfix-1.0.4-1.17.1.jar  
+- Traverse: traverse-4.0.0.jar  
+- Trinkets: trinkets-3.0.4.jar  
+- Wireless Networks: wirelessnetworks-1.3.0.jar  
+- Wolves With Armor: wolves-with-armor-1.6.1-1.17.1.jar  
+- Woods and Mires: WoodsAndMires-1.1.1+1.17.jar  
+- Harvest Scythes: wraith-harvestscythes-2.0.6.jar  
+- Waystones: wraith-waystones-2.1.2.jar  
+- wthit: wthit-fabric-3.10.0.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.18.0_Fabric_1.17.1.jar  
+- YUNG's API: YungsApi-1.17-Fabric-19.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>1.0.0</h1>
 
 <h2>A world reset is highly recommended with this release!</h2>
