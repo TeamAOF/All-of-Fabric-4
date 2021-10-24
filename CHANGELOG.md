@@ -5,12 +5,10 @@
 **Changes**
 - Updated loader to 0.11.7
 - Excavate now uses more hunger (64 > 128), not a huge amount but it'll make excavate not so OP.. Especially when looking for amethyst.
-- AE2 meteors will no longer appear in Miners Horizon.
 
 **Fixes**
 - Corrected server names & their info aswell.
 - Fixed random crash when looking through recipe pages connected to kibe.
-- Fixed mythic mounts bug causing them to be slower than they should of been (this was caused by a bug in air strafing attribute) .
 - Fixed miners horizon ore placement on height.
 - Fixed negative energy crash.
 - Fixed rancher not picking up items.
