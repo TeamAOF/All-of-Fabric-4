@@ -1,0 +1,36 @@
+{
+  //Cooldown for Ignei Spell usage.
+  "igneiSpellCooldown": 12,
+  //Cooldown for Scintillam Spell usage.
+  "scintillamSpellCooldown": 22,
+  //Cooldown for Cadere Spell usage.
+  "cadereSpellCooldown": 35,
+  //Cooldown for Glacies Spell usage.
+  "glaciesSpellCooldown": 40,
+  //Cooldown for Tractabile Spell usage.
+  "tractabileSpellCooldown": 3,
+  //Cooldown for Cibus Spell usage.
+  "cibusSpellCooldown": 160,
+  //Cooldown for Fertilis Spell usage.
+  "fertilisSpellCooldown": 170,
+  //Duration of Parasitus Glyph's effects.
+  "parasitusGlyphEffectTime": 7,
+  //Duration of Cadere Spell's effects.
+  "cadereSpellEffectTime": 12,
+  //Duration of Glacies Spell's effects.
+  "glaciesSpellEffectTime": 10,
+  //Hunger satiated by Cibus Spell. 1 = half drumstick.
+  "cibusSpellHungerModifier": 9,
+  //Saturation given by Cibus Spell.
+  "cibusSpellSaturationModifier": 0.8,
+  //Utilis Pickaxe's haste effect duration in seconds.
+  "utilisPickaxeEffectDuration": 4,
+  //Utilis Pickaxe's haste effect strength. 0 = I, 1 = II, etc.
+  "utilisPickaxeEffectStrength": 2,
+  //Morbus Scythe's wither effect duration in seconds.
+  "morbusScytheEffectDuration": 8,
+  //Morbus Scythe's wither effect strength. 0 = I, 1 = II, etc.
+  "morbusScytheEffectStrength": 0,
+  //Spawnrate for generation of the Host Biome. Increase if using any biome overhaul-styled mods, as otherwise the biome will be exceedingly rare.
+  "hostBiomeSpawnRate": 0.2
+}

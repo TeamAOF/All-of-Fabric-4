@@ -1,0 +1,21 @@
+{
+  "version": 4,
+  "GildedNetherite": true,
+  "Wrench": true,
+  "AmethystLamp": true,
+  "EnchantmentPrecision": true,
+  "EnchantmentSpeed": true,
+  "CompostableRottenFlesh": true,
+  "GlowStick": true,
+  "MysteriousBundle": true,
+  "Crossbows": true,
+  "MusicDiscs": true,
+  "RoseGold": true,
+  "FoodItems": true,
+  "Potions": true,
+  "WateringCan": true,
+  "CopperPatina": true,
+  "Ropes": true,
+  "TridentShard": true,
+  "DepthMeter": true
+}

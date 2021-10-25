@@ -1,0 +1,14 @@
+name = "RSWires"
+filename = "rswires-4.11.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3411/626/rswires-4.11.2.jar"
+hash-format = "murmur2"
+hash = "3728039637"
+
+[update]
+[update.curseforge]
+file-id = 3411626
+project-id = 286328
+release-channel = "beta"

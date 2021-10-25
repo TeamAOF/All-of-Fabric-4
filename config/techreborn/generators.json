@@ -88,7 +88,7 @@
     },
     "PlasmaGeneratorMaxEnergy": {
       "comment": "Plasma Generator Max Energy",
-      "value": 5.0E8
+      "value": 500000000
     }
   },
   "solarPanelBasic": {

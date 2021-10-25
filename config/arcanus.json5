@@ -1,11 +1,11 @@
 {
 	// Should the Lectern Structure Processor run?
-	"doLecternProcessor": true,
+	"doLecternProcessor": false,
 	// Should the Bookshelf Structure Processor run?
 	"doBookshelfProcessor": true,
-	// Should Village Libraries have Spell Books spawn?
-	"librariesHaveBooks": false,
-	// Should Stronghold Libraries have Spell Books spawn?
+	/* Should Stronghold Libraries have Spell Books spawn? (Does
+	       nothing if YUNG's Better Strongholds is loaded)
+	*/
 	"strongholdsHaveBooks": true,
 	// Should Ruined Portals have Spell Books spawn?
 	"ruinedPortalsHaveBooks": false,
@@ -21,20 +21,169 @@
 	"baseManaCooldown": 60,
 	// The time Burnout takes to reduce by 1 in ticks before modifiers.
 	"baseBurnoutCooldown": 180,
-	// The Mana cost for the Lunge spell.
-	"lungeCastingCost": 10,
-	// The Mana cost for the Dream Warp spell.
-	"dreamWarpCastingCost": 20,
-	// The Mana cost for the Magic Missile spell.
-	"magicMissileCastingCost": 10,
-	// The Mana cost for the Telekinetic Shock spell.
-	"telekinesisCastingCost": 10,
-	// The Mana cost for the Heal spell.
-	"healCastingCost": 15,
-	// The Mana cost for the Discombobulate spell.
-	"discombobulateCastingCost": 15,
-	// The Mana cost for the Solar Strike spell.
-	"solarStrikeCastingCost": 20,
-	// The Mana cost for the Arcane Barrier spell.
-	"arcaneBarrierCastingCost": 10
+	// Spells that should be enabled. (Restart Required)
+	"spells": {
+		// Should Lunge be enabled? (Restart Required)
+		"enableLunge": true,
+		// Should Dream Warp be enabled? (Restart Required)
+		"enableDreamWarp": true,
+		// Should Magic Missile be enabled? (Restart Required)
+		"enableMagicMissile": true,
+		// Should Telekinetic Shock be enabled? (Restart Required)
+		"enableTelekineticShock": true,
+		// Should Heal be enabled? (Restart Required)
+		"enableHeal": true,
+		// Should Discombobulate be enabled? (Restart Required)
+		"enableDiscombobulate": true,
+		// Should Solar Strike be enabled? (Restart Required)
+		"enableSolarStrike": false,
+		// Should Arcane Barrier be enabled? (Restart Required)
+		"enableArcaneBarrier": true,
+		// The Mana costs for all the spells.
+		"manaCosts": {
+			// The Mana cost for the Lunge spell.
+			"lungeCastingCost": 10,
+			// The Mana cost for the Dream Warp spell.
+			"dreamWarpCastingCost": 20,
+			// The Mana cost for the Magic Missile spell.
+			"magicMissileCastingCost": 10,
+			// The Mana cost for the Telekinetic Shock spell.
+			"telekinesisCastingCost": 10,
+			// The Mana cost for the Heal spell.
+			"healCastingCost": 15,
+			// The Mana cost for the Discombobulate spell.
+			"discombobulateCastingCost": 15,
+			// The Mana cost for the Solar Strike spell.
+			"solarStrikeCastingCost": 20,
+			// The Mana cost for the Arcane Barrier spell.
+			"arcaneBarrierCastingCost": 10
+		}
+	},
+	/* A list of structure paths that have Bookshelves to be replaced
+	       by Fillable Bookshelves from Arcanus.
+	*/
+	"structuresWithBookshelves": [
+		"minecraft:woodland_mansion/1x1_b4",
+		"minecraft:woodland_mansion/1x2_c4",
+		"minecraft:woodland_mansion/1x2_d1",
+		"minecraft:woodland_mansion/2x2_b3",
+		"minecraft:woodland_mansion/2x2_b4",
+		"betterstrongholds:rooms/cmd_yung",
+		"betterstrongholds:rooms/grand_library",
+		"betterstrongholds:rooms/library_md",
+		"dungeons_arise:bandit_towers/bandit_towers_crossing_2",
+		"dungeons_arise:bandit_towers/bandit_towers_crossing_5",
+		"dungeons_arise:bandit_towers/bandit_towers_part_0",
+		"dungeons_arise:bandit_towers/bandit_towers_part_1",
+		"dungeons_arise:bandit_towers/bandit_towers_small_room_2",
+		"dungeons_arise:bandit_village/bandit_village_deco_12",
+		"dungeons_arise:bandit_village/bandit_village_house_1",
+		"dungeons_arise:bandit_village/bandit_village_house_2",
+		"dungeons_arise:heavenly_challenger/heavenly_challenger_part_2",
+		"dungeons_arise:heavenly_challenger/heavenly_challenger_part_3",
+		"dungeons_arise:illager_campsite/illager_campsite_tent_1",
+		"dungeons_arise:illager_fort/illager_fort_part_0",
+		"dungeons_arise:illager_fort/illager_fort_room_0",
+		"dungeons_arise:illager_fort/illager_fort_room_2",
+		"dungeons_arise:illager_fort/illager_fort_room_8",
+		"dungeons_arise:illager_hall/illager_hall_tower_main_part_0",
+		"dungeons_arise:illager_hall/illager_hall_tower_part_0",
+		"dungeons_arise:infested_temple/infested_temple_level_0",
+		"dungeons_arise:infested_temple/infested_temple_level_1",
+		"dungeons_arise:infested_temple/infested_temple_level_2",
+		"dungeons_arise:infested_temple/infested_temple_room_0",
+		"dungeons_arise:infested_temple/infested_temple_room_1",
+		"dungeons_arise:infested_temple/infested_temple_room_3",
+		"dungeons_arise:infested_temple/infested_temple_room_4",
+		"dungeons_arise:infested_temple/infested_temple_room_7",
+		"dungeons_arise:infested_temple/infested_temple_room_8",
+		"dungeons_arise:lighthouse/lighthouse_part_1",
+		"dungeons_arise:monastery/monastery_room_0",
+		"dungeons_arise:monastery/monastery_top_0",
+		"dungeons_arise:mushroom_house/mushroom_house_bottom_1",
+		"dungeons_arise:mushroom_village/mushroom_village_house_13",
+		"dungeons_arise:plague_asylum/plague_asylum_cell_normal_6",
+		"dungeons_arise:plague_asylum/plague_asylum_cell_security_1",
+		"dungeons_arise:plague_asylum/plague_asylum_cell_security_2",
+		"dungeons_arise:plague_asylum/plague_asylum_cell_security_3",
+		"dungeons_arise:plague_asylum/plague_asylum_cell_security_4",
+		"dungeons_arise:scorched_mines/scorched_mines_housing_0",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_10",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_12",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_13",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_14",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_16",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_17",
+		"dungeons_arise:shiraz_palace/shiraz_palace_part_9",
+		"dungeons_arise:small_prairie_house/small_prairie_house_clean_0_top",
+		"dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main",
+		"dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1",
+		"dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2",
+		"dungeons_arise:thornborn_towers/thornborn_towers_part_0_main",
+		"dungeons_arise:thornborn_towers/thornborn_towers_room_0",
+		"dungeons_arise:thornborn_towers/thornborn_towers_room_1",
+		"dungeons_arise:thornborn_towers/thornborn_towers_room_2",
+		"dungeons_arise:thornborn_towers/thornborn_towers_room_3",
+		"dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0",
+		"mostructures:pyramid/base",
+		"mostructures:ship/bottom_lower",
+		"mostructures:tavern/tavern_1",
+		"mostructures:tavern/tavern_2",
+		"repurposed_structures:mansions/birch/1x1_b4",
+		"repurposed_structures:mansions/birch/1x2_c4",
+		"repurposed_structures:mansions/birch/1x2_d1",
+		"repurposed_structures:mansions/birch/2x2_b3",
+		"repurposed_structures:mansions/birch/2x2_b4",
+		"repurposed_structures:mansions/desert/1x1_b4",
+		"repurposed_structures:mansions/desert/1x2_c4",
+		"repurposed_structures:mansions/desert/1x2_d1",
+		"repurposed_structures:mansions/desert/2x2_b3",
+		"repurposed_structures:mansions/desert/2x2_b4",
+		"repurposed_structures:mansions/jungle/1x1_b4",
+		"repurposed_structures:mansions/jungle/1x2_c4",
+		"repurposed_structures:mansions/jungle/1x2_d1",
+		"repurposed_structures:mansions/jungle/2x2_b3",
+		"repurposed_structures:mansions/jungle/2x2_b4",
+		"repurposed_structures:mansions/oak/1x1_b4",
+		"repurposed_structures:mansions/oak/1x2_c4",
+		"repurposed_structures:mansions/oak/1x2_d1",
+		"repurposed_structures:mansions/oak/2x2_b3",
+		"repurposed_structures:mansions/oak/2x2_b4",
+		"repurposed_structures:mansions/savanna/1x1_b4",
+		"repurposed_structures:mansions/savanna/1x2_c4",
+		"repurposed_structures:mansions/savanna/1x2_d1",
+		"repurposed_structures:mansions/savanna/2x2_b3",
+		"repurposed_structures:mansions/savanna/2x2_b4",
+		"repurposed_structures:mansions/snowy/1x1_b4",
+		"repurposed_structures:mansions/snowy/1x2_c4",
+		"repurposed_structures:mansions/snowy/1x2_d1",
+		"repurposed_structures:mansions/snowy/2x2_b3",
+		"repurposed_structures:mansions/snowy/2x2_b4",
+		"repurposed_structures:mansions/taiga/1x1_b4",
+		"repurposed_structures:mansions/taiga/1x2_c4",
+		"repurposed_structures:mansions/taiga/1x2_d1",
+		"repurposed_structures:mansions/taiga/2x2_b3",
+		"repurposed_structures:mansions/taiga/2x2_b4",
+		"stonevaults:dungeon/rooms/library",
+		"stonevaults:igloo/pieces/snowy_shelves",
+		"stonevaults:magetower/floors/library",
+		"stonevaults:magetower/sidetower/bedroom",
+		"stonevaults:pillager_dungeon/rooms/big_library",
+		"stonevaults:pillager_dungeon/rooms/library"
+	],
+	/* A list of structure paths that have Lecterns to be filled
+	       with Spell Books from Arcanus.
+	*/
+	"structuresWithLecterns": [
+		"betterstrongholds:rooms/grand_library",
+		"betterstrongholds:rooms/library_md",
+		"betterstrongholds:rooms/treasure_room_lg",
+		"dungeons_arise:monastery/monastery_top_0",
+		"mostructures:factory/base",
+		"mostructures:market/main",
+		"mostructures:ship/bottom_lower",
+		"stonevaults:magetower/floors/library",
+		"stonevaults:pillager_dungeon/rooms/big_library",
+		"stonevaults:pillager_dungeon/rooms/storage_2"
+	]
 }

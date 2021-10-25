@@ -13,6 +13,12 @@ file = "config/AqMods/grizzly.config"
 file = "config/Lakeside.properties"
 
 [[files]]
+file = "config/MythicMounts.txt"
+
+[[files]]
+file = "config/additional-additions-config.json"
+
+[[files]]
 file = "config/advancementplaques.json5"
 
 [[files]]
@@ -22,7 +28,19 @@ file = "config/alaskanativecraft.json"
 file = "config/appleskin.json5"
 
 [[files]]
+file = "config/appliedenergistics2/client.json"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+
+[[files]]
 file = "config/arcanus.json5"
+
+[[files]]
+file = "config/artifacts/general.toml"
+
+[[files]]
+file = "config/artifacts/worldgen.toml"
 
 [[files]]
 file = "config/attribute_fix.json5"
@@ -106,6 +124,9 @@ file = "config/bountiful/bountiful.json"
 file = "config/builtinservers.json"
 
 [[files]]
+file = "config/campanion.json"
+
+[[files]]
 file = "config/carrier.json"
 
 [[files]]
@@ -163,6 +184,9 @@ file = "config/diggusmaximus/blacklist.json5"
 file = "config/diggusmaximus/config.json5"
 
 [[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+
+[[files]]
 file = "config/diggusmaximus/grouping.json5"
 
 [[files]]
@@ -196,6 +220,12 @@ file = "config/fabric_loader_dependencies.json"
 file = "config/ferritecore.mixin.properties"
 
 [[files]]
+file = "config/fireworkfrenzy.json5"
+
+[[files]]
+file = "config/flonters.properties"
+
+[[files]]
 file = "config/flytre_lib.json5"
 
 [[files]]
@@ -203,6 +233,9 @@ file = "config/getoffmylawn.json5"
 
 [[files]]
 file = "config/golemsgalore.json5"
+
+[[files]]
+file = "config/guild.json5"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -256,13 +289,22 @@ file = "config/libgui.json5"
 file = "config/lifts.json"
 
 [[files]]
+file = "config/lightest-lamps.json5"
+
+[[files]]
 file = "config/lightoverlay.properties"
 
 [[files]]
 file = "config/lithium.properties"
 
 [[files]]
+file = "config/magicfungi.json"
+
+[[files]]
 file = "config/magna.json"
+
+[[files]]
+file = "config/minershorizon.json"
 
 [[files]]
 file = "config/modern_industrialization.toml"
@@ -421,6 +463,9 @@ file = "config/terrarianslimes.json"
 file = "config/textile_backup.json5"
 
 [[files]]
+file = "config/the-graveyard-config.json5"
+
+[[files]]
 file = "config/transportables.json5"
 
 [[files]]
@@ -497,6 +542,12 @@ file = "kubejs/assets/dankstorage/textures/block/dank_6.png"
 
 [[files]]
 file = "kubejs/assets/dankstorage/textures/block/dank_7.png"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/models/armor/glitch_layer_1.png"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/models/armor/glitch_layer_2.png"
 
 [[files]]
 file = "kubejs/client_scripts/rei_unification.js"
@@ -583,10 +634,6 @@ file = "mods/advancements-enlarger.toml"
 metafile = true
 
 [[files]]
-file = "mods/air-strafing-attribute.toml"
-metafile = true
-
-[[files]]
 file = "mods/alaska-native-craft.toml"
 metafile = true
 
@@ -611,7 +658,7 @@ file = "mods/architectury-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/artifality.toml"
+file = "mods/artifacts-fabric.toml"
 metafile = true
 
 [[files]]
@@ -644,10 +691,6 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.toml"
 metafile = true
 
 [[files]]
@@ -695,6 +738,10 @@ file = "mods/carrier.toml"
 metafile = true
 
 [[files]]
+file = "mods/chalk-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/charm.toml"
 metafile = true
 
@@ -704,10 +751,6 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds-fabric.toml"
-metafile = true
-
-[[files]]
-file = "mods/chipped.toml"
 metafile = true
 
 [[files]]
@@ -824,6 +867,10 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorers-delight.toml"
 metafile = true
 
 [[files]]
@@ -1007,6 +1054,10 @@ file = "mods/magic-fungi.toml"
 metafile = true
 
 [[files]]
+file = "mods/magitek-mechs.toml"
+metafile = true
+
+[[files]]
 file = "mods/mavm.toml"
 metafile = true
 
@@ -1083,6 +1134,10 @@ file = "mods/outvoted.toml"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+metafile = true
+
+[[files]]
 file = "mods/packages.toml"
 metafile = true
 
@@ -1139,6 +1194,10 @@ file = "mods/roughly-enough-items.toml"
 metafile = true
 
 [[files]]
+file = "mods/rswires.toml"
+metafile = true
+
+[[files]]
 file = "mods/runelic.toml"
 metafile = true
 
@@ -1156,10 +1215,6 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-metafile = true
-
-[[files]]
-file = "mods/slotlink.toml"
 metafile = true
 
 [[files]]

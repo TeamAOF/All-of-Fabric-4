@@ -1,14 +1,14 @@
 name = "Diggus Maximus"
-filename = "diggusmaximus-1.5.0-1.17.jar"
+filename = "diggusmaximus-1.5.1-1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3475/174/diggusmaximus-1.5.0-1.17.jar"
+url = "https://edge.forgecdn.net/files/3487/588/diggusmaximus-1.5.1-1.17.jar"
 hash-format = "murmur2"
-hash = "1796384809"
+hash = "2471622000"
 
 [update]
 [update.curseforge]
-file-id = 3475174
+file-id = 3487588
 project-id = 341888
 release-channel = "beta"

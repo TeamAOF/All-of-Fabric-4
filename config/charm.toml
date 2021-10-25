@@ -287,7 +287,7 @@
 
 [ExtraRecipes]
 	#If true, adds a blast furnace recipe for smelting raw ore blocks into ore blocks.
-	"Ore block from raw ore block" = true
+	"Ore block from raw ore block" = false
 	#If true, adds a recipe for Gilded Blackstone using gold nuggets and blackstone.
 	"Gilded Blackstone" = true
 	#If true, adds a recipe for the Trident using prismarine shards and crystals.

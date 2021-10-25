@@ -22,7 +22,7 @@
     },
     "quantumSuitSprintingCost": {
       "comment": "Quantum Suit Sprinting Cost",
-      "value": 20.0
+      "value": 20
     },
     "cloakingDeviceCharge": {
       "comment": "Energy Capacity for Cloacking Device",

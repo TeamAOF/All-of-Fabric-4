@@ -1,14 +1,14 @@
 name = "Outvoted"
-filename = "outvoted-2.0.0-alpha.13-fabric.jar"
+filename = "outvoted-1.5.0-b1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3455/188/outvoted-2.0.0-alpha.13-fabric.jar"
+url = "https://edge.forgecdn.net/files/3502/480/outvoted-1.5.0-b1.jar"
 hash-format = "murmur2"
-hash = "729736770"
+hash = "401411049"
 
 [update]
 [update.curseforge]
-file-id = 3455188
+file-id = 3502480
 project-id = 415057
 release-channel = "beta"

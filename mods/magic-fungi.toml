@@ -1,14 +1,14 @@
 name = "Magic Fungi"
-filename = "magicfungi-0.4.1-BETA+1.17.1.jar"
+filename = "magicfungi-0.5.0-BETA+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3467/554/magicfungi-0.4.1-BETA+1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3497/941/magicfungi-0.5.0-BETA+1.17.1.jar"
 hash-format = "murmur2"
-hash = "1240225330"
+hash = "2440507649"
 
 [update]
 [update.curseforge]
-file-id = 3467554
+file-id = 3497941
 project-id = 506412
 release-channel = "beta"

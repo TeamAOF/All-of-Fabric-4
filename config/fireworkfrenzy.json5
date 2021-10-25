@@ -1,0 +1,40 @@
+{
+	/* Number of Invincibility Ticks when a player hits themselves
+	       with a Firework Rocket? (Vanilla: 10)
+	*/
+	"selfDamageInvincibilityTicks": 0,
+	// Base damage of Firework Rockets.
+	"baseDamage": 3.0,
+	// Multiplier for Rocket Jump Velocity.
+	"rocketJumpMultiplier": 1.0,
+	// Multiplier for other entity's Firework Rocket Knockback
+	"otherEntityKnockback": 0.5,
+	// Should item display damage of Firework Rockets?
+	"showTooltip": true,
+	// Should damage scaling only affect Crossbows?
+	"onlyAffectCrossbows": true,
+	// Should players be able to Rocket Jump?
+	"allowRocketJumping": true,
+	/* Should the <insert shovel name> be added to the game?
+	       (Restart Required)
+	*/
+	"enableMemeSpoon": true,
+	/* Should the <insert boots name> be added to the game?
+	       (Restart Required)
+	*/
+	"enableGunboats": true,
+	/* Should players be able to use Firework Rockets from their
+	       inventory, and not just their offhand?
+	*/
+	"useRocketsFromInv": true,
+	/* Should Elytra flight cancel Rocket Jumping?
+	       (Overwrites Firework Boost option if true)
+	*/
+	"elytrasCancelRocketJumping": true,
+	// Should Firework Boosts cancel Rocket Jumping?
+	"boostsCancelRocketJumping": true,
+	// Should Crossbows get Infinity?
+	"crossbowsGetInfinity": true,
+	// Should Infinity work on Firework Rockets?
+	"infinityAffectsRockets": true
+}
