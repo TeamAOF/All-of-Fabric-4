@@ -646,6 +646,10 @@ file = "mods/appleskin.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.toml"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 metafile = true
 
@@ -667,6 +671,10 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.toml"
 metafile = true
 
 [[files]]
@@ -710,6 +718,10 @@ file = "mods/blockus.toml"
 metafile = true
 
 [[files]]
+file = "mods/boat-container.toml"
+metafile = true
+
+[[files]]
 file = "mods/bountiful-fabric.toml"
 metafile = true
 
@@ -735,6 +747,10 @@ metafile = true
 
 [[files]]
 file = "mods/carrier.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.toml"
 metafile = true
 
 [[files]]
@@ -842,6 +858,10 @@ file = "mods/dimension-fix-some-forge-patches-ported.toml"
 metafile = true
 
 [[files]]
+file = "mods/drink-beer-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/dual-riders.toml"
 metafile = true
 
@@ -938,6 +958,10 @@ file = "mods/go-fish.toml"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/golems-galore.toml"
 metafile = true
 
@@ -995,6 +1019,10 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.toml"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks-fabric.toml"
 metafile = true
 
 [[files]]
@@ -1146,6 +1174,10 @@ file = "mods/patchouli-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/platforms-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/pling.toml"
 metafile = true
 
@@ -1206,6 +1238,10 @@ file = "mods/secret-rooms-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore-fabric.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 metafile = true
 
@@ -1226,6 +1262,10 @@ file = "mods/smoother-bedrock.toml"
 metafile = true
 
 [[files]]
+file = "mods/squirrels.toml"
+metafile = true
+
+[[files]]
 file = "mods/staff-of-building.toml"
 metafile = true
 
@@ -1235,6 +1275,10 @@ metafile = true
 
 [[files]]
 file = "mods/straw-dummy.toml"
+metafile = true
+
+[[files]]
+file = "mods/structure-tools.toml"
 metafile = true
 
 [[files]]
@@ -1263,6 +1307,10 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.toml"
+metafile = true
+
+[[files]]
+file = "mods/trick-or-treat.toml"
 metafile = true
 
 [[files]]

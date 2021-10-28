@@ -1,14 +1,14 @@
 name = "Conjuring [Fabric/Forge]"
-filename = "conjuring-1.0.12.jar"
+filename = "conjuring-1.0.13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3490/285/conjuring-1.0.12.jar"
+url = "https://edge.forgecdn.net/files/3506/529/conjuring-1.0.13.jar"
 hash-format = "murmur2"
-hash = "673094936"
+hash = "3391076790"
 
 [update]
 [update.curseforge]
-file-id = 3490285
+file-id = 3506529
 project-id = 422310
 release-channel = "beta"
