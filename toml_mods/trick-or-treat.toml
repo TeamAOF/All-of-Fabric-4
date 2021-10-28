@@ -1,0 +1,14 @@
+name = "Trick or Treat"
+filename = "trickortreat-FABRIC-1.17.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3501/416/trickortreat-FABRIC-1.17.1-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2137283155"
+
+[update]
+[update.curseforge]
+file-id = 3501416
+project-id = 535636
+release-channel = "beta"
