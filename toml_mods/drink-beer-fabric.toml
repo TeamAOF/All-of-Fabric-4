@@ -1,0 +1,14 @@
+name = "Drink Beer (Fabric)"
+filename = "drinkbeer-v2.3 for 1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/120/drinkbeer-v2.3 for 1.17.1.jar"
+hash-format = "murmur2"
+hash = "4109949960"
+
+[update]
+[update.curseforge]
+file-id = 3504120
+project-id = 517119
+release-channel = "beta"
