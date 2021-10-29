@@ -1,14 +1,14 @@
 name = "Boat Container"
-filename = "boatcontainer-1.0.2.jar"
+filename = "boatcontainer-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3491/992/boatcontainer-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3508/260/boatcontainer-1.0.3.jar"
 hash-format = "murmur2"
-hash = "1729729776"
+hash = "3654689404"
 
 [update]
 [update.curseforge]
-file-id = 3491992
+file-id = 3508260
 project-id = 526274
 release-channel = "beta"
