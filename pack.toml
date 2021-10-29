@@ -11,4 +11,5 @@ fabric = "0.11.7"
 minecraft = "1.17.1"
 
 [options]
+mods-folder = "toml_mods"
 no-internal-hashes = "true"
