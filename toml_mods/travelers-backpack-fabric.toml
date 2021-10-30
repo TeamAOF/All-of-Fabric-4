@@ -1,0 +1,14 @@
+name = "Traveler's Backpack [FABRIC]"
+filename = "travelers-backpack-1.17.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3508/937/travelers-backpack-1.17.1-6.0.0.jar"
+hash-format = "murmur2"
+hash = "2770570207"
+
+[update]
+[update.curseforge]
+file-id = 3508937
+project-id = 541171
+release-channel = "beta"
