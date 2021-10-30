@@ -1,0 +1,14 @@
+name = "Item Highlighter [Fabric]"
+filename = "Highlighter-1.17.1-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/611/Highlighter-1.17.1-fabric-1.1.0.jar"
+hash-format = "murmur2"
+hash = "4261820453"
+
+[update]
+[update.curseforge]
+file-id = 3505611
+project-id = 541578
+release-channel = "beta"
