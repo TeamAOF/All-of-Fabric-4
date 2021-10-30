@@ -886,6 +886,10 @@ file = "toml_mods/entity-banners.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/equipment-compare-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/expanded-storage-fabric.toml"
 metafile = true
 
@@ -998,6 +1002,10 @@ file = "toml_mods/i-know-what-im-doing.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/iceberg-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/impaled.toml"
 metafile = true
 
@@ -1023,6 +1031,14 @@ metafile = true
 
 [[files]]
 file = "toml_mods/iron-jetpacks-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/item-borders-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/item-highlighter-fabric.toml"
 metafile = true
 
 [[files]]
@@ -1262,10 +1278,6 @@ file = "toml_mods/smoother-bedrock.toml"
 metafile = true
 
 [[files]]
-file = "toml_mods/squirrels.toml"
-metafile = true
-
-[[files]]
 file = "toml_mods/staff-of-building.toml"
 metafile = true
 
@@ -1303,6 +1315,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/tooltipfix.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/travelers-backpack-fabric.toml"
 metafile = true
 
 [[files]]
