@@ -40,27 +40,10 @@
       ],
       "health": 40.0
     },
-    "meerkat": {
-      "spawn": true,
-      "burrowRate": 128,
-      "biomes": [
-        "#desert"
-      ],
-      "health": 10.0
-    },
-    "ostrich": {
-      "spawn": true,
-      "rate": 5,
-      "biomes": [
-        "#savanna"
-      ],
-      "health": 15.0
+    "coppergolem": {
+      "health": 25.0,
+      "oxidationRate": 0.001
     }
-  },
-  "generation": {
-    "genPalmTrees": true,
-    "genBaobabTrees": true,
-    "baobabType": 0
   },
   "misc": {
     "helmetPenalty": 40,

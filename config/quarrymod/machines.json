@@ -1,5 +1,14 @@
 {
   "quarry": {
+    "QuarryExtenderWorkRadius": {
+      "comment": "Quarry Extender Work Radius, added radius to SqrWorkRadius for each level, in blocks",
+      "value": [
+        7.0,
+        12.0,
+        18.0,
+        24.0
+      ]
+    },
     "QuarryMaxInput": {
       "comment": "Quarry Max Input (Value in EU)",
       "value": 128
@@ -17,7 +26,7 @@
       "value": 3
     },
     "QuarrySqrWorkRadius": {
-      "comment": "Quarry Sqr Work Radius, square radius of work, in blocks",
+      "comment": "Do not affect anything anymore",
       "value": 8
     },
     "QuarryTiksPerExcavation": {

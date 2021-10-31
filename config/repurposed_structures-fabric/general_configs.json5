@@ -384,6 +384,13 @@
 		/* 
 		   
 		   
+		   Only make supports downward if there is land below.
+		   (Helps make structure look better in floating island worlds instead of support going down to void at world bottom)
+		*/
+		"pillarOnlyToLand": true,
+		/* 
+		   
+		   
 		   How rare are Birch Mansions in Birch biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
@@ -559,79 +566,79 @@
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"birchMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"jungleMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"desertMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"stoneMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"savannaMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"icyMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"oceanMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"taigaMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"swampMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"darkForestMineshaftMinHeight": 8,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"netherMineshaftMinHeight": 6,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"crimsonMineshaftMinHeight": 6,
 			/* 
 			   
 			   
-			   Min Y height of Mineshaft.max = 30
+			   Min Y height of Mineshaft
 			*/
 			"warpedMineshaftMinHeight": 6
 		},
@@ -639,91 +646,91 @@
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"birchMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"jungleMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"desertMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"stoneMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"savannaMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"icyMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"oceanMineshaftMaxHeight": 26,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"taigaMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"swampMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"darkForestMineshaftMaxHeight": 45,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"netherMineshaftMaxHeight": 17,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"crimsonMineshaftMaxHeight": 14,
 			/* 
 			   
 			   
-			   Max Y height of Mineshaft.max = 30
+			   Max Y height of Mineshaft
 			   If below min height, this will be read as min.
 			*/
 			"warpedMineshaftMaxHeight": 14
@@ -1231,7 +1238,14 @@
 			   How rare are Warped Village in Warped Forest biomes.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"warpedVillageAverageChunkDistance": 30
+			"warpedVillageAverageChunkDistance": 30,
+			/* 
+			   
+			   
+			   How rare are Mushroom Villages.
+			   1 for spawning in most chunks and 10001 for none.
+			*/
+			"villageMushroomAverageChunkDistance": 24
 		},
 		"size": {
 			/* 
@@ -1270,6 +1284,12 @@
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
 			"mountainsVillageSize": 6,
+			/* 
+			   
+			   
+			   Size of the village. This is how many pieces long a path can be from the start piece.
+			*/
+			"mushroomVillageSize": 8,
 			/* 
 			   
 			   

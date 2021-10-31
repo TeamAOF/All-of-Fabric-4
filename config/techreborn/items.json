@@ -70,7 +70,7 @@
     },
     "quantumSuitFireExtinguishCost": {
       "comment": "Quantum Suit Cost for Fire Extinguish",
-      "value": 50.0
+      "value": 50
     },
     "nanoSaberCost": {
       "comment": "Energy Cost for Nano Saber",
@@ -78,11 +78,11 @@
     },
     "quantumSuitCapacity": {
       "comment": "Quantum Suit Energy Capacity",
-      "value": 4.0E7
+      "value": 40000000
     },
     "quantumSuitBreathingCost": {
       "comment": "Quantum Suit Breathing Cost",
-      "value": 20.0
+      "value": 20
     },
     "advancedJackhammerCharge": {
       "comment": "Energy Capacity for Advanced Jackhammer",
@@ -142,7 +142,7 @@
     },
     "quantumSuitFlyingCost": {
       "comment": "Quantum Suit Flying Cost",
-      "value": 50.0
+      "value": 50
     },
     "omniToolCost": {
       "comment": "Energy Cost for Omni Tool",
@@ -162,7 +162,7 @@
     },
     "quantumSuitSwimmingCost": {
       "comment": "Quantum Suit Swimming Cost",
-      "value": 20.0
+      "value": 20
     },
     "rockCutterCharge": {
       "comment": "Energy Capacity for Rock Cutter",
