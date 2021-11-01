@@ -16,11 +16,11 @@ displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
 distance:1
-showCoords:false
+showCoords:true
 lockNorth:false
 zoom:0
 minimapSize:125
-chunkGrid:15
+chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
 minimapOpacity:100.0
@@ -53,7 +53,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
-showLightLevel:1
+showLightLevel:0
 renderLayerIndex:1
 crossDimensionalTp:true
 showTime:1
@@ -83,10 +83,12 @@ potionEffectPushBox:1
 minimapFrame:0
 minimapFrameColor:9
 compassColor:9
-showDimensionName:true
+showDimensionName:false
 displayMultipleWaypointInfo:1
 entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
+autoConvertWaypointDistanceToKmThreshold:10000
+waypointDistancePrecision:1
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false

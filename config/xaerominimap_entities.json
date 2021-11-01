@@ -14,12 +14,12 @@
     "heightLimit": 20.0,
     "names": 0.0,
     "color": 13.0,
-    "displayNameWhenIconFails": true,
+    "displayNameWhenIconFails": false,
     "entityNumber": 100.0,
     "alwaysDisplayNametags": false,
     "dotSize": 2.0,
-    "icons": 1.0,
-    "iconScale": 1.0
+    "icons": 2.0,
+    "iconScale": 0.8
   },
   "subCategories": [
     {
@@ -33,7 +33,8 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 2.0,
-        "color": 14.0
+        "color": 14.0,
+        "icons": 2.0
       },
       "subCategories": [
         {
