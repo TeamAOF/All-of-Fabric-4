@@ -1,23 +1,23 @@
 {
   "baseModLoader": {
-    "id": 5657,
-    "gameVersionId": 8733,
+    "id": 5728,
+    "gameVersionId": 8763,
     "minecraftGameVersionId": 72,
-    "forgeVersion": "0.11.7",
-    "name": "fabric-0.11.7-1.17.1",
+    "forgeVersion": "0.12.3",
+    "name": "fabric-0.12.3-1.17.1",
     "type": 4,
-    "downloadUrl": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.11.7/fabric-loader-0.11.7.jar",
-    "filename": "fabric-loader-0.11.7.jar",
+    "downloadUrl": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.12.3/fabric-loader-0.12.3.jar",
+    "filename": "fabric-loader-0.12.3.jar",
     "installMethod": 4,
-    "latest": true,
-    "recommended": true,
+    "latest": false,
+    "recommended": false,
     "approved": false,
-    "dateModified": "2021-10-13T20:51:12.143Z",
-    "mavenVersionString": "net.fabricmc:fabric-loader:0.11.7",
-    "versionJson": "{\"id\":\"fabric-loader-0.11.7-1.17.1\",\"inheritsFrom\":\"1.17.1\",\"releaseTime\":\"2021-10-13T17:24:02+0000\",\"time\":\"2021-10-13T17:24:02+0000\",\"type\":\"release\",\"mainClass\":\"net.fabricmc.loader.launch.knot.KnotClient\",\"arguments\":{\"game\":[],\"jvm\":[\"-DFabricMcEmu= net.minecraft.client.main.Main \"]},\"libraries\":[{\"name\":\"net.fabricmc:tiny-mappings-parser:0.2.2.14\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:sponge-mixin:0.9.4+mixin.0.8.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:tiny-remapper:0.6.0\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:access-widener:1.0.0\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:fabric-loader-sat4j:2.3.5.4\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"com.google.jimfs:jimfs:1.2-fabric\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm:9.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-analysis:9.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-commons:9.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-tree:9.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-util:9.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:intermediary:1.17.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:fabric-loader:0.11.7\",\"url\":\"https://fabricmc.forgecdn.net/\"}]}",
-    "librariesInstallLocation": "{0}libraries\\net\\fabricmc\\fabric-loader\\0.11.7",
+    "dateModified": "2021-10-29T12:02:33.8Z",
+    "mavenVersionString": "net.fabricmc:fabric-loader:0.12.3",
+    "versionJson": "{\"id\":\"fabric-loader-0.12.3-1.17.1\",\"inheritsFrom\":\"1.17.1\",\"releaseTime\":\"2021-10-29T06:08:56+0000\",\"time\":\"2021-10-29T06:08:56+0000\",\"type\":\"release\",\"mainClass\":\"net.fabricmc.loader.impl.launch.knot.KnotClient\",\"arguments\":{\"game\":[],\"jvm\":[\"-DFabricMcEmu= net.minecraft.client.main.Main \"]},\"libraries\":[{\"name\":\"net.fabricmc:tiny-mappings-parser:0.3.0+build.17\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:sponge-mixin:0.10.4+mixin.0.8.4\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:tiny-remapper:0.6.0\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:access-widener:2.0.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-analysis:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-commons:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-tree:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-util:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:intermediary:1.17.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:fabric-loader:0.12.3\",\"url\":\"https://fabricmc.forgecdn.net/\"}]}",
+    "librariesInstallLocation": "{0}libraries\\net\\fabricmc\\fabric-loader\\0.12.3",
     "minecraftVersion": "1.17.1",
-    "modLoaderGameVersionId": 8733,
+    "modLoaderGameVersionId": 8763,
     "modLoaderGameVersionTypeId": 73247,
     "modLoaderGameVersionStatus": 1,
     "modLoaderGameVersionTypeStatus": 1,
@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-10-27T02:45:17.8599461Z",
-  "playedCount": 16,
+  "lastPlayed": "2021-11-01T15:11:27.9855369Z",
+  "playedCount": 20,
   "manifest": {
     "minecraft": {
       "version": "1.17.1",
@@ -1178,8 +1178,8 @@
   "name": "All-of-Fabric-4",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-10-27T03:04:59.9373746Z",
-  "lastRefreshAttempt": "2021-10-27T05:04:59.9403731+02:00",
+  "lastPreviousMatchUpdate": "2021-11-01T15:11:12.9023943Z",
+  "lastRefreshAttempt": "2021-11-01T16:29:13.2679533+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17.1",
@@ -2380,40 +2380,40 @@
       "addonID": 422310,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3490285,
-        "displayName": "[1.17+] Conjuring 2 - 1.0.12",
-        "fileName": "conjuring-1.0.12.jar",
-        "fileDate": "2021-10-13T20:27:34.783Z",
-        "fileLength": 477168,
+        "id": 3506529,
+        "displayName": "[1.17+] Conjuring 2 - 1.0.13",
+        "fileName": "conjuring-1.0.13.jar",
+        "fileDate": "2021-10-27T16:14:03.2Z",
+        "fileLength": 479867,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3490/285/conjuring-1.0.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3506/529/conjuring-1.0.13.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 75751059,
-            "addonId": 310111,
-            "type": 2,
-            "fileId": 3490285
-          },
-          {
-            "id": 75751060,
+            "id": 77063151,
             "addonId": 532610,
             "type": 3,
-            "fileId": 3490285
+            "fileId": 3506529
           },
           {
-            "id": 75751058,
-            "addonId": 393236,
+            "id": 77063153,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 3506529
+          },
+          {
+            "id": 77063152,
+            "addonId": 306770,
             "type": 3,
-            "fileId": 3490285
+            "fileId": 3506529
           },
           {
-            "id": 75751057,
+            "id": 77063150,
             "addonId": 319057,
             "type": 3,
-            "fileId": 3490285
+            "fileId": 3506529
           }
         ],
         "isAvailable": true,
@@ -2450,7 +2450,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1815064697,
+            "fingerprint": 930246630,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -2468,12 +2468,12 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 2332715757,
+            "fingerprint": 514219850,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 673094936,
+        "packageFingerprint": 3391076790,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -2507,20 +2507,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2539165,
+        "renderCacheId": 2559656,
         "projectId": 422310,
-        "packageFingerprintId": 761825286,
+        "packageFingerprintId": 771509637,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3380012,
+        "gameVersionMappingId": 3423769,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "conjuring-1.0.12.jar"
+        "FileNameOnDisk": "conjuring-1.0.13.jar"
       },
       "dateInstalled": "2021-10-24T21:33:53.1819381Z",
-      "dateUpdated": "2021-10-24T21:33:53.1869374Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:33:53.1869374Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:30.0245626Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:30.0245626Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3118,7 +3118,7 @@
       "dateInstalled": "2021-10-27T01:23:52.2038727Z",
       "dateUpdated": "2021-10-27T01:23:52.214869Z",
       "dateLastUpdateAttempted": "2021-10-27T01:23:52.214869Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4510,14 +4510,14 @@
       "addonID": 526274,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3491992,
-        "displayName": "1.0.2",
-        "fileName": "boatcontainer-1.0.2.jar",
-        "fileDate": "2021-10-15T17:32:51.717Z",
-        "fileLength": 63444,
+        "id": 3508260,
+        "displayName": "1.0.3",
+        "fileName": "boatcontainer-1.0.3.jar",
+        "fileDate": "2021-10-29T11:41:52.85Z",
+        "fileLength": 63443,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3491/992/boatcontainer-1.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3508/260/boatcontainer-1.0.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4537,7 +4537,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1239206333,
+            "fingerprint": 1750340668,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -4567,12 +4567,12 @@
           },
           {
             "foldername": "de",
-            "fingerprint": 2284054095,
+            "fingerprint": 3778853069,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1729729776,
+        "packageFingerprint": 3654689404,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -4598,19 +4598,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2541371,
+        "renderCacheId": 2561886,
         "projectId": 526274,
-        "packageFingerprintId": 762987601,
+        "packageFingerprintId": 772813099,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3384300,
+        "gameVersionMappingId": 3422555,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "boatcontainer-1.0.2.jar"
+        "FileNameOnDisk": "boatcontainer-1.0.3.jar"
       },
       "dateInstalled": "2021-10-27T02:11:35.0447052Z",
-      "dateUpdated": "2021-10-27T02:11:35.0527011Z",
-      "dateLastUpdateAttempted": "2021-10-27T02:11:35.0527011Z",
+      "dateUpdated": "2021-10-31T23:56:28.443564Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:28.443564Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4782,7 +4782,7 @@
       "dateInstalled": "2021-10-27T02:16:22.565417Z",
       "dateUpdated": "2021-10-27T02:16:22.5744145Z",
       "dateLastUpdateAttempted": "2021-10-27T02:16:22.5744145Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6348,7 +6348,7 @@
       "dateInstalled": "2021-10-27T01:47:21.9953657Z",
       "dateUpdated": "2021-10-27T01:47:21.9953657Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6363,22 +6363,22 @@
       "addonID": 476080,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3358123,
-        "displayName": "basicaiots-1.3.1.jar",
-        "fileName": "basicaiots-1.3.1.jar",
-        "fileDate": "2021-06-20T04:59:12.603Z",
-        "fileLength": 119199,
+        "id": 3487451,
+        "displayName": "Basic AIOTs 1.3.2+1.17",
+        "fileName": "basicaiots-1.3.2+1.17.jar",
+        "fileDate": "2021-10-11T02:00:05.357Z",
+        "fileLength": 119212,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/123/basicaiots-1.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3487/451/basicaiots-1.3.2+1.17.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 66877606,
+            "id": 77290166,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3358123
+            "fileId": 3487451
           }
         ],
         "isAvailable": true,
@@ -6397,7 +6397,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1971447886,
+            "fingerprint": 2270623945,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -6432,33 +6432,33 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 722773626,
+        "packageFingerprint": 2944956348,
         "gameVersion": [
+          "1.17.1",
           "1.17",
-          "Fabric",
-          "1.17-Snapshot"
+          "Fabric"
         ],
         "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
           {
             "gameVersionPadded": "0000000001.0000000017",
             "gameVersion": "1.17",
             "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
             "gameVersionName": "1.17",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 73242
           },
           {
             "gameVersionPadded": "0",
             "gameVersion": "",
             "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
             "gameVersionName": "Fabric",
-            "gameVersionTypeId": 0
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
-            "gameVersionName": "1.17-Snapshot",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 68441
           }
         ],
         "hasInstallScript": false,
@@ -6466,20 +6466,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2370407,
+        "renderCacheId": 2535536,
         "projectId": 476080,
-        "packageFingerprintId": 687657426,
+        "packageFingerprintId": 760239793,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3060597,
+        "gameVersionMappingId": 3373041,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "basicaiots-1.3.1.jar"
+        "FileNameOnDisk": "basicaiots-1.3.2+1.17.jar"
       },
       "dateInstalled": "2021-10-11T10:28:13.7433413Z",
-      "dateUpdated": "2021-10-11T10:28:13.7433413Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2021-11-01T20:43:58.8876351Z",
+      "dateLastUpdateAttempted": "2021-11-01T20:43:58.8876351Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8135,7 +8135,7 @@
       "dateInstalled": "2021-10-11T10:28:13.7273465Z",
       "dateUpdated": "2021-10-27T02:20:18.0922175Z",
       "dateLastUpdateAttempted": "2021-10-27T02:20:18.0922175Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8257,7 +8257,7 @@
       "dateInstalled": "2021-10-11T10:41:09.520487Z",
       "dateUpdated": "2021-10-27T02:20:20.3714941Z",
       "dateLastUpdateAttempted": "2021-10-27T02:20:20.3714941Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8977,14 +8977,14 @@
       "addonID": 223794,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3502619,
-        "displayName": "9.0.0-alpha.7 [FABRIC]",
-        "fileName": "appliedenergistics2-9.0.0-alpha.7.jar",
-        "fileDate": "2021-10-24T20:04:06.723Z",
-        "fileLength": 4824908,
-        "releaseType": 3,
+        "id": 3511054,
+        "displayName": "9.0.0-beta.1 [FABRIC]",
+        "fileName": "appliedenergistics2-9.0.0-beta.1.jar",
+        "fileDate": "2021-10-31T22:45:15.523Z",
+        "fileLength": 4871488,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3502/619/appliedenergistics2-9.0.0-alpha.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/54/appliedenergistics2-9.0.0-beta.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8992,7 +8992,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1568949171,
+            "fingerprint": 2687398104,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -9004,42 +9004,42 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2272797378,
+            "fingerprint": 1162418786,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "appliedenergistics2.accesswidener",
-            "fingerprint": 3380781246,
+            "fingerprint": 1691254136,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 2838441146,
+            "fingerprint": 929762273,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "appliedenergistics2.mixins.json",
-            "fingerprint": 1245719834,
+            "fingerprint": 665738996,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "appliedenergistics2-refmap.json",
-            "fingerprint": 1193573429,
+            "fingerprint": 1030614071,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "appeng",
-            "fingerprint": 2671157887,
+            "fingerprint": 3492295702,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4001687171,
+        "packageFingerprint": 214854216,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -9065,20 +9065,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2554896,
+        "renderCacheId": 2565579,
         "projectId": 223794,
-        "packageFingerprintId": 769513880,
+        "packageFingerprintId": 774611416,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3409814,
+        "gameVersionMappingId": 3430006,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "appliedenergistics2-9.0.0-alpha.7.jar"
+        "FileNameOnDisk": "appliedenergistics2-9.0.0-beta.1.jar"
       },
       "dateInstalled": "2021-10-11T10:28:13.7313454Z",
-      "dateUpdated": "2021-10-24T21:25:27.2371963Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:25:27.2371963Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:24.2363994Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:24.2363994Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9203,41 +9203,41 @@
       "addonID": 386892,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3484064,
-        "displayName": "[Fabric 1.17.1] v0.4.0",
-        "fileName": "iron-jetpacks-0.4.0.jar",
-        "fileDate": "2021-10-07T15:49:41.433Z",
-        "fileLength": 239466,
+        "id": 3507262,
+        "displayName": "[Fabric 1.17.1] v0.4.1",
+        "fileName": "iron-jetpacks-0.4.1.jar",
+        "fileDate": "2021-10-28T08:20:42.43Z",
+        "fileLength": 233699,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3484/64/iron-jetpacks-0.4.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3507/262/iron-jetpacks-0.4.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 75302344,
-            "addonId": 317121,
-            "type": 3,
-            "fileId": 3484064
-          },
-          {
-            "id": 75302343,
-            "addonId": 373261,
-            "type": 3,
-            "fileId": 3484064
-          },
-          {
-            "id": 75302342,
+            "id": 76946060,
             "addonId": 419697,
             "type": 3,
-            "fileId": 3484064
+            "fileId": 3507262
+          },
+          {
+            "id": 76946061,
+            "addonId": 373261,
+            "type": 3,
+            "fileId": 3507262
+          },
+          {
+            "id": 76946062,
+            "addonId": 317121,
+            "type": 3,
+            "fileId": 3507262
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4054262716,
+            "fingerprint": 1372451054,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -9255,7 +9255,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 129539247,
+            "fingerprint": 2257131538,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -9285,12 +9285,12 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 3238500118,
+            "fingerprint": 530376568,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1706073753,
+        "packageFingerprint": 656713279,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -9332,19 +9332,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2531044,
+        "renderCacheId": 2560607,
         "projectId": 386892,
-        "packageFingerprintId": 758023854,
+        "packageFingerprintId": 771969355,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3363647,
+        "gameVersionMappingId": 3419721,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "iron-jetpacks-0.4.0.jar"
+        "FileNameOnDisk": "iron-jetpacks-0.4.1.jar"
       },
       "dateInstalled": "2021-10-27T02:16:23.0497701Z",
-      "dateUpdated": "2021-10-27T02:16:23.0567686Z",
-      "dateLastUpdateAttempted": "2021-10-27T02:16:23.0567686Z",
+      "dateUpdated": "2021-10-31T23:56:35.3243802Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:35.3243802Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -9642,28 +9642,28 @@
       "addonID": 391366,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3498266,
-        "displayName": "Repurposed Structures v2.4.3 (1.17.1 MC)",
-        "fileName": "repurposed_structures_fabric-2.4.3+1.17.1.jar",
-        "fileDate": "2021-10-21T17:59:38.413Z",
-        "fileLength": 5631033,
+        "id": 3508795,
+        "displayName": "Repurposed Structures v2.4.4 (1.17.1 MC)",
+        "fileName": "repurposed_structures_fabric-2.4.4+1.17.1.jar",
+        "fileDate": "2021-10-29T21:36:06.527Z",
+        "fileLength": 5631470,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3498/266/repurposed_structures_fabric-2.4.3+1.17.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3508/795/repurposed_structures_fabric-2.4.4+1.17.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76366298,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3498266
-          },
-          {
-            "id": 76366299,
+            "id": 77067796,
             "addonId": 317121,
             "type": 3,
-            "fileId": 3498266
+            "fileId": 3508795
+          },
+          {
+            "id": 77067795,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3508795
           }
         ],
         "isAvailable": true,
@@ -9694,7 +9694,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 947833012,
+            "fingerprint": 3443278702,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -9718,12 +9718,12 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 122132301,
+            "fingerprint": 2997769196,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2606873041,
+        "packageFingerprint": 1906334221,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -9757,20 +9757,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2549568,
+        "renderCacheId": 2562594,
         "projectId": 391366,
-        "packageFingerprintId": 767319200,
+        "packageFingerprintId": 773256409,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3401084,
+        "gameVersionMappingId": 3424045,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "repurposed_structures_fabric-2.4.3+1.17.1.jar"
+        "FileNameOnDisk": "repurposed_structures_fabric-2.4.4+1.17.1.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.614456Z",
-      "dateUpdated": "2021-10-24T21:01:10.3651565Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:10.3651565Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:40.483238Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:40.483238Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10147,7 +10147,7 @@
       "dateInstalled": "2021-10-27T01:41:18.3925808Z",
       "dateUpdated": "2021-10-27T01:41:18.3925808Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10494,41 +10494,47 @@
       "addonID": 534373,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3493630,
-        "displayName": "goblin-traders-1.1.1.jar",
-        "fileName": "goblin-traders-1.1.1.jar",
-        "fileDate": "2021-10-17T06:07:27.02Z",
-        "fileLength": 1010203,
+        "id": 3506061,
+        "displayName": "goblin-traders-1.2.0.jar",
+        "fileName": "goblin-traders-1.2.0.jar",
+        "fileDate": "2021-10-27T03:42:25.403Z",
+        "fileLength": 1102503,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3493/630/goblin-traders-1.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3506/61/goblin-traders-1.2.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76009547,
+            "id": 76851988,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3493630
+            "fileId": 3506061
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2751170136,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1876383331,
+            "fingerprint": 1929968005,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 4150251363,
+            "fingerprint": 3214299234,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1163396939,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2198397153,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -10539,31 +10545,25 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 2579336299,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "GobTFabric.mixins.json",
-            "fingerprint": 3569191217,
+            "fingerprint": 3859950513,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "goblin-traders-refmap.json",
-            "fingerprint": 3916436291,
+            "fingerprint": 2504090738,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 1829106766,
+            "fingerprint": 1342604489,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3882128432,
+        "packageFingerprint": 3587709831,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -10589,19 +10589,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2543541,
+        "renderCacheId": 2559078,
         "projectId": 534373,
-        "packageFingerprintId": 763960749,
+        "packageFingerprintId": 771197694,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3388651,
+        "gameVersionMappingId": 3416767,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "goblin-traders-1.1.1.jar"
+        "FileNameOnDisk": "goblin-traders-1.2.0.jar"
       },
       "dateInstalled": "2021-10-27T01:49:21.231367Z",
-      "dateUpdated": "2021-10-27T01:49:21.231367Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "dateUpdated": "2021-10-31T23:56:34.261215Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:34.261215Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -10737,7 +10737,7 @@
       "dateInstalled": "2021-10-27T01:42:36.307766Z",
       "dateUpdated": "2021-10-27T01:42:36.307766Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13035,6 +13035,147 @@
       "installedTargets": null
     },
     {
+      "addonID": 541171,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3508937,
+        "displayName": "travelers-backpack-1.17.1-6.0.0.jar",
+        "fileName": "travelers-backpack-1.17.1-6.0.0.jar",
+        "fileDate": "2021-10-30T00:25:36.683Z",
+        "fileLength": 1269538,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3508/937/travelers-backpack-1.17.1-6.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 77078660,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3508937
+          },
+          {
+            "id": 77078659,
+            "addonId": 318449,
+            "type": 1,
+            "fileId": 3508937
+          },
+          {
+            "id": 77078661,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3508937
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2341041893,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_travelers-backpack",
+            "fingerprint": 18375977,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "travelersbackpack.mixins.json",
+            "fingerprint": 111808795,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "travelersbackpack.accesswidener",
+            "fingerprint": 2656880819,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 525284703,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2250455669,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3015714023,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "travelers-backpack-refmap.json",
+            "fingerprint": 3850325688,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3064871921,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2770570207,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2562790,
+        "projectId": 541171,
+        "packageFingerprintId": 773374750,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3424481,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "travelers-backpack-1.17.1-6.0.0.jar"
+      },
+      "dateInstalled": "2021-10-31T23:55:15.8047021Z",
+      "dateUpdated": "2021-10-31T23:55:15.8166985Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:55:15.8166985Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 521065,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
@@ -13367,14 +13508,14 @@
       "addonID": 306612,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3494349,
-        "displayName": "[1.17.1] Fabric API 0.41.0",
-        "fileName": "fabric-api-0.41.0+1.17.jar",
-        "fileDate": "2021-10-17T18:27:14.66Z",
-        "fileLength": 1116656,
+        "id": 3510335,
+        "displayName": "[1.17.1] Fabric API 0.41.3",
+        "fileName": "fabric-api-0.41.3+1.17.jar",
+        "fileDate": "2021-10-31T11:30:45.553Z",
+        "fileLength": 1115531,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3494/349/fabric-api-0.41.0+1.17.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3510/335/fabric-api-0.41.3+1.17.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -13382,7 +13523,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 579749651,
+            "fingerprint": 2636925670,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -13394,12 +13535,12 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3056591643,
+            "fingerprint": 1006016732,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2846834524,
+        "packageFingerprint": 2986694412,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -13425,20 +13566,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2544466,
+        "renderCacheId": 2564647,
         "projectId": 306612,
-        "packageFingerprintId": 764554260,
+        "packageFingerprintId": 774231161,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3390884,
+        "gameVersionMappingId": 3428056,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "fabric-api-0.41.0+1.17.jar"
+        "FileNameOnDisk": "fabric-api-0.41.3+1.17.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.4765001Z",
-      "dateUpdated": "2021-10-24T21:00:43.5061418Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:00:43.5061418Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:32.4023065Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:32.4023065Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14140,29 +14281,29 @@
       "addonID": 521126,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3492073,
-        "displayName": "[1.17.1] Visuality 0.2.0",
-        "fileName": "visuality-mc1.17.1-0.2.0.jar",
-        "fileDate": "2021-10-15T18:49:41.15Z",
-        "fileLength": 104648,
+        "id": 3511496,
+        "displayName": "[1.17.1] Visuality 0.3.0",
+        "fileName": "visuality-mc1.17.1-0.3.0.jar",
+        "fileDate": "2021-11-01T12:27:39.07Z",
+        "fileLength": 107569,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3492/73/visuality-mc1.17.1-0.2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/496/visuality-mc1.17.1-0.3.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 75891266,
+            "id": 77281417,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3492073
+            "fileId": 3511496
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3652401915,
+            "fingerprint": 3264492827,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -14180,30 +14321,30 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 184789834,
+            "fingerprint": 855123779,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 923996439,
+            "fingerprint": 2028325265,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "visuality-refmap.json",
-            "fingerprint": 3636884798,
+            "fingerprint": 3425469596,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "ru",
-            "fingerprint": 2257507178,
+            "fingerprint": 3849979506,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2877199911,
+        "packageFingerprint": 1299404091,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -14229,19 +14370,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2541473,
+        "renderCacheId": 2566142,
         "projectId": 521126,
-        "packageFingerprintId": 763044979,
+        "packageFingerprintId": 774957360,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3384557,
+        "gameVersionMappingId": 3431233,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "visuality-mc1.17.1-0.2.0.jar"
+        "FileNameOnDisk": "visuality-mc1.17.1-0.3.0.jar"
       },
       "dateInstalled": "2021-10-27T02:08:23.4590552Z",
-      "dateUpdated": "2021-10-27T02:08:23.4660539Z",
-      "dateLastUpdateAttempted": "2021-10-27T02:08:23.4660539Z",
+      "dateUpdated": "2021-11-01T14:04:23.8285459Z",
+      "dateLastUpdateAttempted": "2021-11-01T14:04:23.8285459Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -15917,52 +16058,52 @@
       "addonID": 415057,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3502480,
-        "displayName": "[FABRIC] Outvoted-1.5.0-beta.1",
-        "fileName": "outvoted-1.5.0-b1.jar",
-        "fileDate": "2021-10-24T17:55:18.44Z",
-        "fileLength": 537219,
+        "id": 3507891,
+        "displayName": "[FABRIC] Outvoted-1.5.0-beta.3",
+        "fileName": "outvoted-1.5.0-beta.3.jar",
+        "fileDate": "2021-10-29T00:55:06.717Z",
+        "fileLength": 541971,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3502/480/outvoted-1.5.0-b1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3507/891/outvoted-1.5.0-beta.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76628089,
-            "addonId": 388172,
-            "type": 3,
-            "fileId": 3502480
-          },
-          {
-            "id": 76628093,
-            "addonId": 308702,
-            "type": 2,
-            "fileId": 3502480
-          },
-          {
-            "id": 76628090,
-            "addonId": 419697,
-            "type": 3,
-            "fileId": 3502480
-          },
-          {
-            "id": 76628091,
-            "addonId": 319057,
-            "type": 3,
-            "fileId": 3502480
-          },
-          {
-            "id": 76628092,
+            "id": 76997825,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3502480
+            "fileId": 3507891
           },
           {
-            "id": 76628094,
+            "id": 76997828,
+            "addonId": 419697,
+            "type": 3,
+            "fileId": 3507891
+          },
+          {
+            "id": 76997826,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3507891
+          },
+          {
+            "id": 76997829,
             "addonId": 393236,
             "type": 2,
-            "fileId": 3502480
+            "fileId": 3507891
+          },
+          {
+            "id": 76997827,
+            "addonId": 388172,
+            "type": 3,
+            "fileId": 3507891
+          },
+          {
+            "id": 76997830,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3507891
           }
         ],
         "isAvailable": true,
@@ -15975,7 +16116,7 @@
           },
           {
             "foldername": "outvoted.mixins.json",
-            "fingerprint": 1347388601,
+            "fingerprint": 546715114,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -15993,7 +16134,7 @@
           },
           {
             "foldername": "outvoted-fabric.mixins.json",
-            "fingerprint": 1251498668,
+            "fingerprint": 3656216726,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -16005,25 +16146,25 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 2825102147,
+            "fingerprint": 3325169046,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
-            "fingerprint": 1118468258,
+            "fingerprint": 894204086,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3662356019,
+            "fingerprint": 1721503995,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 2279132240,
+            "fingerprint": 3537638275,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -16035,21 +16176,20 @@
           },
           {
             "foldername": "io",
-            "fingerprint": 1185340069,
+            "fingerprint": 1257543488,
             "type": 3,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_outvoted_common_43d50d53acdd4016b1f3354b7662c6de_22277dd0482b4b8a9ddb73d9d4fa0055129b5af700e6ccc63ffacd6b88467b4aoutvoted150b1devjar",
-            "fingerprint": 3112451523,
+            "foldername": "architectury_inject_outvoted_common_43d50d53acdd4016b1f3354b7662c6de_53476bdf34f4299161fd1b2b7d4255c2683dcba5c311fe4d30c77a000de8af6aoutvoted150beta3devjar",
+            "fingerprint": 1345224292,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 401411049,
+        "packageFingerprint": 3183063895,
         "gameVersion": [
           "1.17.1",
-          "1.17",
           "Fabric"
         ],
         "sortableGameVersion": [
@@ -16058,13 +16198,6 @@
             "gameVersion": "1.17.1",
             "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
             "gameVersionName": "1.17.1",
-            "gameVersionTypeId": 73242
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17",
             "gameVersionTypeId": 73242
           },
           {
@@ -16080,20 +16213,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2554700,
+        "renderCacheId": 2561416,
         "projectId": 415057,
-        "packageFingerprintId": 769410119,
+        "packageFingerprintId": 772564746,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3409484,
+        "gameVersionMappingId": 3421474,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "outvoted-1.5.0-b1.jar"
+        "FileNameOnDisk": "outvoted-1.5.0-beta.3.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.4924962Z",
-      "dateUpdated": "2021-10-24T21:01:04.7984185Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:04.7984185Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:36.5314954Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:36.5314954Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16241,7 +16374,7 @@
       "dateInstalled": "2021-10-27T01:55:24.0618005Z",
       "dateUpdated": "2021-10-27T01:55:24.0717972Z",
       "dateLastUpdateAttempted": "2021-10-27T01:55:24.0717972Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16804,34 +16937,40 @@
       "addonID": 517833,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3501408,
-        "displayName": "arcanus-1.20.jar",
-        "fileName": "arcanus-1.20.jar",
-        "fileDate": "2021-10-23T18:30:23.03Z",
-        "fileLength": 537586,
+        "id": 3509676,
+        "displayName": "arcanus-1.22.jar",
+        "fileName": "arcanus-1.22.jar",
+        "fileDate": "2021-10-30T18:50:00.83Z",
+        "fileLength": 538796,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3501/408/arcanus-1.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3509/676/arcanus-1.22.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76543694,
-            "addonId": 319057,
-            "type": 3,
-            "fileId": 3501408
-          },
-          {
-            "id": 76543696,
+            "id": 77141526,
             "addonId": 341284,
             "type": 3,
-            "fileId": 3501408
+            "fileId": 3509676
           },
           {
-            "id": 76543695,
+            "id": 77141524,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3509676
+          },
+          {
+            "id": 77141525,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3501408
+            "fileId": 3509676
+          },
+          {
+            "id": 77141523,
+            "addonId": 320211,
+            "type": 2,
+            "fileId": 3509676
           }
         ],
         "isAvailable": true,
@@ -16868,7 +17007,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3206902360,
+            "fingerprint": 338878237,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -16880,12 +17019,12 @@
           },
           {
             "foldername": "dev",
-            "fingerprint": 1773811726,
+            "fingerprint": 2778580599,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4031690695,
+        "packageFingerprint": 4281989196,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -16919,20 +17058,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2553287,
+        "renderCacheId": 2563760,
         "projectId": 517833,
-        "packageFingerprintId": 768694657,
+        "packageFingerprintId": 773898803,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3406858,
+        "gameVersionMappingId": 3426411,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "arcanus-1.20.jar"
+        "FileNameOnDisk": "arcanus-1.22.jar"
       },
       "dateInstalled": "2021-10-11T10:28:13.7423417Z",
-      "dateUpdated": "2021-10-24T21:00:31.5334277Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:00:31.5334277Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:26.8905581Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:26.8905581Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -18135,6 +18274,135 @@
       "installedTargets": null
     },
     {
+      "addonID": 541329,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3504718,
+        "displayName": "EquipmentCompare-1.17.1-fabric-1.2.7.jar",
+        "fileName": "EquipmentCompare-1.17.1-fabric-1.2.7.jar",
+        "fileDate": "2021-10-25T20:23:17.3Z",
+        "fileLength": 96545,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3504/718/EquipmentCompare-1.17.1-fabric-1.2.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 76726324,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3504718
+          },
+          {
+            "id": 76726325,
+            "addonId": 341284,
+            "type": 2,
+            "fileId": 3504718
+          },
+          {
+            "id": 76726322,
+            "addonId": 539382,
+            "type": 3,
+            "fileId": 3504718
+          },
+          {
+            "id": 76726323,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3504718
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2325037213,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 2496969351,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2595639417,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "equipmentcompare.mixins.json",
+            "fingerprint": 2935614340,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "EquipmentCompare-1.17.1-fabric-refmap.json",
+            "fingerprint": 3969516504,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3361032589,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1116897267,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2557346,
+        "projectId": 541329,
+        "packageFingerprintId": 770337642,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3413459,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "EquipmentCompare-1.17.1-fabric-1.2.7.jar"
+      },
+      "dateInstalled": "2021-10-31T23:56:15.1912697Z",
+      "dateUpdated": "2021-10-31T23:56:15.2032661Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:15.2032661Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 320163,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
@@ -18671,6 +18939,124 @@
       "installedTargets": null
     },
     {
+      "addonID": 306770,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3459118,
+        "displayName": "Patchouli-1.16.4-53.2.jar",
+        "fileName": "Patchouli-1.16.4-53.2.jar",
+        "fileDate": "2021-09-14T05:44:05.877Z",
+        "fileLength": 593114,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3459/118/Patchouli-1.16.4-53.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 324335310,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 742263531,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 887639394,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 636248690,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 141162411,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 4171053254,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "patchouli.refmap.json",
+            "fingerprint": 3277061942,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1640373126,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000004",
+            "gameVersion": "1.16.4",
+            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+            "gameVersionName": "1.16.4",
+            "gameVersionTypeId": 70886
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2499697,
+        "projectId": 306770,
+        "packageFingerprintId": 744708255,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3304774,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Patchouli-1.16.4-53.2.jar"
+      },
+      "dateInstalled": "2021-10-31T23:56:29.8890995Z",
+      "dateUpdated": "2021-10-31T23:56:29.8926047Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:29.8926047Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 387197,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
@@ -19179,6 +19565,123 @@
       "installedTargets": null
     },
     {
+      "addonID": 542478,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3509600,
+        "displayName": "LegendaryTooltips-1.17.1-fabric-1.1.1.jar",
+        "fileName": "LegendaryTooltips-1.17.1-fabric-1.1.1.jar",
+        "fileDate": "2021-10-30T17:20:47.64Z",
+        "fileLength": 25436,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3509/600/LegendaryTooltips-1.17.1-fabric-1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 77135701,
+            "addonId": 541329,
+            "type": 2,
+            "fileId": 3509600
+          },
+          {
+            "id": 77135700,
+            "addonId": 539382,
+            "type": 3,
+            "fileId": 3509600
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3886491887,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "legendarytooltips.accesswidener",
+            "fingerprint": 1021080642,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 559924359,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 854342809,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4027166587,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 204993538,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3463662038,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2563668,
+        "projectId": 542478,
+        "packageFingerprintId": 773851027,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3426208,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "LegendaryTooltips-1.17.1-fabric-1.1.1.jar"
+      },
+      "dateInstalled": "2021-10-31T23:56:14.1625995Z",
+      "dateUpdated": "2021-10-31T23:56:14.2095851Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:14.2095851Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 400619,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
@@ -19490,7 +19993,7 @@
       "dateInstalled": "2021-10-27T02:28:21.9656988Z",
       "dateUpdated": "2021-10-27T02:28:21.9736972Z",
       "dateLastUpdateAttempted": "2021-10-27T02:28:21.9736972Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19816,14 +20319,14 @@
       "addonID": 362669,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3496858,
-        "displayName": "quickshulker-1.3.0-1.17.jar",
-        "fileName": "quickshulker-1.3.0-1.17.jar",
-        "fileDate": "2021-10-20T06:42:28.497Z",
-        "fileLength": 1077267,
+        "id": 3507182,
+        "displayName": "quickshulker-1.3.1-1.17.jar",
+        "fileName": "quickshulker-1.3.1-1.17.jar",
+        "fileDate": "2021-10-28T05:40:01.64Z",
+        "fileLength": 1077268,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3496/858/quickshulker-1.3.0-1.17.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3507/182/quickshulker-1.3.1-1.17.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -19855,7 +20358,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 4087593338,
+            "fingerprint": 3858164320,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -19873,12 +20376,12 @@
           },
           {
             "foldername": "net",
-            "fingerprint": 1721512758,
+            "fingerprint": 2977816025,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3681543194,
+        "packageFingerprint": 676730925,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -19904,20 +20407,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2547745,
+        "renderCacheId": 2560507,
         "projectId": 362669,
-        "packageFingerprintId": 766123058,
+        "packageFingerprintId": 771915118,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3397229,
+        "gameVersionMappingId": 3419539,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "quickshulker-1.3.0-1.17.jar"
+        "FileNameOnDisk": "quickshulker-1.3.1-1.17.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.5614731Z",
-      "dateUpdated": "2021-10-24T21:01:07.9844111Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:07.9844111Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:39.175151Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:39.175151Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20821,28 +21324,28 @@
       "addonID": 511254,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3495070,
-        "displayName": "quarry-reborn-1.17-0.5.0.jar",
-        "fileName": "quarry-reborn-1.17-0.5.0.jar",
-        "fileDate": "2021-10-18T10:47:12.837Z",
-        "fileLength": 111876,
+        "id": 3510303,
+        "displayName": "quarry-reborn-1.17-0.5.1.jar",
+        "fileName": "quarry-reborn-1.17-0.5.1.jar",
+        "fileDate": "2021-10-31T11:01:00.173Z",
+        "fileLength": 117686,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3495/70/quarry-reborn-1.17-0.5.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3510/303/quarry-reborn-1.17-0.5.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76126036,
-            "addonId": 237903,
-            "type": 3,
-            "fileId": 3495070
-          },
-          {
-            "id": 76126035,
+            "id": 77184818,
             "addonId": 233564,
             "type": 3,
-            "fileId": 3495070
+            "fileId": 3510303
+          },
+          {
+            "id": 77184819,
+            "addonId": 237903,
+            "type": 3,
+            "fileId": 3510303
           }
         ],
         "isAvailable": true,
@@ -20855,7 +21358,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 2899825877,
+            "fingerprint": 2366086416,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -20867,18 +21370,18 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 341061709,
+            "fingerprint": 3951465016,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "net",
-            "fingerprint": 915300427,
+            "fingerprint": 1905664889,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2248369458,
+        "packageFingerprint": 3655641547,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -20912,20 +21415,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2545405,
+        "renderCacheId": 2564609,
         "projectId": 511254,
-        "packageFingerprintId": 765000168,
+        "packageFingerprintId": 774214373,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3392521,
+        "gameVersionMappingId": 3427939,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "quarry-reborn-1.17-0.5.0.jar"
+        "FileNameOnDisk": "quarry-reborn-1.17-0.5.1.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.5064911Z",
-      "dateUpdated": "2021-10-24T21:01:06.552363Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:06.552363Z",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:37.6111483Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:37.6111483Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21485,7 +21988,7 @@
       "dateInstalled": "2021-10-27T01:42:36.3087664Z",
       "dateUpdated": "2021-10-27T01:42:36.3087664Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21500,46 +22003,46 @@
       "addonID": 459929,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3502640,
-        "displayName": "9.0.0-beta.5",
-        "fileName": "AE2WTLib-9.0.0-beta.5.jar",
-        "fileDate": "2021-10-24T20:26:21.153Z",
-        "fileLength": 229318,
+        "id": 3506827,
+        "displayName": "9.0.0-beta.6",
+        "fileName": "AE2WTLib-9.0.0-beta.6.jar",
+        "fileDate": "2021-10-27T20:23:54.077Z",
+        "fileLength": 230653,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3502/640/AE2WTLib-9.0.0-beta.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3506/827/AE2WTLib-9.0.0-beta.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76636191,
-            "addonId": 341284,
-            "type": 2,
-            "fileId": 3502640
-          },
-          {
-            "id": 76636188,
+            "id": 76911979,
             "addonId": 310111,
             "type": 2,
-            "fileId": 3502640
+            "fileId": 3506827
           },
           {
-            "id": 76636187,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3502640
+            "id": 76911982,
+            "addonId": 341284,
+            "type": 2,
+            "fileId": 3506827
           },
           {
-            "id": 76636190,
+            "id": 76911981,
             "addonId": 478687,
             "type": 2,
-            "fileId": 3502640
+            "fileId": 3506827
           },
           {
-            "id": 76636189,
+            "id": 76911980,
             "addonId": 223794,
             "type": 3,
-            "fileId": 3502640
+            "fileId": 3506827
+          },
+          {
+            "id": 76911978,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3506827
           }
         ],
         "isAvailable": true,
@@ -21564,13 +22067,13 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2927609208,
+            "fingerprint": 827255572,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1307455098,
+            "fingerprint": 3525423544,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -21588,12 +22091,12 @@
           },
           {
             "foldername": "de",
-            "fingerprint": 1141815193,
+            "fingerprint": 3239281022,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4201082053,
+        "packageFingerprint": 538536206,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -21619,24 +22122,24 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2554922,
+        "renderCacheId": 2560035,
         "projectId": 459929,
-        "packageFingerprintId": 769545412,
+        "packageFingerprintId": 771710127,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3409869,
+        "gameVersionMappingId": 3418665,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "AE2WTLib-9.0.0-beta.5.jar"
+        "FileNameOnDisk": "AE2WTLib-9.0.0-beta.6.jar.disabled"
       },
       "dateInstalled": "2021-10-27T01:40:18.8535107Z",
-      "dateUpdated": "2021-10-27T01:40:18.8535107Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "dateUpdated": "2021-10-31T23:56:25.7634119Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:25.7634119Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -22140,7 +22643,7 @@
       "dateInstalled": "2021-10-27T02:10:15.3980588Z",
       "dateUpdated": "2021-10-27T02:10:15.4050575Z",
       "dateLastUpdateAttempted": "2021-10-27T02:10:15.4050575Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -22408,34 +22911,34 @@
       "addonID": 440979,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3497888,
-        "displayName": "[1.17.1] 3.10.0",
-        "fileName": "wthit-fabric-3.10.0.jar",
-        "fileDate": "2021-10-21T09:13:33.997Z",
-        "fileLength": 258137,
+        "id": 3511294,
+        "displayName": "[1.17.1] 3.10.1",
+        "fileName": "wthit-fabric-3.10.1.jar",
+        "fileDate": "2021-11-01T05:53:50.88Z",
+        "fileLength": 259563,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3497/888/wthit-fabric-3.10.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/294/wthit-fabric-3.10.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76335901,
+            "id": 77265347,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3497888
+            "fileId": 3511294
           },
           {
-            "id": 76335902,
-            "addonId": 310111,
-            "type": 2,
-            "fileId": 3497888
-          },
-          {
-            "id": 76335903,
+            "id": 77265349,
             "addonId": 308702,
             "type": 2,
-            "fileId": 3497888
+            "fileId": 3511294
+          },
+          {
+            "id": 77265348,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 3511294
           }
         ],
         "isAvailable": true,
@@ -22460,7 +22963,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 458516414,
+            "fingerprint": 3696642189,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -22472,12 +22975,12 @@
           },
           {
             "foldername": "mcp",
-            "fingerprint": 4146236088,
+            "fingerprint": 2689031494,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1930163384,
+        "packageFingerprint": 221662438,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -22511,20 +23014,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2549091,
+        "renderCacheId": 2565886,
         "projectId": 440979,
-        "packageFingerprintId": 767018331,
+        "packageFingerprintId": 774856750,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3399913,
+        "gameVersionMappingId": 3430706,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "wthit-fabric-3.10.0.jar"
+        "FileNameOnDisk": "wthit-fabric-3.10.1.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.4375131Z",
-      "dateUpdated": "2021-10-24T21:01:23.389048Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:23.389048Z",
-      "status": 5,
+      "dateUpdated": "2021-11-01T14:36:16.3206309Z",
+      "dateLastUpdateAttempted": "2021-11-01T14:36:16.3206309Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -23429,47 +23932,47 @@
       "addonID": 263420,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3502008,
-        "displayName": "v21.20.0 for Fabric 1.17.1 - 1.17",
-        "fileName": "Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar",
-        "fileDate": "2021-10-24T09:18:03.177Z",
-        "fileLength": 1135643,
+        "id": 3511446,
+        "displayName": "v21.21.0 for Fabric 1.17.1 - 1.17",
+        "fileName": "Xaeros_Minimap_21.21.0_Fabric_1.17.1.jar",
+        "fileDate": "2021-11-01T11:25:19.56Z",
+        "fileLength": 1138602,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3502/8/Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/446/Xaeros_Minimap_21.21.0_Fabric_1.17.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 76593973,
+            "id": 77276541,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3502008
+            "fileId": 3511446
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4264304428,
+            "fingerprint": 1885335830,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 163498090,
+            "fingerprint": 3920201741,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3222898133,
+            "fingerprint": 2129814205,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "xaero",
-            "fingerprint": 1999806814,
+            "fingerprint": 1339469524,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -23486,7 +23989,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1353883916,
+        "packageFingerprint": 2283194146,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -23520,20 +24023,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2554071,
+        "renderCacheId": 2566081,
         "projectId": 263420,
-        "packageFingerprintId": 769109859,
+        "packageFingerprintId": 774933634,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3408319,
+        "gameVersionMappingId": 3431090,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar"
+        "FileNameOnDisk": "Xaeros_Minimap_21.21.0_Fabric_1.17.1.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.4465101Z",
-      "dateUpdated": "2021-10-24T21:01:24.7521194Z",
-      "dateLastUpdateAttempted": "2021-10-24T21:01:24.7521194Z",
-      "status": 5,
+      "dateUpdated": "2021-11-01T14:36:18.0975668Z",
+      "dateLastUpdateAttempted": "2021-11-01T14:36:18.0975668Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -23676,14 +24179,14 @@
       "addonID": 521480,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3504663,
-        "displayName": "1.2.0 (Fabric)",
-        "fileName": "3dSkinLayers-Fabric-1.2.0.jar",
-        "fileDate": "2021-10-25T19:35:03.77Z",
-        "fileLength": 414205,
+        "id": 3508072,
+        "displayName": "1.2.1 (Fabric)",
+        "fileName": "3dSkinLayers-Fabric-1.2.1.jar",
+        "fileDate": "2021-10-29T06:21:15.047Z",
+        "fileLength": 414207,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3504/663/3dSkinLayers-Fabric-1.2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3508/72/3dSkinLayers-Fabric-1.2.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -23709,7 +24212,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 1035333587,
+            "fingerprint": 4230611710,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -23721,12 +24224,12 @@
           },
           {
             "foldername": "dev",
-            "fingerprint": 2468940668,
+            "fingerprint": 1494249812,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3715723200,
+        "packageFingerprint": 1570446429,
         "gameVersion": [
           "1.17.1",
           "1.17",
@@ -23760,19 +24263,19 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2557276,
+        "renderCacheId": 2561649,
         "projectId": 521480,
-        "packageFingerprintId": 770309007,
+        "packageFingerprintId": 772686916,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3413327,
+        "gameVersionMappingId": 3421986,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "3dSkinLayers-Fabric-1.2.0.jar"
+        "FileNameOnDisk": "3dSkinLayers-Fabric-1.2.1.jar"
       },
       "dateInstalled": "2021-10-07T05:32:18.9711728Z",
-      "dateUpdated": "2021-10-27T02:20:23.4885007Z",
-      "dateLastUpdateAttempted": "2021-10-27T02:20:23.4885007Z",
+      "dateUpdated": "2021-10-31T23:56:42.109272Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:42.109272Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -24406,6 +24909,129 @@
       "installedTargets": null
     },
     {
+      "addonID": 541604,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3505812,
+        "displayName": "ItemBorders-1.17.1-fabric-1.1.2.jar",
+        "fileName": "ItemBorders-1.17.1-fabric-1.1.2.jar",
+        "fileDate": "2021-10-26T21:48:47.46Z",
+        "fileLength": 16127,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3505/812/ItemBorders-1.17.1-fabric-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 76826778,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3505812
+          },
+          {
+            "id": 76826777,
+            "addonId": 539382,
+            "type": 3,
+            "fileId": 3505812
+          },
+          {
+            "id": 76826779,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3505812
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1800157183,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "itemborders.mixins.json",
+            "fingerprint": 3080069982,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 2466089056,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3261639562,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ItemBorders-1.17.1-fabric-refmap.json",
+            "fingerprint": 253744957,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3284179547,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3063887475,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2558736,
+        "projectId": 541604,
+        "packageFingerprintId": 771041465,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3416166,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ItemBorders-1.17.1-fabric-1.1.2.jar"
+      },
+      "dateInstalled": "2021-10-31T23:55:03.9944613Z",
+      "dateUpdated": "2021-10-31T23:55:04.0514437Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:55:04.0514437Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 385230,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
@@ -24612,6 +25238,122 @@
       "dateUpdated": "2021-10-11T10:41:09.4964943Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 539382,
+      "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
+      "installedFile": {
+        "id": 3511943,
+        "displayName": "Iceberg-1.17.1-fabric-1.0.22.jar",
+        "fileName": "Iceberg-1.17.1-fabric-1.0.22.jar",
+        "fileDate": "2021-11-01T19:55:38.903Z",
+        "fileLength": 62291,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/943/Iceberg-1.17.1-fabric-1.0.22.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1325728949,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_Iceberg-1.17.1-fabric",
+            "fingerprint": 206448344,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 577472019,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "iceberg.mixins.json",
+            "fingerprint": 1790291679,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "iceberg.accesswidener",
+            "fingerprint": 944261439,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2401200030,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Iceberg-1.17.1-fabric-refmap.json",
+            "fingerprint": 291142049,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3214473623,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2138104216,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2566718,
+        "projectId": 539382,
+        "packageFingerprintId": 775313538,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3432430,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Iceberg-1.17.1-fabric-1.0.22.jar"
+      },
+      "dateInstalled": "2021-10-31T23:56:09.9674335Z",
+      "dateUpdated": "2021-11-01T20:44:00.5256156Z",
+      "dateLastUpdateAttempted": "2021-11-01T20:44:00.5256156Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -25649,7 +26391,7 @@
       "dateInstalled": "2021-10-11T10:43:36.2934875Z",
       "dateUpdated": "2021-10-27T02:20:14.8472525Z",
       "dateLastUpdateAttempted": "2021-10-27T02:20:14.8472525Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -26211,35 +26953,35 @@
       "addonID": 444498,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3459369,
-        "displayName": "flytre-lib-1.3.9.jar",
-        "fileName": "flytre-lib-1.3.9.jar",
-        "fileDate": "2021-09-14T13:47:38.317Z",
-        "fileLength": 536083,
+        "id": 3511041,
+        "displayName": "flytre-lib-1.4.2.jar",
+        "fileName": "flytre-lib-1.4.2.jar",
+        "fileDate": "2021-10-31T22:29:46.093Z",
+        "fileLength": 546043,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3459/369/flytre-lib-1.3.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3511/41/flytre-lib-1.4.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 73806988,
-            "addonId": 310111,
-            "type": 2,
-            "fileId": 3459369
-          },
-          {
-            "id": 73806987,
+            "id": 77243288,
             "addonId": 306612,
             "type": 2,
-            "fileId": 3459369
+            "fileId": 3511041
+          },
+          {
+            "id": 77243289,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 3511041
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2561709750,
+            "fingerprint": 2211778545,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -26251,12 +26993,12 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3432902623,
+            "fingerprint": 201239070,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3911748642,
+        "packageFingerprint": 1284424947,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -26267,14 +27009,14 @@
             "gameVersion": "1.17.1",
             "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
             "gameVersionName": "1.17.1",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 73242
           },
           {
             "gameVersionPadded": "0",
             "gameVersion": "",
             "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
             "gameVersionName": "Fabric",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 68441
           }
         ],
         "hasInstallScript": false,
@@ -26282,20 +27024,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2500006,
+        "renderCacheId": 2565563,
         "projectId": 444498,
-        "packageFingerprintId": 744840495,
+        "packageFingerprintId": 774604497,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3305549,
+        "gameVersionMappingId": 3429967,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "flytre-lib-1.3.9.jar"
+        "FileNameOnDisk": "flytre-lib-1.4.2.jar"
       },
       "dateInstalled": "2021-10-11T10:41:09.5514764Z",
-      "dateUpdated": "2021-10-11T10:41:09.5514764Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:31.1162116Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:31.1162116Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -26427,41 +27169,41 @@
       "addonID": 514882,
       "gameInstanceID": "a5724a36-77c9-44cb-91c0-b963c13f8bc5",
       "installedFile": {
-        "id": 3470740,
-        "displayName": "AdvancementPlaques-1.17.1-fabric-1.4.1.jar",
-        "fileName": "AdvancementPlaques-1.17.1-fabric-1.4.1.jar",
-        "fileDate": "2021-09-25T04:29:39.057Z",
-        "fileLength": 193584,
+        "id": 3507741,
+        "displayName": "AdvancementPlaques-1.17.1-fabric-1.4.2.jar",
+        "fileName": "AdvancementPlaques-1.17.1-fabric-1.4.2.jar",
+        "fileDate": "2021-10-28T20:45:31.45Z",
+        "fileLength": 186257,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3470/740/AdvancementPlaques-1.17.1-fabric-1.4.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3507/741/AdvancementPlaques-1.17.1-fabric-1.4.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 74529855,
+            "id": 76982335,
             "addonId": 440979,
             "type": 2,
-            "fileId": 3470740
+            "fileId": 3507741
           },
           {
-            "id": 74529856,
+            "id": 76982334,
+            "addonId": 539382,
+            "type": 3,
+            "fileId": 3507741
+          },
+          {
+            "id": 76982336,
             "addonId": 319057,
             "type": 3,
-            "fileId": 3470740
+            "fileId": 3507741
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 495773045,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_AdvancementPlaques-1.17.1-fabric",
-            "fingerprint": 206448344,
+            "fingerprint": 842938978,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -26473,7 +27215,7 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 2977064616,
+            "fingerprint": 1911306642,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -26491,12 +27233,12 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 1008387029,
+            "fingerprint": 3164418363,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2235102984,
+        "packageFingerprint": 797778468,
         "gameVersion": [
           "1.17.1",
           "Fabric"
@@ -26507,14 +27249,14 @@
             "gameVersion": "1.17.1",
             "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
             "gameVersionName": "1.17.1",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 73242
           },
           {
             "gameVersionPadded": "0",
             "gameVersion": "",
             "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
             "gameVersionName": "Fabric",
-            "gameVersionTypeId": 0
+            "gameVersionTypeId": 68441
           }
         ],
         "hasInstallScript": false,
@@ -26522,20 +27264,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2514149,
+        "renderCacheId": 2561223,
         "projectId": 514882,
-        "packageFingerprintId": 750665995,
+        "packageFingerprintId": 772436749,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3331818,
+        "gameVersionMappingId": 3421040,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "AdvancementPlaques-1.17.1-fabric-1.4.1.jar"
+        "FileNameOnDisk": "AdvancementPlaques-1.17.1-fabric-1.4.2.jar"
       },
       "dateInstalled": "2021-10-11T10:28:13.7083524Z",
-      "dateUpdated": "2021-10-11T10:28:13.7083524Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2021-10-31T23:56:22.5004497Z",
+      "dateLastUpdateAttempted": "2021-10-31T23:56:22.5004497Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -26655,7 +27397,7 @@
       "dateInstalled": "2021-10-27T01:28:56.5555469Z",
       "dateUpdated": "2021-10-27T01:28:56.5675428Z",
       "dateLastUpdateAttempted": "2021-10-27T01:28:56.5675428Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -27492,7 +28234,7 @@
       "dateInstalled": "2021-10-11T10:41:09.5894639Z",
       "dateUpdated": "2021-10-27T02:20:24.9230397Z",
       "dateLastUpdateAttempted": "2021-10-27T02:20:24.9230397Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
