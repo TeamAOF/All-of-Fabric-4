@@ -10,6 +10,9 @@ file = "config/AqMods/caracal.config"
 file = "config/AqMods/grizzly.config"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+
+[[files]]
 file = "config/Lakeside.properties"
 
 [[files]]
@@ -20,6 +23,9 @@ file = "config/additional-additions-config.json"
 
 [[files]]
 file = "config/advancementplaques.json5"
+
+[[files]]
+file = "config/ae2wtlib.json5"
 
 [[files]]
 file = "config/alaskanativecraft.json"
@@ -35,6 +41,9 @@ file = "config/appliedenergistics2/common.json"
 
 [[files]]
 file = "config/arcanus.json5"
+
+[[files]]
+file = "config/armorsoundtweak.toml"
 
 [[files]]
 file = "config/artifacts/general.toml"
@@ -121,6 +130,9 @@ file = "config/biome_locator_server.json5"
 file = "config/bountiful/bountiful.json"
 
 [[files]]
+file = "config/building_gadgets.json"
+
+[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
@@ -137,6 +149,9 @@ file = "config/charmonium.toml"
 
 [[files]]
 file = "config/cherishedworlds/favorites.dat"
+
+[[files]]
+file = "config/computercraft-client.toml"
 
 [[files]]
 file = "config/config.json"
@@ -205,6 +220,9 @@ file = "config/eggtab.toml"
 file = "config/entitybanners.json"
 
 [[files]]
+file = "config/equipmentcompare.json5"
+
+[[files]]
 file = "config/expandedstorage.json"
 
 [[files]]
@@ -215,6 +233,9 @@ file = "config/fabric/indigo-renderer.properties"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/fallingleaves.json"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -232,10 +253,16 @@ file = "config/flytre_lib.json5"
 file = "config/getoffmylawn.json5"
 
 [[files]]
+file = "config/goblintraders.toml"
+
+[[files]]
 file = "config/golemsgalore.json5"
 
 [[files]]
 file = "config/guild.json5"
+
+[[files]]
+file = "config/healthoverlay.json5"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -265,6 +292,9 @@ file = "config/indrev/upgrades.json"
 file = "config/inmis.json"
 
 [[files]]
+file = "config/inventoryhud.json"
+
+[[files]]
 file = "config/inventorysorter/blacklist.json5"
 
 [[files]]
@@ -272,6 +302,30 @@ file = "config/inventorysorter/config.json5"
 
 [[files]]
 file = "config/iris.properties"
+
+[[files]]
+file = "config/iron-jetpacks/client.json5"
+
+[[files]]
+file = "config/iron-jetpacks/common.json5"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/bronze.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/creative.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/electrum.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/invar.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/platinum.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/steel.json"
 
 [[files]]
 file = "config/kambrik_server_data.json"
@@ -340,6 +394,12 @@ file = "config/outvoted/common.json"
 file = "config/patchouli.json5"
 
 [[files]]
+file = "config/platforms/client.json5"
+
+[[files]]
+file = "config/platforms/common.json5"
+
+[[files]]
 file = "config/pling.json"
 
 [[files]]
@@ -386,6 +446,9 @@ file = "config/roughlyenoughitems/config.json5"
 
 [[files]]
 file = "config/rrp.properties"
+
+[[files]]
+file = "config/shetiphiancore/client.json5"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
@@ -487,6 +550,9 @@ file = "config/vanillaexcavators.json"
 file = "config/veinmining.json5"
 
 [[files]]
+file = "config/waila/blacklist.json"
+
+[[files]]
 file = "config/waila/megane.json"
 
 [[files]]
@@ -506,6 +572,9 @@ file = "config/winged.json5"
 
 [[files]]
 file = "config/xaerominimap.txt"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -608,6 +677,9 @@ file = "kubejs/startup_scripts/packversion.js"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
+
+[[files]]
+file = "minecraftinstance.json"
 
 [[files]]
 file = "toml_mods/addendum-fabric.toml"
@@ -930,6 +1002,10 @@ file = "toml_mods/fabric-waystones.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/falling-leaves-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/ferritecore-fabric.toml"
 metafile = true
 
@@ -1067,6 +1143,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/lazydfu.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/legendary-tooltips-fabric.toml"
 metafile = true
 
 [[files]]
@@ -1367,6 +1447,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/vanilla-hammers.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/visuality.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "Legendary Tooltips [Fabric]"
+filename = "LegendaryTooltips-1.17.1-fabric-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3509/600/LegendaryTooltips-1.17.1-fabric-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3463662038"
+
+[update]
+[update.curseforge]
+file-id = 3509600
+project-id = 542478
+release-channel = "beta"
