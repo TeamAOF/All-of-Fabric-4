@@ -1,0 +1,14 @@
+name = "Equipment Compare [Fabric]"
+filename = "EquipmentCompare-1.17.1-fabric-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/718/EquipmentCompare-1.17.1-fabric-1.2.7.jar"
+hash-format = "murmur2"
+hash = "1116897267"
+
+[update]
+[update.curseforge]
+file-id = 3504718
+project-id = 541329
+release-channel = "beta"

@@ -958,6 +958,10 @@ file = "toml_mods/entity-banners.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/equipment-compare-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/expanded-storage-fabric.toml"
 metafile = true
 
