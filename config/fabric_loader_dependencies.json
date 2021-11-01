@@ -720,6 +720,11 @@
             "-depends": {
                 "minecraft": ""
             }
+        },
+        "ae2wtlib": {
+            "-depends": {
+                "appliedenergistics2": ""
+            }
         }
     }
 }
