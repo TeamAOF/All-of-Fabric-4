@@ -1,0 +1,14 @@
+name = "Falling Leaves (Fabric)"
+filename = "fallingleaves-1.7.4+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3492/276/fallingleaves-1.7.4+1.17.1.jar"
+hash-format = "murmur2"
+hash = "3123132879"
+
+[update]
+[update.curseforge]
+file-id = 3492276
+project-id = 417510
+release-channel = "beta"
