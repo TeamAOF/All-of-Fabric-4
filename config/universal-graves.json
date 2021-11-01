@@ -13,10 +13,10 @@
   ],
   "isProtected": true,
   "protectionTime": -1,
-  "breakingTime": 10800,
+  "breakingTime": 86400,
   "breakEmptyGraves": true,
   "xpStorageType": "vanilla",
-  "xpPercentTypeValue": 100.0,
+  "xpPercentTypeValue": 25.0,
   "createFromPvP": true,
   "createInClaims": false,
   "dropItemsAfterExpiring": true,
@@ -24,35 +24,17 @@
   "hologram": true,
   "hologramOffset": 1.2,
   "hologramProtectedText": [
-    "<gold><lang:'text.graves.grave_of':'<white>${player}'>",
-    "<yellow>${death_cause}",
-    "",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "<gold><lang:'text.graves.grave_of':'<white>${player}'>"
   ],
   "hologramText": [
-    "<gold><lang:'text.graves.grave_of':'<white>${player}'>",
-    "<yellow>${death_cause}",
-    "",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.not_protected'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "<gold><lang:'text.graves.grave_of':'<white>${player}'>"
   ],
   "guiTitle": "<lang:'text.graves.gui_title':'${player}'>",
   "guiProtectedText": [
-    "${position} <gray>(${world})",
-    "<yellow>${death_cause}",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "${position} <gray>(${world})"
   ],
   "guiText": [
-    "${position} <gray>(${world})",
-    "<yellow>${death_cause}",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.not_protected'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "${position} <gray>(${world})"
   ],
   "messageGraveCreated": "<white><lang:'text.graves.created_at':'<yellow>${position}':'<gray>${world}'>",
   "messageProtectionEnded": "<red><lang:'text.graves.no_longer_protected':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",
