@@ -15,7 +15,7 @@
   "arm_above": 100,
   "arm_view": "percentage",
   "move_all": true,
-  "show_empty": true,
+  "show_empty": false,
   "show_armor": true,
   "show_main": false,
   "show_off": false,
