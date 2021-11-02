@@ -17,8 +17,6 @@ events.listen("recipes", function (event) {
     "#charm:barrels"
   );
 
-   event.remove({ output: "minecraft:barrel" });
-
    event.shapeless('charm:spruce_barrel', ['minecraft:barrel'])
    event.shapeless('minecraft:barrel', ['charm:spruce_barrel'])
   

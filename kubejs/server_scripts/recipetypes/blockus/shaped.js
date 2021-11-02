@@ -5,14 +5,6 @@
 events.listen("recipes", function (event) {
 
   // Wooden Bucket / Small Logs
-  event.remove({ output: "blockus:oak_small_logs" });
-  event.remove({ output: "blockus:spruce_small_logs" });
-  event.remove({ output: "blockus:birch_small_logs" });
-  event.remove({ output: "blockus:jungle_small_logs" });
-  event.remove({ output: "blockus:acacia_small_logs" });
-  event.remove({ output: "blockus:dark_oak_small_logs" });
-  event.remove({ output: "blockus:white_oak_small_logs" });
-
   event.shaped(item.of("blockus:oak_small_logs", 3), [
     ["minecraft:oak_log", "minecraft:oak_log", "minecraft:oak_log"],
   ]);
