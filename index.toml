@@ -247,6 +247,9 @@ file = "config/flonters.properties"
 file = "config/flytre_lib.json5"
 
 [[files]]
+file = "config/fpsreducer.json"
+
+[[files]]
 file = "config/getoffmylawn.json5"
 
 [[files]]
@@ -631,6 +634,12 @@ file = "kubejs/data/indrev/loot_tables/blocks/deepslate_silver_ore.json"
 file = "kubejs/data/indrev/loot_tables/blocks/silver_ore.json"
 
 [[files]]
+file = "kubejs/data/indrev/recipes/rerycling/recycle_crops.json"
+
+[[files]]
+file = "kubejs/data/indrev/recipes/rerycling/recycle_seeds.json"
+
+[[files]]
 file = "kubejs/exported/tags/biomes.txt"
 
 [[files]]
@@ -652,43 +661,40 @@ file = "kubejs/exported/tags/game_events.txt"
 file = "kubejs/exported/tags/items.txt"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/blast/shaped.js"
+file = "kubejs/server_scripts/recipetypes/blast/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/blockus/shaped.js"
+file = "kubejs/server_scripts/recipetypes/blockus/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/blockus/shapeless.js"
+file = "kubejs/server_scripts/recipetypes/blockus/shapeless.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/charm/shaped.js"
+file = "kubejs/server_scripts/recipetypes/campanion/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/goml/shaped.js"
+file = "kubejs/server_scripts/recipetypes/charm/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/indrev/shapeless.js"
+file = "kubejs/server_scripts/recipetypes/goml/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/kibe/shaped.js"
+file = "kubejs/server_scripts/recipetypes/indrev/shapeless.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/minecraft/shaped.js"
+file = "kubejs/server_scripts/recipetypes/kibe/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/techreborn/shaped.js"
+file = "kubejs/server_scripts/recipetypes/minecraft/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/vanilla_excavators/shaped.js"
+file = "kubejs/server_scripts/recipetypes/techreborn/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/vanilla_hammers/shaped.js"
+file = "kubejs/server_scripts/recipetypes/woods_and_mires/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/winged/shaped.js"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/woods_and_mires/shaped.js"
+file = "kubejs/server_scripts/remove_recipes.js"
 
 [[files]]
 file = "kubejs/server_scripts/tags/blacklisted_storage.js"
