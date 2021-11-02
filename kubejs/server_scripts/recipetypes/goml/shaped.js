@@ -5,7 +5,7 @@
 ////////////////////////
 
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Ender Binding
   event.shaped(item.of("goml:ender_binding"), [

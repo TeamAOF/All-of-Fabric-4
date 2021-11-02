@@ -2,8 +2,8 @@
 /// Made by Team AOF ///
 ////////////////////////
 
-settings.useOriginalRecipeForFilters = true
-events.listen('item.tags', function (event) {
+
+onEvent('item.tags', event => {
 
  
  // Chests

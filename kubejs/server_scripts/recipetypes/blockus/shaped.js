@@ -2,7 +2,7 @@
 /// Made by Team AOF ///
 ////////////////////////
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Wooden Bucket / Small Logs
   event.shaped(item.of("blockus:oak_small_logs", 3), [

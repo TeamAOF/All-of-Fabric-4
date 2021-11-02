@@ -2,7 +2,7 @@
 /// Made by Team AOF ///
 ////////////////////////
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Golden bars
   event.shapeless('blockus:golden_bars', ['charm:gold_bars'])

@@ -5,7 +5,7 @@
 ////////////////////////
 
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Allow Charm chests in any recipes using chests tag
   event.replaceInput({}, "#c:wooden_chests", "#charm:chests/normal");

@@ -4,7 +4,7 @@
 ////////////////////////
 
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Quantum Suit
   event.shaped(item.of("techreborn:quantum_chestplate"), [

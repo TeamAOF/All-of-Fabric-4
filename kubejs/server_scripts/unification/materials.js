@@ -51,6 +51,7 @@ const MATERIALS = [
 // Order of mods to unify
 const UNIFICATION_ORDER = [
     "modern_industrialization",
+    "minecraft",
     "indrev",
     "techreborn",
     "charm",
@@ -76,7 +77,7 @@ function findTagUnification(event, tagName) {
         const namespace = id.split(":")[0];
         // Don't unify if it contains the MC namespace
         if (namespace === "minecraft") {
-            doUnify = false;
+            doUnify = true;
             return;
         }
     });
@@ -205,22 +206,29 @@ events.listen("recipes", event => {
     autoremove("techreborn:{}_ingot", "techreborn:smelting/{}_ingot_from_dust");
     autoremove("techreborn:{}_ore", "techreborn:blasting/{}_ingot_from_ore");
     autoremove("techreborn:{}_ingot", "techreborn:blasting/{}_ingot_from_dust");
+
     // Some duplicate MI recipes (normally untagged).
     autoremove("modern_industrialization:generated/materials/{}/smelting/ore_deepslate_to_ingot_smelting");
     autoremove("modern_industrialization:generated/materials/{}/smelting/ore_deepslate_to_ingot_blasting");
+
     // Indrev recipes
     autoremove("indrev:{}_block", "indrev:shaped/{}_block");
     autoremove("indrev:{}_block", "indrev:shapeless/{}_ingot_from_block");
-    autoremove("indrev:{}_block", "indrev:shaped/{}_ingot_from_nuggets");
+    autoremove("indrev:{}_block", "indrev:shaped/{}_ingot_from_nugget");
     autoremove("indrev:{}_block", "indrev:shapeless/{}_nugget");
     autoremove("indrev:{}_block", "indrev:shaped/raw_{}_block");
     autoremove("indrev:{}_block", "indrev:shapeless/raw_{}");
+    autoremove("indrev:{}_ingot", "indrev:smelting/{}_ingot");
+    autoremove("indrev:{}_ingot", "indrev:blasting/{}_ingot_from_ore");
+    autoremove("indrev:{}_ingot", "indrev:shapeless/{}_ingot_from_block");
+    autoremove("indrev:{}_ingot", "indrev:shapeless/{}_ingot_from_nugget");
     autoremove("indrev:raw_{}", "indrev:smelting/{}_ingot_from_raw_ores");
     autoremove("indrev:{}_ore", "indrev:smelting/{}_ingot_from_ore");
     autoremove("indrev:{}_dust", "indrev:smelting/{}_ingot_from_smelting");
     autoremove("indrev:raw_{}", "indrev:blasting/{}_ingot_from_raw_ores");
     autoremove("indrev:{}_ore", "indrev:blasting/{}_ingot_from_ore");
     autoremove("indrev:{}_dust", "indrev:blasting/{}_ingot_from_smelting");
+    
     // Charm
     autoremove("charm:extra_nuggets/{}_ingot_from_nuggets");
     autoremove("charm:extra_nuggets/{}_nuggets_from_ingot");

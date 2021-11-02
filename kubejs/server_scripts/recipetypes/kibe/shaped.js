@@ -5,7 +5,7 @@
 ////////////////////////
 
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Angel Ring
   event.shaped(item.of("kibe:angel_ring"), [

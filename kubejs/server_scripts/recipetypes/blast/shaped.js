@@ -2,8 +2,7 @@
 /// Made by Team AOF ///
 ////////////////////////
 
-settings.useOriginalRecipeForFilters = true
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Gunpowder Block
   event.shaped(item.of("blast:gunpowder_block"), [

@@ -5,7 +5,7 @@
 ////////////////////////
 
 
-events.listen("recipes", function (event) {
+onEvent('recipes', (event) => {
 
   // Cobweb
   event.shaped(item.of("minecraft:cobweb"), [
