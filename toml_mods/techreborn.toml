@@ -1,14 +1,14 @@
 name = "Tech Reborn"
-filename = "TechReborn-5.0.9-beta+build.131.jar"
+filename = "TechReborn-5.0.10-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3485/55/TechReborn-5.0.9-beta+build.131.jar"
+url = "https://edge.forgecdn.net/files/3512/679/TechReborn-5.0.10-beta.jar"
 hash-format = "murmur2"
-hash = "2831828518"
+hash = "956040794"
 
 [update]
 [update.curseforge]
-file-id = 3485055
+file-id = 3512679
 project-id = 233564
 release-channel = "beta"
