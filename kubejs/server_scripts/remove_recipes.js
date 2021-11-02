@@ -24,6 +24,7 @@ onEvent('recipes', (event) => {
     'blockus:spruce_small_logs',
     'blockus:oak_small_logs',
     'blockus:golden_bars',
+    'campanion:cracker',
     'goml:heaven_wings',
     'goml:ender_binding',
     'goml:makeshift_claim_anchor',
