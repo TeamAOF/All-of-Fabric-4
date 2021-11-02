@@ -628,10 +628,10 @@ file = "kubejs/data/indrev/loot_tables/blocks/deepslate_silver_ore.json"
 file = "kubejs/data/indrev/loot_tables/blocks/silver_ore.json"
 
 [[files]]
-file = "kubejs/data/indrev/recipes/rerycling/recycle_crops.json"
+file = "kubejs/data/indrev/recipes/recycling/recycle_crops.json"
 
 [[files]]
-file = "kubejs/data/indrev/recipes/rerycling/recycle_seeds.json"
+file = "kubejs/data/indrev/recipes/recycling/recycle_seeds.json"
 
 [[files]]
 file = "kubejs/exported/tags/biomes.txt"
