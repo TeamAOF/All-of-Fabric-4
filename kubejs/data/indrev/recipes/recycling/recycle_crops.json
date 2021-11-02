@@ -1,0 +1,16 @@
+
+
+{
+  "type": "indrev:recycle",
+  "ingredients": [
+    {
+      "tag": "c:crops",
+      "count": 2
+    }
+  ],
+  "output": {
+    "item": "indrev:biomass",
+    "count": 1
+  },
+  "processTime": 150
+}
