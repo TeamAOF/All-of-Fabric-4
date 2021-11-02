@@ -51,7 +51,6 @@ const MATERIALS = [
 // Order of mods to unify
 const UNIFICATION_ORDER = [
     "modern_industrialization",
-    "minecraft",
     "indrev",
     "techreborn",
     "charm",
@@ -77,7 +76,7 @@ function findTagUnification(event, tagName) {
         const namespace = id.split(":")[0];
         // Don't unify if it contains the MC namespace
         if (namespace === "minecraft") {
-            doUnify = true;
+            doUnify = false;
             return;
         }
     });
