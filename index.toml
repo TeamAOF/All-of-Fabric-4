@@ -229,9 +229,6 @@ file = "config/expandedstorage.json"
 file = "config/extragenerators.json"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 
 [[files]]
@@ -655,22 +652,52 @@ file = "kubejs/exported/tags/game_events.txt"
 file = "kubejs/exported/tags/items.txt"
 
 [[files]]
-file = "kubejs/server_scripts/balancing.js"
+file = "kubejs/server_scripts/recipes/blast/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/conflicts.js"
+file = "kubejs/server_scripts/recipes/blockus/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/missed_recipes.js"
+file = "kubejs/server_scripts/recipes/blockus/shapeless.js"
 
 [[files]]
-file = "kubejs/server_scripts/qol.js"
+file = "kubejs/server_scripts/recipes/charm/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/tags.js"
+file = "kubejs/server_scripts/recipes/goml/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/unification.js"
+file = "kubejs/server_scripts/recipes/indrev/shapeless.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/kibe/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/minecraft/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/techreborn/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/vanilla_excavators/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/vanilla_hammers/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/winged/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/woods_and_mires/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/tags/blacklisted_storage.js"
+
+[[files]]
+file = "kubejs/server_scripts/tags/wooden_chests.js"
+
+[[files]]
+file = "kubejs/server_scripts/unification/materials.js"
 
 [[files]]
 file = "kubejs/startup_scripts/packversion.js"

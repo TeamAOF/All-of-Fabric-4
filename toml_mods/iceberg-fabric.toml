@@ -1,14 +1,14 @@
 name = "Iceberg [Fabric]"
-filename = "Iceberg-1.17.1-fabric-1.0.21.jar"
+filename = "Iceberg-1.17.1-fabric-1.0.23.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3509/585/Iceberg-1.17.1-fabric-1.0.21.jar"
+url = "https://edge.forgecdn.net/files/3512/9/Iceberg-1.17.1-fabric-1.0.23.jar"
 hash-format = "murmur2"
-hash = "2306621498"
+hash = "3729571719"
 
 [update]
 [update.curseforge]
-file-id = 3509585
+file-id = 3512009
 project-id = 539382
 release-channel = "beta"
