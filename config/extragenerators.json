@@ -4,7 +4,7 @@
     "storage": 32000.0
   },
   "burnableGenerator": {
-    "output": 64.0,
+    "output": 32.0,
     "storage": 32000.0
   },
   "icyGenerator": {
