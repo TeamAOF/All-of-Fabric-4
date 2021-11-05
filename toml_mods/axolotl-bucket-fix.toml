@@ -1,14 +1,14 @@
 name = "Axolotl Bucket Fix"
-filename = "axolotl-item-fix-1.1.2.jar"
+filename = "axolotl-item-fix-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3423/450/axolotl-item-fix-1.1.2.jar"
+url = "https://edge.forgecdn.net/files/3515/755/axolotl-item-fix-1.1.3.jar"
 hash-format = "murmur2"
-hash = "1984552522"
+hash = "3550517667"
 
 [update]
 [update.curseforge]
-file-id = 3423450
+file-id = 3515755
 project-id = 495453
 release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "Chalk (Fabric)"
-filename = "chalk-1.0.1.jar"
+filename = "chalk-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3498/199/chalk-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3515/27/chalk-1.0.2.jar"
 hash-format = "murmur2"
-hash = "3649783991"
+hash = "3840516258"
 
 [update]
 [update.curseforge]
-file-id = 3498199
+file-id = 3515027
 project-id = 535541
 release-channel = "beta"
