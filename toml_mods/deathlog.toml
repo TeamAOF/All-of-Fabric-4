@@ -1,14 +1,14 @@
 name = "DeathLog"
-filename = "deathlog-0.2.1.jar"
+filename = "deathlog-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3446/356/deathlog-0.2.1.jar"
+url = "https://edge.forgecdn.net/files/3517/521/deathlog-0.2.2.jar"
 hash-format = "murmur2"
-hash = "3995839693"
+hash = "821927396"
 
 [update]
 [update.curseforge]
-file-id = 3446356
+file-id = 3517521
 project-id = 496150
 release-channel = "beta"

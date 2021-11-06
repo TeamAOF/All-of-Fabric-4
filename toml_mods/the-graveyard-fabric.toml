@@ -1,14 +1,14 @@
 name = "The Graveyard (FABRIC)"
-filename = "The_Graveyard_(FABRIC)_1.4_for_1.17-1.17.1.jar"
+filename = "The_Graveyard_2.0_(FABRIC)_for_1.17-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3457/664/The_Graveyard_(FABRIC)_1.4_for_1.17-1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3516/547/The_Graveyard_2.0_(FABRIC)_for_1.17-1.17.1.jar"
 hash-format = "murmur2"
-hash = "1722302610"
+hash = "938687820"
 
 [update]
 [update.curseforge]
-file-id = 3457664
+file-id = 3516547
 project-id = 514468
 release-channel = "beta"
