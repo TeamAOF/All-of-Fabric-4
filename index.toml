@@ -804,10 +804,6 @@ file = "toml_mods/betterend.toml"
 metafile = true
 
 [[files]]
-file = "toml_mods/biome-locator.toml"
-metafile = true
-
-[[files]]
 file = "toml_mods/bits-and-chisels.toml"
 metafile = true
 
@@ -1137,10 +1133,6 @@ metafile = true
 
 [[files]]
 file = "toml_mods/iron-jetpacks-fabric.toml"
-metafile = true
-
-[[files]]
-file = "toml_mods/item-borders-fabric.toml"
 metafile = true
 
 [[files]]
