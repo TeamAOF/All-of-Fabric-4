@@ -1,14 +1,14 @@
 name = "St'ructure Tools"
-filename = "structure-tools-1.0.2.jar"
+filename = "structure-tools-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3516/724/structure-tools-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3520/58/structure-tools-1.0.3.jar"
 hash-format = "murmur2"
-hash = "1791413677"
+hash = "3872289981"
 
 [update]
 [update.curseforge]
-file-id = 3516724
+file-id = 3520058
 project-id = 536984
 release-channel = "beta"
