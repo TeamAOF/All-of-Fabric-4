@@ -1344,6 +1344,10 @@ file = "toml_mods/roughly-enough-items.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/roughly-enough-resources.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/rswires.toml"
 metafile = true
 
