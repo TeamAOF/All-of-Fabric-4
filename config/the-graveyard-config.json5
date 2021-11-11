@@ -3,6 +3,7 @@
  //
  // Here, you can disable structures to spawn, change their chance of spawning, change their separation and also change their salt.
  // Additionally, you can turn the graveyard fog particles on and set the chance of spawning them (higher numbers = lower chance of spawning).
+ // You can also turn off the cartographer map trade for the large graveyard. As minecraft structure search algorithm isn't the fastest, loading the map can cause lag.
  // Graveyard fog particles spawn in graveyards and add an atmospheric and spooky element while exploring.
  //
  // To disable a structure to spawn, simply go to the corresponding entry and set `enabled` to false.
@@ -62,6 +63,12 @@
       "separation": 12,
       "spacing": 14,
       "salt": 451235912
+    },
+    "haunted_house": {
+      "enabled": true,
+      "separation": 20,
+      "spacing": 25,
+      "salt": 529239621
     }
   },
   "particleConfigEntries": {
@@ -69,5 +76,6 @@
       "canGenerate": true,
       "spawnChance": 50
     }
-  }
+  },
+  "additionalGenerationEntries": {}
 }

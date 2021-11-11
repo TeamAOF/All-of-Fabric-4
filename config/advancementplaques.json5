@@ -11,6 +11,10 @@
 	"goals": true,
 	// If plaques should show for challenge advancements (high-difficulty advancements).
 	"challenges": true,
+	// Text color to use for plaque titles (like "Advancement made!"). Can be entered as an 8-digit hex color code 0xAARRGGBB for convenience.
+	"titleColor": 4281541120,
+	// Text color to use for advancement names on plaques. Can be entered as an 8-digit hex color code 0xAARRGGBB for convenience.
+	"nameColor": 4294967295,
 	// Duration of the shiny effect fade in for tasks.
 	"taskEffectFadeInTime": 0.5,
 	// Duration of the shiny effect fade out for tasks.

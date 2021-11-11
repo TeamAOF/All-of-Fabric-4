@@ -1,5 +1,7 @@
 {
 	"conjurer_config": {
+		// Whether Fortune should affect the amount of Conjuration Essence you can get when breaking a spawner
+		"fortuneEnabled": false,
 		// How many extra mobs to spawn per abundance charm
 		"abundance_multiplier": 2,
 		// How many ticks of waiting to remove per haste charm

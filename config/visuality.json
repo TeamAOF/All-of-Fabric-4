@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "particles": {
+    "hit_particles": true,
+    "slime": true,
+    "charge": true,
+    "sparkle": true,
+    "water_circle": true
+  },
+  "hit_particles": [
+    {
+      "entity": "minecraft:skeleton",
+      "particle": "visuality:bone",
+      "height": 2.0
+    },
+    {
+      "entity": "minecraft:skeleton_horse",
+      "particle": "visuality:bone",
+      "height": 2.0
+    },
+    {
+      "entity": "minecraft:stray",
+      "particle": "visuality:bone",
+      "height": 2.0
+    },
+    {
+      "entity": "minecraft:wither_skeleton",
+      "particle": "visuality:wither_bone",
+      "height": 2.5
+    },
+    {
+      "entity": "minecraft:chicken",
+      "particle": "visuality:feather",
+      "height": 1.0
+    },
+    {
+      "entity": "minecraft:villager",
+      "particle": "visuality:emerald",
+      "height": 2.0
+    }
+  ]
+}

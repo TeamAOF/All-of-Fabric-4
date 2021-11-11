@@ -40,4 +40,6 @@ be_stuff.forEach(function (item, index) {
   event.get("charm:barrels").add("betterend:" + item + "_barrel")
 });
 
+event.remove('c:iron_ingots', 'betterend:thallasium_ingot')
+
 });

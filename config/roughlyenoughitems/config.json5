@@ -2,7 +2,7 @@
 	"basics": {
 		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -58,41 +58,7 @@
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
-			"filteredStacks": [
-				"{Count:1b,id:\"croptopia:roasted_turnips\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:peanut_butter_with_celery\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:avocado_toast\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:lemon_coconut_bar\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:cheesy_asparagus\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:ajvar_toast\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:roasted_squash\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:grilled_eggplant\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:rhubarb_crisp\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:knife\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:roasted_asparagus\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:peanut_butter\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:stir_fry\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:stuffed_artichoke\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:cooked_bacon\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:steamed_broccoli\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:roasted_radishes\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:baked_sweet_potato\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:eggplant_parmesan\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:fruit_cake\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:nether_wart_stew\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:ratatouille\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:toast_sandwich\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:beef_stew\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:kiwi_sorbet\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:baked_yam\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:potato_soup\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:beef_stir_fry\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:bacon\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:ajvar\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:chocolate_ice_cream\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:steamed_green_beans\",type:\"minecraft:item\"}",
-				"{Count:1b,id:\"croptopia:buttered_green_beans\",type:\"minecraft:item\"}"
-			]
+			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
 		"tooltips": {
@@ -106,8 +72,12 @@
 			"entryPanelOrdering": "REGISTRY_ASCENDING",
 			// Declares the maximum amount of recipes displayed in a page if possible.
 			"maxRecipesPerPage": 15,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
 			// Declares whether entry rendering time should be debugged.
-			"debugRenderTimeRequired": false
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true
 		},
 		"accessibility": {
 			"entrySize": 1.0,
@@ -166,6 +136,10 @@
 		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
 		"syntaxHighlightingMode": "COLORFUL"
 	},
 	"functionality": {

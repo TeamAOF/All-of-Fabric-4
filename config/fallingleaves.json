@@ -248,6 +248,10 @@
     "croptopia:peach_crop": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "desolation:charred_branches": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

@@ -17,7 +17,7 @@
     "craftingCalculationTimePerTick": 5
   },
   "crafting": {
-    "__comment": "Enable the recipes for disassembling storage cells and crafting units.",
+    "__comment": "Enable shift-clicking with the crafting units in hand to disassemble them.",
     "inWorldSingularity": true,
     "inWorldFluix": true,
     "inWorldCrystalGrowth": true,
