@@ -1,14 +1,14 @@
 name = "Goblin Traders (Fabric)"
-filename = "goblin-traders-1.3.0-BETA-1.jar"
+filename = "goblin-traders-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3521/186/goblin-traders-1.3.0-BETA-1.jar"
+url = "https://edge.forgecdn.net/files/3522/133/goblin-traders-1.3.0.jar"
 hash-format = "murmur2"
-hash = "3857644657"
+hash = "1592488535"
 
 [update]
 [update.curseforge]
-file-id = 3521186
+file-id = 3522133
 project-id = 534373
 release-channel = "beta"
