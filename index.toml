@@ -40,6 +40,9 @@ file = "config/appliedenergistics2/client.json"
 file = "config/appliedenergistics2/common.json"
 
 [[files]]
+file = "config/arcanus.json"
+
+[[files]]
 file = "config/arcanus.json5"
 
 [[files]]
@@ -58,7 +61,16 @@ file = "config/attribute_fix.json5"
 file = "config/authme.json5"
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/generator.json"
+
+[[files]]
 file = "config/bclib/recipes.json"
+
+[[files]]
+file = "config/bclib/server.json"
 
 [[files]]
 file = "config/beenfo.json"
@@ -74,6 +86,9 @@ file = "config/betterend/blocks.json"
 
 [[files]]
 file = "config/betterend/client.json"
+
+[[files]]
+file = "config/betterend/enchantments.json"
 
 [[files]]
 file = "config/betterend/entities.json"
@@ -193,6 +208,9 @@ file = "config/defaultsettings.json"
 file = "config/defaultsettings/sharedConfigs/ignore.json"
 
 [[files]]
+file = "config/desolation.json5"
+
+[[files]]
 file = "config/diggusmaximus/blacklist.json5"
 
 [[files]]
@@ -227,6 +245,9 @@ file = "config/expandedstorage.json"
 
 [[files]]
 file = "config/extragenerators.json"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -319,12 +340,6 @@ file = "config/iron-jetpacks/jetpacks/creative.json"
 file = "config/iron-jetpacks/jetpacks/electrum.json"
 
 [[files]]
-file = "config/iron-jetpacks/jetpacks/invar.json"
-
-[[files]]
-file = "config/iron-jetpacks/jetpacks/platinum.json"
-
-[[files]]
 file = "config/iron-jetpacks/jetpacks/steel.json"
 
 [[files]]
@@ -332,6 +347,9 @@ file = "config/kambrik_server_data.json"
 
 [[files]]
 file = "config/kibe.json"
+
+[[files]]
+file = "config/legendarytooltips.json5"
 
 [[files]]
 file = "config/libcd.json"
@@ -460,6 +478,9 @@ file = "config/simple-rpc-server.toml"
 file = "config/simple-rpc.toml"
 
 [[files]]
+file = "config/simplerharvest.json"
+
+[[files]]
 file = "config/skinlayers.json"
 
 [[files]]
@@ -532,6 +553,9 @@ file = "config/the-graveyard-config.json5"
 file = "config/transportables.json5"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+
+[[files]]
 file = "config/traverse/biomes.json"
 
 [[files]]
@@ -548,6 +572,9 @@ file = "config/vanillaexcavators.json"
 
 [[files]]
 file = "config/veinmining.json5"
+
+[[files]]
+file = "config/visuality.json"
 
 [[files]]
 file = "config/waila/blacklist.json"
