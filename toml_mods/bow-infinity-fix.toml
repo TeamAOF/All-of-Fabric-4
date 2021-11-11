@@ -1,0 +1,14 @@
+name = "Bow Infinity Fix (Forge/Fabric)"
+filename = "BowInfinityFix-1.17.x-fabric-rv10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3367/106/BowInfinityFix-1.17.x-fabric-rv10.jar"
+hash-format = "murmur2"
+hash = "2267765023"
+
+[update]
+[update.curseforge]
+file-id = 3367106
+project-id = 224713
+release-channel = "beta"

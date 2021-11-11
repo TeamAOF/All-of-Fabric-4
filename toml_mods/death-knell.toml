@@ -1,0 +1,14 @@
+name = "Death Knell"
+filename = "DeathKnell-fabric-1.17.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/882/DeathKnell-fabric-1.17.1-1.0.1.jar"
+hash-format = "murmur2"
+hash = "429460983"
+
+[update]
+[update.curseforge]
+file-id = 3505882
+project-id = 538316
+release-channel = "beta"

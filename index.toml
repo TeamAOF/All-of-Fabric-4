@@ -764,6 +764,10 @@ file = "toml_mods/architectury-fabric.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/armor-sound-tweak.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/artifacts-fabric.toml"
 metafile = true
 
@@ -821,6 +825,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/bountiful-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/bow-infinity-fix.toml"
 metafile = true
 
 [[files]]
@@ -932,6 +940,10 @@ file = "toml_mods/dawn.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/death-knell.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/deathlog.toml"
 metafile = true
 
@@ -948,6 +960,10 @@ file = "toml_mods/defaultsettings-fabric.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/desolation.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/diggus-maximus.toml"
 metafile = true
 
@@ -961,10 +977,6 @@ metafile = true
 
 [[files]]
 file = "toml_mods/dual-riders.toml"
-metafile = true
-
-[[files]]
-file = "toml_mods/dynamic-fps.toml"
 metafile = true
 
 [[files]]
@@ -1044,6 +1056,10 @@ file = "toml_mods/flonters.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/fps-reducer.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/gate-of-babylon.toml"
 metafile = true
 
@@ -1092,6 +1108,10 @@ file = "toml_mods/harvest-scythes.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/health-overlay-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/horsestatsvanilla.toml"
 metafile = true
 
@@ -1128,15 +1148,15 @@ file = "toml_mods/inmis.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/inventory-hud-forge.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/inventory-sorting.toml"
 metafile = true
 
 [[files]]
 file = "toml_mods/iron-jetpacks-fabric.toml"
-metafile = true
-
-[[files]]
-file = "toml_mods/item-highlighter-fabric.toml"
 metafile = true
 
 [[files]]
@@ -1336,6 +1356,10 @@ file = "toml_mods/rhino.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/right-click-harvest.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/river-redux.toml"
 metafile = true
 
@@ -1361,10 +1385,6 @@ metafile = true
 
 [[files]]
 file = "toml_mods/shetiphiancore-fabric.toml"
-metafile = true
-
-[[files]]
-file = "toml_mods/shulkerboxtooltip.toml"
 metafile = true
 
 [[files]]

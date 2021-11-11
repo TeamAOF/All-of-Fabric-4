@@ -1,0 +1,14 @@
+name = "Desolation (Fabric)"
+filename = "desolation-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3508/198/desolation-1.1.5.jar"
+hash-format = "murmur2"
+hash = "2034976865"
+
+[update]
+[update.curseforge]
+file-id = 3508198
+project-id = 414851
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Armor Sound Tweak"
+filename = "ArmorSoundTweak-3.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3462/136/ArmorSoundTweak-3.0.1-fabric.jar"
+hash-format = "murmur2"
+hash = "3375205660"
+
+[update]
+[update.curseforge]
+file-id = 3462136
+project-id = 277668
+release-channel = "beta"
