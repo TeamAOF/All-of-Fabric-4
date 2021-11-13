@@ -15,7 +15,7 @@
   "protectionTime": -1,
   "breakingTime": 86400,
   "breakEmptyGraves": true,
-  "xpStorageType": "vanilla",
+  "xpStorageType": "percent_points",
   "xpPercentTypeValue": 25.0,
   "createFromPvP": true,
   "createInClaims": false,
