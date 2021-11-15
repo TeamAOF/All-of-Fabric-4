@@ -1,3 +1,136 @@
+<h1>1.1.0</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Changes**
+- Updated Fabric Loader to 0.12.5
+- New KubeJS script structure (Will make future development much easier).
+- Graves cleanup (Cleaner hologram text, you now get 25% XP back instead of 100%, now expire after 24 hours instead of 2 hours).
+- Hid WIP croptopia content from REI.
+- Added armor HUD to the screen.
+- Recycler now accepts anything from c:seeds & c:crops tag. (#128)
+- Removed shaped plate recipes with hammer.
+- Corrected minimap settings without clutter.
+- Nerfed Burnable Generator (64E/t > 24E/t).
+- Nerfed Scalding Generator (128E/t > 64E/t).
+- Nerfed Thermoelectric Generator (64E/t > 32E/t).
+- Nerfed Steam Generator (128E/t > 64E/t).
+- Nerfed Gluttony Generator (256E/t > 128E/t).
+- Nerfed Redstone Generator (256E/t > 128E/t).
+- Nerfed Demise Generator (512E/t > 256E/t).
+- Nerfed Withered Generator (4096E/t > 2048E/t).
+- Nerfed solar panels from Indrev MK1 = (8E/t > 4E/t) & MK3 = (12E/t > 8E/t).
+- Also lowered the max power storage of the gens nerfed.
+
+**Fixes**
+- Fixed connecting issues with wireless networks and industrial revolution.
+- Fixed incorrect villager trade buttons texture.
+- Fixed broken Better End recipes, we're talking all of them.
+- Fixed certain performance issues with MI pipes on large-scale servers.
+- Fixed recipe conflict between cracker & flour. (#114)
+- Fixed miners horizon ore placement this time.
+- Fixed multiple duplicate rei recipe outputs of the same iron showing up.
+
+**Added**
+- AE2WTLib: AE2WTLib-9.0.0-beta.8.jar  
+- Armor Sound Tweak: ArmorSoundTweak-3.0.1-fabric.jar  
+- Auto Config v1 Updated: autoconfig1u-3.3.1.jar  
+- BoatContainer: boatcontainer-1.0.3.jar  
+- Bow Infinity Fix: BowInfinityFix-1.17.x-fabric-rv10.jar  
+- CC:Restitched: cc-restiched-1.97.1-beta-1.jar  
+- Crooked Crooks: crookedcrooks-2.0.1+1.17.1.jar  
+- Death Knell: DeathKnell-fabric-1.17.1-1.0.1.jar  
+- Desolation: desolation-1.1.5.jar  
+- Drink Beer: drinkbeer-v2.3 for 1.17.1.jar  
+- Equipment Compare: EquipmentCompare-1.17.1-fabric-1.2.7.jar  
+- Falling Leaves: fallingleaves-1.7.4+1.17.1.jar  
+- FPS Reducer: FpsReducer-fabric-1.24-mc1.17.1.jar  
+- Goblin Traders: goblin-traders-1.3.0.jar  
+- Iceberg: Iceberg-1.17.1-fabric-1.0.23.jar  
+- Inventory HUD +: InventoryHUD-fabric-[1.17.x]-3.4.1.jar  
+- Iron Jetpacks: iron-jetpacks-0.4.2.jar  
+- Legendary Tooltips: LegendaryTooltips-1.17.1-fabric-1.1.2.jar  
+- Mod Menu: modmenu-2.0.14.jar  
+- Mouse Tweaks: MouseTweaks-fabric-mc1.17.1-2.15.jar  
+- Patchouli-1.16.4-53.2.jar: Patchouli-1.16.4-53.2.jar  
+- Platforms: platforms-[fabric]-1.17-1.1.1-.jar  
+- Right-Click-Harvest: right-click-harvest-1.1.0+1.17-fabric.jar  
+- ShetiPhianCore: shetiphiancore-[fabric]-1.17-1.1.1-.jar  
+- st'ructure tools: structure-tools-1.0.5.jar  
+- Traveler's Backpack: travelers-backpack-1.17.1-6.0.0.jar  
+- Visuality: visuality-mc1.17.1-0.3.0.jar  
+  
+**Removed**  
+- Biome Locator: biome_locator-1.17.1-1.3.1.jar  
+- Dynamic FPS: dynamic-fps-2.0.6.jar  
+  
+**Updated**  
+- 3d Skin Layers: 3dSkinLayers-Fabric-1.2.1.jar  
+- Adorn: Adorn-2.3.1+1.17.1-fabric.jar  
+- Advancement Plaques: AdvancementPlaques-1.17.1-fabric-1.4.2.jar  
+- AppleSkin: appleskin-fabric-mc1.17.1-2.2.0.jar  
+- Applied Energistics 2: appliedenergistics2-9.0.0-beta.2.jar  
+- Arcanus: arcanus-1.23.jar  
+- Axolotl Item Fix: axolotl-item-fix-1.1.3.jar  
+- Basic AIOTs: basicaiots-1.3.2+1.17.jar  
+- BCLib: bclib-0.5.1.jar  
+- Better End: better-end-0.12.2.jar  
+- Blast: blast-1.8.1.jar
+- Campanion: campanion-2.0.1.jar  
+- Carrier: carrier-1.8.1.jar  
+- Chalk: chalk-1.0.2.jar  
+- Cloth Config v5: cloth-config-5.1.40-fabric.jar  
+- Conjuring: conjuring-1.0.15.jar  
+- Dank Storage: dankstorage-2.2.1-1.17.1.jar  
+- Dark Enchanting: dark-enchanting-0.5.0-1.17.1.jar  
+- DeathLog: deathlog-0.2.2.jar  
+- Expanded Storage: expandedstorage-7.2.7+1.17.1.jar  
+- Extra Generators: extra-generators-1.1-BETA+1.17.jar  
+- Fabric API: fabric-api-0.42.1+1.17.jar  
+- FerriteCore: ferritecore-3.1.0-fabric.jar  
+- Flytre Lib: flytre-lib-1.4.2.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.26.jar
+- Golems Galore: golemsgalore-1.0.3-1.17.1.jar  
+- Universal Graves: graves-1.1.4+1.17.1.jar  
+- Grizzly Bear mob: grizzlybear-1.17-1.2.0.jar  
+- Guild: guild-fabric-0.3.4.jar  
+- Industrial Revolution: indrev-1.12.0-BETA.jar  
+- Inmis: inmis-2.3.2-1.17.1.jar  
+- Inventory Sorter: InventorySorter-1.8.0-1.17.jar  
+- Kibe: kibe-1.9.4-BETA+1.17.jar  
+- KubeJS: kubejs-fabric-1701.3.10-build.9999.jar  
+- Lightest Lamps: lightest-lamps-fabric-0.9.6.jar  
+- Lithium: lithium-fabric-mc1.17.1-0.7.5.jar  
+- Magitek Mechs: magitekmechs-fabric-MC1.17.1-1.0.6.jar  
+- megane: megane-5.5.2.jar  
+- Miner's Horizon: miners-horizon-1.7.2-1.17.1.jar  
+- Modern Industrialization: Modern-Industrialization-0.6.1.jar  
+- MoreVillagersFabric: morevillagers-FABRIC-1.17-2.1.1.jar  
+- Mythic Mounts: mythic-mounts-1.17.1-3.0.jar  
+- Outvoted: outvoted-1.5.0-beta.3.jar  
+- Industial Quarry Mod: quarry-reborn-1.17-0.5.2.jar  
+- Quick Shulker: quickshulker-1.3.1-1.17.jar  
+- Rat's Mischief: ratsmischief-1.3.1.jar  
+- Reborn Core: RebornCore-5.0.11-beta.jar  
+- Red Bits: red-bits-1.10.1.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.5.6+1.17.1.jar  
+- Rhino: rhino-fabric-1701.1.5-build.71.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.1.329.jar  
+- 'Slight' GUI Modifications: slight-gui-modifications-2.0.2.jar  
+- Stoneholm: stoneholm-1.3.jar  
+- Tech Reborn: TechReborn-5.0.11-beta.jar  
+- The Graveyard: The_Graveyard_2.1_(FABRIC)_for_1.17-1.17.1.jar  
+- Trinkets: trinkets-3.0.4.jar  
+- Wireless Networks: wirelessnetworks-1.3.1.jar  
+- Wolves With Armor: wolves-with-armor-1.6.1-1.17.1.jar  
+- Harvest Scythes: wraith-harvestscythes-2.1.0.jar  
+- Waystones: wraith-waystones-2.2.1.jar  
+- wthit: wthit-fabric-3.11.2.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.22.0_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.18.1_Fabric_1.17.1.jar  
+- YUNG's API: YungsApi-1.17-Fabric-19.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>1.0.1</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
