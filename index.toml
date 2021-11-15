@@ -10,6 +10,9 @@ file = "config/AqMods/caracal.config"
 file = "config/AqMods/grizzly.config"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+
+[[files]]
 file = "config/Lakeside.properties"
 
 [[files]]
@@ -20,6 +23,9 @@ file = "config/additional-additions-config.json"
 
 [[files]]
 file = "config/advancementplaques.json5"
+
+[[files]]
+file = "config/ae2wtlib.json5"
 
 [[files]]
 file = "config/alaskanativecraft.json"
@@ -34,7 +40,13 @@ file = "config/appliedenergistics2/client.json"
 file = "config/appliedenergistics2/common.json"
 
 [[files]]
+file = "config/arcanus.json"
+
+[[files]]
 file = "config/arcanus.json5"
+
+[[files]]
+file = "config/armorsoundtweak.toml"
 
 [[files]]
 file = "config/artifacts/general.toml"
@@ -49,7 +61,16 @@ file = "config/attribute_fix.json5"
 file = "config/authme.json5"
 
 [[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/generator.json"
+
+[[files]]
 file = "config/bclib/recipes.json"
+
+[[files]]
+file = "config/bclib/server.json"
 
 [[files]]
 file = "config/beenfo.json"
@@ -65,6 +86,9 @@ file = "config/betterend/blocks.json"
 
 [[files]]
 file = "config/betterend/client.json"
+
+[[files]]
+file = "config/betterend/enchantments.json"
 
 [[files]]
 file = "config/betterend/entities.json"
@@ -121,6 +145,9 @@ file = "config/biome_locator_server.json5"
 file = "config/bountiful/bountiful.json"
 
 [[files]]
+file = "config/building_gadgets.json"
+
+[[files]]
 file = "config/builtinservers.json"
 
 [[files]]
@@ -137,6 +164,9 @@ file = "config/charmonium.toml"
 
 [[files]]
 file = "config/cherishedworlds/favorites.dat"
+
+[[files]]
+file = "config/computercraft-client.toml"
 
 [[files]]
 file = "config/config.json"
@@ -178,6 +208,9 @@ file = "config/defaultsettings.json"
 file = "config/defaultsettings/sharedConfigs/ignore.json"
 
 [[files]]
+file = "config/desolation.json5"
+
+[[files]]
 file = "config/diggusmaximus/blacklist.json5"
 
 [[files]]
@@ -205,6 +238,9 @@ file = "config/eggtab.toml"
 file = "config/entitybanners.json"
 
 [[files]]
+file = "config/equipmentcompare.json5"
+
+[[files]]
 file = "config/expandedstorage.json"
 
 [[files]]
@@ -215,6 +251,9 @@ file = "config/fabric/indigo-renderer.properties"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
+
+[[files]]
+file = "config/fallingleaves.json"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -229,13 +268,22 @@ file = "config/flonters.properties"
 file = "config/flytre_lib.json5"
 
 [[files]]
+file = "config/fpsreducer.json"
+
+[[files]]
 file = "config/getoffmylawn.json5"
+
+[[files]]
+file = "config/goblintraders.toml"
 
 [[files]]
 file = "config/golemsgalore.json5"
 
 [[files]]
 file = "config/guild.json5"
+
+[[files]]
+file = "config/healthoverlay.json5"
 
 [[files]]
 file = "config/horsestatsvanilla.json5"
@@ -265,6 +313,9 @@ file = "config/indrev/upgrades.json"
 file = "config/inmis.json"
 
 [[files]]
+file = "config/inventoryhud.json"
+
+[[files]]
 file = "config/inventorysorter/blacklist.json5"
 
 [[files]]
@@ -274,10 +325,31 @@ file = "config/inventorysorter/config.json5"
 file = "config/iris.properties"
 
 [[files]]
+file = "config/iron-jetpacks/client.json5"
+
+[[files]]
+file = "config/iron-jetpacks/common.json5"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/bronze.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/creative.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/electrum.json"
+
+[[files]]
+file = "config/iron-jetpacks/jetpacks/steel.json"
+
+[[files]]
 file = "config/kambrik_server_data.json"
 
 [[files]]
 file = "config/kibe.json"
+
+[[files]]
+file = "config/legendarytooltips.json5"
 
 [[files]]
 file = "config/libcd.json"
@@ -340,6 +412,12 @@ file = "config/outvoted/common.json"
 file = "config/patchouli.json5"
 
 [[files]]
+file = "config/platforms/client.json5"
+
+[[files]]
+file = "config/platforms/common.json5"
+
+[[files]]
 file = "config/pling.json"
 
 [[files]]
@@ -388,6 +466,9 @@ file = "config/roughlyenoughitems/config.json5"
 file = "config/rrp.properties"
 
 [[files]]
+file = "config/shetiphiancore/client.json5"
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
 
 [[files]]
@@ -395,6 +476,9 @@ file = "config/simple-rpc-server.toml"
 
 [[files]]
 file = "config/simple-rpc.toml"
+
+[[files]]
+file = "config/simplerharvest.json"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -469,6 +553,9 @@ file = "config/the-graveyard-config.json5"
 file = "config/transportables.json5"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+
+[[files]]
 file = "config/traverse/biomes.json"
 
 [[files]]
@@ -485,6 +572,12 @@ file = "config/vanillaexcavators.json"
 
 [[files]]
 file = "config/veinmining.json5"
+
+[[files]]
+file = "config/visuality.json"
+
+[[files]]
+file = "config/waila/blacklist.json"
 
 [[files]]
 file = "config/waila/megane.json"
@@ -506,6 +599,9 @@ file = "config/winged.json5"
 
 [[files]]
 file = "config/xaerominimap.txt"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -586,22 +682,52 @@ file = "kubejs/exported/tags/game_events.txt"
 file = "kubejs/exported/tags/items.txt"
 
 [[files]]
-file = "kubejs/server_scripts/balancing.js"
+file = "kubejs/server_scripts/recipetypes/blast/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/conflicts.js"
+file = "kubejs/server_scripts/recipetypes/blockus/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/missed_recipes.js"
+file = "kubejs/server_scripts/recipetypes/blockus/shapeless.js"
 
 [[files]]
-file = "kubejs/server_scripts/qol.js"
+file = "kubejs/server_scripts/recipetypes/campanion/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/tags.js"
+file = "kubejs/server_scripts/recipetypes/charm/shaped.js"
 
 [[files]]
-file = "kubejs/server_scripts/unification.js"
+file = "kubejs/server_scripts/recipetypes/goml/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/indrev/recycle.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/indrev/shapeless.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/kibe/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/minecraft/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/techreborn/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipetypes/woods_and_mires/shaped.js"
+
+[[files]]
+file = "kubejs/server_scripts/remove_recipes.js"
+
+[[files]]
+file = "kubejs/server_scripts/tags/blacklisted_storage.js"
+
+[[files]]
+file = "kubejs/server_scripts/tags/wooden_chests.js"
+
+[[files]]
+file = "kubejs/server_scripts/unification/materials.js"
 
 [[files]]
 file = "kubejs/startup_scripts/packversion.js"
@@ -610,749 +736,840 @@ file = "kubejs/startup_scripts/packversion.js"
 file = "kubejs/startup_scripts/worldgen.js"
 
 [[files]]
-file = "mods/addendum-fabric.toml"
+file = "minecraftinstance.json"
+
+[[files]]
+file = "toml_mods/addendum-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/additional-additions.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/adorn.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/advancement-plaques-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/advancements-debug.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/advancements-enlarger.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/alaska-native-craft.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/ambient-environment.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/appleskin.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/applied-energistics-2-wireless-terminals.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/applied-energistics-2.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/arcanus.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/architectury-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/armor-sound-tweak.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/artifacts-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/attribute.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/auth-me.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/auto-config-updated-api.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/axolotl-bucket-fix.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/balm-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/basic-aiots.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/bclib.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/beenfo.toml"
 metafile = true
 
 [[files]]
-file = "mods/additional-additions.toml"
+file = "toml_mods/betterend.toml"
 metafile = true
 
 [[files]]
-file = "mods/adorn.toml"
+file = "toml_mods/bits-and-chisels.toml"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques-fabric.toml"
+file = "toml_mods/blast.toml"
 metafile = true
 
 [[files]]
-file = "mods/advancements-debug.toml"
+file = "toml_mods/blockus.toml"
 metafile = true
 
 [[files]]
-file = "mods/advancements-enlarger.toml"
+file = "toml_mods/boat-container.toml"
 metafile = true
 
 [[files]]
-file = "mods/alaska-native-craft.toml"
+file = "toml_mods/bountiful-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/ambient-environment.toml"
+file = "toml_mods/bow-infinity-fix.toml"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.toml"
+file = "toml_mods/break-progress.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.toml"
+file = "toml_mods/builtin-servers.toml"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.toml"
+file = "toml_mods/campanion.toml"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
+file = "toml_mods/can-i-mine-this-block.toml"
 metafile = true
 
 [[files]]
-file = "mods/artifacts-fabric.toml"
+file = "toml_mods/caracal-mod.toml"
 metafile = true
 
 [[files]]
-file = "mods/attribute.toml"
+file = "toml_mods/carrier.toml"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.toml"
+file = "toml_mods/cc-restitched.toml"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-bucket-fix.toml"
+file = "toml_mods/chalk-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric.toml"
+file = "toml_mods/charm.toml"
 metafile = true
 
 [[files]]
-file = "mods/basic-aiots.toml"
+file = "toml_mods/charmonium.toml"
 metafile = true
 
 [[files]]
-file = "mods/bclib.toml"
+file = "toml_mods/cherished-worlds-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/beenfo.toml"
+file = "toml_mods/cloth-api.toml"
 metafile = true
 
 [[files]]
-file = "mods/betterend.toml"
+file = "toml_mods/cloth-config.toml"
 metafile = true
 
 [[files]]
-file = "mods/biome-locator.toml"
+file = "toml_mods/clumps.toml"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.toml"
+file = "toml_mods/colorful-subtitles.toml"
 metafile = true
 
 [[files]]
-file = "mods/blast.toml"
+file = "toml_mods/columns.toml"
 metafile = true
 
 [[files]]
-file = "mods/blockus.toml"
+file = "toml_mods/conjuring.toml"
 metafile = true
 
 [[files]]
-file = "mods/bountiful-fabric.toml"
+file = "toml_mods/controlling-for-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/break-progress.toml"
+file = "toml_mods/cosmetic-armor-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/builtin-servers.toml"
+file = "toml_mods/crafting-tweaks-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/campanion.toml"
+file = "toml_mods/croptopia-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/can-i-mine-this-block.toml"
+file = "toml_mods/crusade.toml"
 metafile = true
 
 [[files]]
-file = "mods/caracal-mod.toml"
+file = "toml_mods/dank-storage-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/carrier.toml"
+file = "toml_mods/dark-enchanting.toml"
 metafile = true
 
 [[files]]
-file = "mods/chalk-fabric.toml"
+file = "toml_mods/dark-loading-screen.toml"
 metafile = true
 
 [[files]]
-file = "mods/charm.toml"
+file = "toml_mods/dark-paintings.toml"
 metafile = true
 
 [[files]]
-file = "mods/charmonium.toml"
+file = "toml_mods/dawn.toml"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds-fabric.toml"
+file = "toml_mods/death-knell.toml"
 metafile = true
 
 [[files]]
-file = "mods/cloth-api.toml"
+file = "toml_mods/deathlog.toml"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
+file = "toml_mods/deep-mob-learning-refabricated.toml"
 metafile = true
 
 [[files]]
-file = "mods/clumps.toml"
+file = "toml_mods/deep-mob-learning-simulacrum.toml"
 metafile = true
 
 [[files]]
-file = "mods/colorful-subtitles.toml"
+file = "toml_mods/defaultsettings-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/columns.toml"
+file = "toml_mods/desolation.toml"
 metafile = true
 
 [[files]]
-file = "mods/conjuring.toml"
+file = "toml_mods/diggus-maximus.toml"
 metafile = true
 
 [[files]]
-file = "mods/controlling-for-fabric.toml"
+file = "toml_mods/dimension-fix-some-forge-patches-ported.toml"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-fabric.toml"
+file = "toml_mods/drink-beer-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/crafting-tweaks-fabric.toml"
+file = "toml_mods/dual-riders.toml"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-fabric.toml"
+file = "toml_mods/ecotones.toml"
 metafile = true
 
 [[files]]
-file = "mods/crusade.toml"
+file = "toml_mods/eggtab-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/dank-storage-fabric.toml"
+file = "toml_mods/enchantment-descriptions.toml"
 metafile = true
 
 [[files]]
-file = "mods/dark-enchanting.toml"
+file = "toml_mods/entity-banners.toml"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.toml"
+file = "toml_mods/equipment-compare-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/dark-paintings.toml"
+file = "toml_mods/expanded-storage-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/dawn.toml"
+file = "toml_mods/explorers-delight.toml"
 metafile = true
 
 [[files]]
-file = "mods/deathlog.toml"
+file = "toml_mods/extended-armor-bars.toml"
 metafile = true
 
 [[files]]
-file = "mods/deep-mob-learning-refabricated.toml"
+file = "toml_mods/extra-generators.toml"
 metafile = true
 
 [[files]]
-file = "mods/deep-mob-learning-simulacrum.toml"
+file = "toml_mods/fabric-api.toml"
 metafile = true
 
 [[files]]
-file = "mods/defaultsettings-fabric.toml"
+file = "toml_mods/fabric-disable-custom-worlds-advice.toml"
 metafile = true
 
 [[files]]
-file = "mods/diggus-maximus.toml"
+file = "toml_mods/fabric-language-kotlin.toml"
 metafile = true
 
 [[files]]
-file = "mods/dimension-fix-some-forge-patches-ported.toml"
+file = "toml_mods/fabric-launchpads.toml"
 metafile = true
 
 [[files]]
-file = "mods/dual-riders.toml"
+file = "toml_mods/fabric-survival-island.toml"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.toml"
+file = "toml_mods/fabric-waystones.toml"
 metafile = true
 
 [[files]]
-file = "mods/ecotones.toml"
+file = "toml_mods/falling-leaves-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/eggtab-fabric.toml"
+file = "toml_mods/ferritecore-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.toml"
+file = "toml_mods/firework-frenzy.toml"
 metafile = true
 
 [[files]]
-file = "mods/entity-banners.toml"
+file = "toml_mods/flonters.toml"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage-fabric.toml"
+file = "toml_mods/fps-reducer.toml"
 metafile = true
 
 [[files]]
-file = "mods/explorers-delight.toml"
+file = "toml_mods/gate-of-babylon.toml"
 metafile = true
 
 [[files]]
-file = "mods/extended-armor-bars.toml"
+file = "toml_mods/geckolib.toml"
 metafile = true
 
 [[files]]
-file = "mods/extra-generators.toml"
+file = "toml_mods/get-off-my-lawn.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
+file = "toml_mods/glassential-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-disable-custom-worlds-advice.toml"
+file = "toml_mods/go-fish.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
+file = "toml_mods/goblin-traders-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-launchpads.toml"
+file = "toml_mods/golems-galore.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-survival-island.toml"
+file = "toml_mods/goosiks-villager-hats.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-waystones.toml"
+file = "toml_mods/grims-transportables.toml"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.toml"
+file = "toml_mods/grizzly-bear.toml"
 metafile = true
 
 [[files]]
-file = "mods/firework-frenzy.toml"
+file = "toml_mods/guild.toml"
 metafile = true
 
 [[files]]
-file = "mods/flonters.toml"
+file = "toml_mods/harvest-scythes.toml"
 metafile = true
 
 [[files]]
-file = "mods/gate-of-babylon.toml"
+file = "toml_mods/health-overlay-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.toml"
+file = "toml_mods/horsestatsvanilla.toml"
 metafile = true
 
 [[files]]
-file = "mods/get-off-my-lawn.toml"
+file = "toml_mods/hwyla-addon-horse-info.toml"
 metafile = true
 
 [[files]]
-file = "mods/glassential-fabric.toml"
+file = "toml_mods/i-know-what-im-doing.toml"
 metafile = true
 
 [[files]]
-file = "mods/go-fish.toml"
+file = "toml_mods/iceberg-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/golems-galore.toml"
+file = "toml_mods/impaled.toml"
 metafile = true
 
 [[files]]
-file = "mods/goosiks-villager-hats.toml"
+file = "toml_mods/improved-stations.toml"
 metafile = true
 
 [[files]]
-file = "mods/grims-transportables.toml"
+file = "toml_mods/incantationem.toml"
 metafile = true
 
 [[files]]
-file = "mods/grizzly-bear.toml"
+file = "toml_mods/industrial-revolution.toml"
 metafile = true
 
 [[files]]
-file = "mods/guild.toml"
+file = "toml_mods/inmis.toml"
 metafile = true
 
 [[files]]
-file = "mods/harvest-scythes.toml"
+file = "toml_mods/inventory-hud-forge.toml"
 metafile = true
 
 [[files]]
-file = "mods/horsestatsvanilla.toml"
+file = "toml_mods/inventory-sorting.toml"
 metafile = true
 
 [[files]]
-file = "mods/hwyla-addon-horse-info.toml"
+file = "toml_mods/iron-jetpacks-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/i-know-what-im-doing.toml"
+file = "toml_mods/jumpoverfences.toml"
 metafile = true
 
 [[files]]
-file = "mods/impaled.toml"
+file = "toml_mods/kambrik.toml"
 metafile = true
 
 [[files]]
-file = "mods/improved-stations.toml"
+file = "toml_mods/kibe.toml"
 metafile = true
 
 [[files]]
-file = "mods/incantationem.toml"
+file = "toml_mods/kubejs-extras.toml"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.toml"
+file = "toml_mods/kubejs-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/inmis.toml"
+file = "toml_mods/lakeside.toml"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.toml"
+file = "toml_mods/lazydfu.toml"
 metafile = true
 
 [[files]]
-file = "mods/jumpoverfences.toml"
+file = "toml_mods/legendary-tooltips-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/kambrik.toml"
+file = "toml_mods/lib.toml"
 metafile = true
 
 [[files]]
-file = "mods/kibe.toml"
+file = "toml_mods/lifts.toml"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-extras.toml"
+file = "toml_mods/light-overlay.toml"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-fabric.toml"
+file = "toml_mods/lightest-lamps-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/lakeside.toml"
+file = "toml_mods/lithium.toml"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.toml"
+file = "toml_mods/lovely-snails.toml"
 metafile = true
 
 [[files]]
-file = "mods/lib.toml"
+file = "toml_mods/magic-fungi.toml"
 metafile = true
 
 [[files]]
-file = "mods/lifts.toml"
+file = "toml_mods/magitek-mechs.toml"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.toml"
+file = "toml_mods/mavm.toml"
 metafile = true
 
 [[files]]
-file = "mods/lightest-lamps-fabric.toml"
+file = "toml_mods/megane.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
+file = "toml_mods/miners-horizon.toml"
 metafile = true
 
 [[files]]
-file = "mods/lovely-snails.toml"
+file = "toml_mods/mo-colors.toml"
 metafile = true
 
 [[files]]
-file = "mods/magic-fungi.toml"
+file = "toml_mods/mo-glass.toml"
 metafile = true
 
 [[files]]
-file = "mods/magitek-mechs.toml"
+file = "toml_mods/mo-structures.toml"
 metafile = true
 
 [[files]]
-file = "mods/mavm.toml"
+file = "toml_mods/modern-industrialization.toml"
 metafile = true
 
 [[files]]
-file = "mods/megane.toml"
+file = "toml_mods/modmenu.toml"
 metafile = true
 
 [[files]]
-file = "mods/miners-horizon.toml"
+file = "toml_mods/more-villagers-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/mo-colors.toml"
+file = "toml_mods/mouse-wheelie.toml"
 metafile = true
 
 [[files]]
-file = "mods/mo-glass.toml"
+file = "toml_mods/mythic-mounts.toml"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.toml"
+file = "toml_mods/natures-compass.toml"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.toml"
+file = "toml_mods/ninjaphenixs-container-library.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.toml"
+file = "toml_mods/no-angled-brackets.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-villagers-fabric.toml"
+file = "toml_mods/no-potion-offset.toml"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.toml"
+file = "toml_mods/notes-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/mythic-mounts.toml"
+file = "toml_mods/nyfs-quivers.toml"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.toml"
+file = "toml_mods/ok-zoomer.toml"
 metafile = true
 
 [[files]]
-file = "mods/ninjaphenixs-container-library.toml"
+file = "toml_mods/outvoted.toml"
 metafile = true
 
 [[files]]
-file = "mods/no-angled-brackets.toml"
+file = "toml_mods/owo-lib.toml"
 metafile = true
 
 [[files]]
-file = "mods/no-potion-offset.toml"
+file = "toml_mods/packages.toml"
 metafile = true
 
 [[files]]
-file = "mods/notes-fabric.toml"
+file = "toml_mods/patchouli-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-quivers.toml"
+file = "toml_mods/platforms-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
+file = "toml_mods/pling.toml"
 metafile = true
 
 [[files]]
-file = "mods/outvoted.toml"
+file = "toml_mods/promenade.toml"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.toml"
+file = "toml_mods/quarry-reborn.toml"
 metafile = true
 
 [[files]]
-file = "mods/packages.toml"
+file = "toml_mods/quick-shulker.toml"
 metafile = true
 
 [[files]]
-file = "mods/patchouli-fabric.toml"
+file = "toml_mods/rats-mischief.toml"
 metafile = true
 
 [[files]]
-file = "mods/pling.toml"
+file = "toml_mods/reborncore.toml"
 metafile = true
 
 [[files]]
-file = "mods/promenade.toml"
+file = "toml_mods/red-bits.toml"
 metafile = true
 
 [[files]]
-file = "mods/quarry-reborn.toml"
+file = "toml_mods/repurposed-structures-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/quick-shulker.toml"
+file = "toml_mods/respawnable-pets.toml"
 metafile = true
 
 [[files]]
-file = "mods/rats-mischief.toml"
+file = "toml_mods/rhino.toml"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.toml"
+file = "toml_mods/right-click-harvest.toml"
 metafile = true
 
 [[files]]
-file = "mods/red-bits.toml"
+file = "toml_mods/river-redux.toml"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-fabric.toml"
+file = "toml_mods/roughly-enough-items.toml"
 metafile = true
 
 [[files]]
-file = "mods/respawnable-pets.toml"
+file = "toml_mods/roughly-enough-resources.toml"
 metafile = true
 
 [[files]]
-file = "mods/rhino.toml"
+file = "toml_mods/rswires.toml"
 metafile = true
 
 [[files]]
-file = "mods/river-redux.toml"
+file = "toml_mods/runelic.toml"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
+file = "toml_mods/secret-rooms-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/rswires.toml"
+file = "toml_mods/shetiphiancore-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/runelic.toml"
+file = "toml_mods/skin-layers-3d.toml"
 metafile = true
 
 [[files]]
-file = "mods/secret-rooms-fabric.toml"
+file = "toml_mods/slight-gui-modifications.toml"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.toml"
+file = "toml_mods/slotlock.toml"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.toml"
+file = "toml_mods/smoother-bedrock.toml"
 metafile = true
 
 [[files]]
-file = "mods/slight-gui-modifications.toml"
+file = "toml_mods/staff-of-building.toml"
 metafile = true
 
 [[files]]
-file = "mods/slotlock.toml"
+file = "toml_mods/stoneholm.toml"
 metafile = true
 
 [[files]]
-file = "mods/smoother-bedrock.toml"
+file = "toml_mods/straw-dummy.toml"
 metafile = true
 
 [[files]]
-file = "mods/staff-of-building.toml"
+file = "toml_mods/structure-tools.toml"
 metafile = true
 
 [[files]]
-file = "mods/stoneholm.toml"
+file = "toml_mods/techreborn.toml"
 metafile = true
 
 [[files]]
-file = "mods/straw-dummy.toml"
+file = "toml_mods/terrarian-slimes.toml"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.toml"
+file = "toml_mods/textile-backup.toml"
 metafile = true
 
 [[files]]
-file = "mods/terrarian-slimes.toml"
+file = "toml_mods/the-graveyard-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/textile-backup.toml"
+file = "toml_mods/tool-stats.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.toml"
+file = "toml_mods/tooltipfix.toml"
 metafile = true
 
 [[files]]
-file = "mods/tool-stats.toml"
+file = "toml_mods/travelers-backpack-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.toml"
+file = "toml_mods/traverse.toml"
 metafile = true
 
 [[files]]
-file = "mods/traverse.toml"
+file = "toml_mods/trident-return-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/trident-return-fabric.toml"
+file = "toml_mods/trinkets-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/trinkets-fabric.toml"
+file = "toml_mods/true-secret-rooms.toml"
 metafile = true
 
 [[files]]
-file = "mods/true-secret-rooms.toml"
+file = "toml_mods/universal-graves.toml"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.toml"
+file = "toml_mods/untitled-duck-mod-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/untitled-duck-mod-fabric.toml"
+file = "toml_mods/urns.toml"
 metafile = true
 
 [[files]]
-file = "mods/urns.toml"
+file = "toml_mods/vanilla-biomes.toml"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-biomes.toml"
+file = "toml_mods/vanilla-degus.toml"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-degus.toml"
+file = "toml_mods/vanilla-excavators.toml"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-excavators.toml"
+file = "toml_mods/vanilla-hammers.toml"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-hammers.toml"
+file = "toml_mods/visuality.toml"
 metafile = true
 
 [[files]]
-file = "mods/winged.toml"
+file = "toml_mods/winged.toml"
 metafile = true
 
 [[files]]
-file = "mods/wireless-networks.toml"
+file = "toml_mods/wireless-networks.toml"
 metafile = true
 
 [[files]]
-file = "mods/wither-totem.toml"
+file = "toml_mods/wither-totem.toml"
 metafile = true
 
 [[files]]
-file = "mods/wolves-with-armor.toml"
+file = "toml_mods/wolves-with-armor.toml"
 metafile = true
 
 [[files]]
-file = "mods/woods-and-mires.toml"
+file = "toml_mods/woods-and-mires.toml"
 metafile = true
 
 [[files]]
-file = "mods/wthit.toml"
+file = "toml_mods/wthit.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.toml"
+file = "toml_mods/xaeros-minimap.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.toml"
+file = "toml_mods/xaeros-world-map.toml"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.toml"
+file = "toml_mods/yosbr.toml"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-fabric.toml"
+file = "toml_mods/yungs-api-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons-fabric.toml"
+file = "toml_mods/yungs-better-dungeons-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts-fabric.toml"
+file = "toml_mods/yungs-better-mineshafts-fabric.toml"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-strongholds-fabric.toml"
+file = "toml_mods/yungs-better-strongholds-fabric.toml"
 metafile = true

@@ -1,0 +1,14 @@
+name = "Tech Reborn"
+filename = "TechReborn-5.0.11-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3517/196/TechReborn-5.0.11-beta.jar"
+hash-format = "murmur2"
+hash = "1456215524"
+
+[update]
+[update.curseforge]
+file-id = 3517196
+project-id = 233564
+release-channel = "beta"

@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "displayDebugData": false,
+  "leafSize": 5,
+  "leafLifespan": 200,
+  "leafSpawnRate": 10,
+  "coniferLeafSpawnRate": 0,
+  "dropFromPlayerPlacedBlocks": true,
+  "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
+  "leafSettings": {
+    "promenade:white_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:tenanea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:acacia_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "charm:ebony_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:pythadendron_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:pink_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "ecotones:larch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "traverse:red_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false
+    },
+    "traverse:yellow_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false
+    },
+    "techreborn:rubber_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:jungle_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false
+    },
+    "ecotones:hazel_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "woods_and_mires:pine_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "traverse:orange_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false
+    },
+    "minecraft:oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:dragon_tree_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "traverse:fir_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "minecraft:azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "traverse:brown_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false
+    },
+    "croptopia:cinnamon_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lucernia_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "blockus:white_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "blockus:legacy_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "ecotones:maple_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lacugrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:dark_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "croptopia:nectarine_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:pecan_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:cherry_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:lemon_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:avocado_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:coconut_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:mango_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:dragonfruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:cashew_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:persimmon_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:date_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:starfruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:nutmeg_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:almond_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:walnut_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:pear_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:fig_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:cave_bush": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:lime_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:plum_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:kumquat_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:banana_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:apple_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:orange_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:apricot_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:grapefruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:peach_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "desolation:charred_branches": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    }
+  }
+}

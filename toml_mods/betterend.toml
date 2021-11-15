@@ -1,0 +1,14 @@
+name = "BetterEnd"
+filename = "better-end-0.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3520/661/better-end-0.12.2.jar"
+hash-format = "murmur2"
+hash = "1015939518"
+
+[update]
+[update.curseforge]
+file-id = 3520661
+project-id = 413596
+release-channel = "beta"

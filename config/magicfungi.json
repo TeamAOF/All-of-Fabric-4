@@ -32,5 +32,11 @@
   //Morbus Scythe's wither effect strength. 0 = I, 1 = II, etc.
   "morbusScytheEffectStrength": 0,
   //Spawnrate for generation of the Host Biome. Increase if using any biome overhaul-styled mods, as otherwise the biome will be exceedingly rare.
-  "hostBiomeSpawnRate": 0.2
+  "hostBiomeSpawnRate": 0.2,
+  //Whether Host Grass will start spreading towards non-grass blocks after X in-game days. This only affects the default gamerule value for this setting, to change this on already generated worlds, use /gamerule doMorbusSpread. Keep in mind this can be overridden by Morbus corruption items. Check canUseMorbusCorruptionItems for further information.
+  "doMorbusSpread": false,
+  //In-game days until Host Grass blocks start spreading beyond the Host Biome. This only affects the default gamerule value for this setting, to change this on already generated worlds, use /gamerule morbusSpreadStartingDay
+  "morbusSpreadStartingDay": 100,
+  //Enables the usage of the Maledictio Glyph and Heart of Morbus. If you plan to use this mod on a public server, disable this to avoid griefing.
+  "canUseMorbusCorruptionItems": false
 }

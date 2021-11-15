@@ -348,3 +348,37 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+mods/
+
+crash-reports/
+
+saves/
+
+XaeroWorldMap/
+
+XaeroWaypoints/
+
+.curseclient
+
+ds_private_storage.json
+
+servers.dat
+
+servers.dat_old
+
+.mixin.out/
+
+.fabric/
+
+slotlock.json
+
+usercache.json
+
+options.txt
+
+patchouli_data.json
+
+options.amecsapi.txt
+
+ModTranslations/

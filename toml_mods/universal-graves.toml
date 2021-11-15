@@ -1,0 +1,14 @@
+name = "Universal Graves"
+filename = "graves-1.1.4+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3525/741/graves-1.1.4+1.17.1.jar"
+hash-format = "murmur2"
+hash = "1914420529"
+
+[update]
+[update.curseforge]
+file-id = 3525741
+project-id = 497175
+release-channel = "beta"

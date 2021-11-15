@@ -1,0 +1,14 @@
+name = "Right-Click-Harvest"
+filename = "right-click-harvest-1.1.0+1.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3430/687/right-click-harvest-1.1.0+1.17-fabric.jar"
+hash-format = "murmur2"
+hash = "59964707"
+
+[update]
+[update.curseforge]
+file-id = 3430687
+project-id = 517494
+release-channel = "beta"

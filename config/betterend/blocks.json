@@ -645,7 +645,8 @@
       "murkweed [default: 41]": 41,
       "needlegrass [default: 42]": 42,
       "inflexia [default: 43]": 43,
-      "flammalix [default: 44]": 44
+      "flammalix [default: 44]": 44,
+      "end_lotus_flower [default: 45]": 45
     }
   },
   "pallidium_full [default: true]": true,
@@ -670,5 +671,6 @@
   "umbralith_furnace [default: true]": true,
   "umbralith_flower_pot [default: true]": true,
   "inflexia [default: true]": true,
-  "flammalix [default: true]": true
+  "flammalix [default: true]": true,
+  "betterend [default: true]": true
 }

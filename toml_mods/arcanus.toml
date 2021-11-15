@@ -1,0 +1,14 @@
+name = "Arcanus"
+filename = "arcanus-1.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3519/877/arcanus-1.23.jar"
+hash-format = "murmur2"
+hash = "2265348140"
+
+[update]
+[update.curseforge]
+file-id = 3519877
+project-id = 517833
+release-channel = "beta"

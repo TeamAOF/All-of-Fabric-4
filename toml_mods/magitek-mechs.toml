@@ -1,0 +1,14 @@
+name = "Magitek Mechs"
+filename = "magitekmechs-fabric-MC1.17.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3523/911/magitekmechs-fabric-MC1.17.1-1.0.6.jar"
+hash-format = "murmur2"
+hash = "4285082827"
+
+[update]
+[update.curseforge]
+file-id = 3523911
+project-id = 534029
+release-channel = "beta"

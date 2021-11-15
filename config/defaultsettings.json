@@ -1,5 +1,6 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.4",
+  "prevVersion": "3.0.2",
   "initPopup": true,
   "generatedBy": "\u003cdefault\u003e",
   "hashes": {},

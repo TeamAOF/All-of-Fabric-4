@@ -1,0 +1,14 @@
+name = "megane"
+filename = "megane-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3524/215/megane-5.5.2.jar"
+hash-format = "murmur2"
+hash = "607441383"
+
+[update]
+[update.curseforge]
+file-id = 3524215
+project-id = 408118
+release-channel = "beta"

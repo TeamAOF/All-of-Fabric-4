@@ -1,0 +1,14 @@
+name = "Lightest Lamps (Fabric)"
+filename = "lightest-lamps-fabric-0.9.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3518/384/lightest-lamps-fabric-0.9.6.jar"
+hash-format = "murmur2"
+hash = "1265165475"
+
+[update]
+[update.curseforge]
+file-id = 3518384
+project-id = 533661
+release-channel = "beta"

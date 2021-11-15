@@ -101,11 +101,11 @@
 			"lootingMultiplier": 0.03999999910593033
 		},
 		"holidayDrops": {
-			"drop": true,
+			"drop": false,
 			"requirePlayer": true,
-			"standardChance": 0.009999999776482582,
-			"creativeFlightChance": 0.004999999888241291,
-			"lootingMultiplier": 0.004999999888241291
+			"standardChance": 0.0,
+			"creativeFlightChance": 0.0,
+			"lootingMultiplier": 0.0
 		},
 		"enderdragonDropsHeartOfTheSky": false
 	}

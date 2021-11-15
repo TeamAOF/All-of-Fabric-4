@@ -1,58 +1,64 @@
 {
   "_comment": "Before changing anything, see https://github.com/Patbox/UniversalGraves#configuration",
-  "graveStyle": "player_head",
+  "graveStyle": "custom",
   "presetHeadLockedTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjYWI1NmM4MmNiODFiZGI5OTc5YTQ2NGJjOWQzYmEzZTY3MjJiYTEyMmNmNmM1Mjg3MzAxMGEyYjU5YWVmZSJ9fX0=",
   "presetHeadUnlockedTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjYWI1NmM4MmNiODFiZGI5OTc5YTQ2NGJjOWQzYmEzZTY3MjJiYTEyMmNmNmM1Mjg3MzAxMGEyYjU5YWVmZSJ9fX0=",
   "customBlockStateLockedStyles": [
-    "minecraft:stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
-    "minecraft:stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]"
+    "graveyard:cobblestone_gravestone[facing=east]{GlowingText:1b, Color:\"blue\"}",
+    "graveyard:cobblestone_gravestone[facing=west]{GlowingText:1b, Color:\"blue\"}",
+    "graveyard:cobblestone_gravestone[facing=south]{GlowingText:1b, Color:\"blue\"}",
+    "graveyard:cobblestone_gravestone[facing=north]{GlowingText:1b, Color:\"blue\"}"
   ],
   "customBlockStateUnlockedStyles": [
-    "minecraft:mossy_stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]",
-    "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]"
+    "graveyard:mossy_cobblestone_gravestone[facing=east]{GlowingText:1b, Color:\"red\"}",
+    "graveyard:mossy_cobblestone_gravestone[facing=west]{GlowingText:1b, Color:\"red\"}",
+    "graveyard:mossy_cobblestone_gravestone[facing=south]{GlowingText:1b, Color:\"red\"}",
+    "graveyard:mossy_cobblestone_gravestone[facing=north]{GlowingText:1b, Color:\"red\"}"
   ],
+  "customStyleSignText": [
+    "<white>${player}",
+    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+    "<red><lang:'text.graves.break_time':''>",
+    "<white>${break_time}"
+  ],
+  "customStyleSignProtectedText": [
+    "<white>${player}",
+    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+    "<blue><lang:'text.graves.protected_time':''>",
+    "<white>${protection_time}"
+  ],
+  "customStyleUpdateRate": 20,
   "isProtected": true,
-  "protectionTime": -1,
-  "breakingTime": 10800,
+  "protectionTime": 43200,
+  "breakingTime": 86400,
   "breakEmptyGraves": true,
-  "xpStorageType": "vanilla",
-  "xpPercentTypeValue": 100.0,
+  "xpStorageType": "percent_points",
+  "xpPercentTypeValue": 25.0,
   "createFromPvP": true,
   "createInClaims": false,
   "dropItemsAfterExpiring": true,
+  "shiftClickTakesItems": true,
   "graveTitle": "<lang:'text.graves.players_grave':'${player}'>",
-  "hologram": true,
+  "hologram": false,
   "hologramOffset": 1.2,
   "hologramProtectedText": [
-    "<gold><lang:'text.graves.grave_of':'<white>${player}'>",
-    "<yellow>${death_cause}",
-    "",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "<gold><lang:'text.graves.grave_of':'<white>${player}'>"
   ],
   "hologramText": [
-    "<gold><lang:'text.graves.grave_of':'<white>${player}'>",
-    "<yellow>${death_cause}",
-    "",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.not_protected'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "<gold><lang:'text.graves.grave_of':'<white>${player}'>"
   ],
   "guiTitle": "<lang:'text.graves.gui_title':'${player}'>",
   "guiProtectedText": [
-    "${position} <gray>(${world})",
-    "<yellow>${death_cause}",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "${position} <gray>(${world})"
   ],
   "guiText": [
-    "${position} <gray>(${world})",
-    "<yellow>${death_cause}",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.not_protected'>",
-    "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+    "${position} <gray>(${world})"
+  ],
+  "guiProtectedItem": [
+    "chest"
+  ],
+  "guiItem": [
+    "trapped_chest"
   ],
   "messageGraveCreated": "<white><lang:'text.graves.created_at':'<yellow>${position}':'<gray>${world}'>",
   "messageProtectionEnded": "<red><lang:'text.graves.no_longer_protected':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",

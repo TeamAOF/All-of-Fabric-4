@@ -2,4 +2,5 @@
   "vision_distance": 128,
   "disable_burnout": true,
   "jukebox_integration": true,
-  "campfire_integration": true}
+  "campfire_integration": true
+}

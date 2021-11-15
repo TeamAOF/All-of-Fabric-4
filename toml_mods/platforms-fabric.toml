@@ -1,0 +1,14 @@
+name = "Platforms [Fabric]"
+filename = "platforms-[fabric]-1.17-1.1.1-.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3496/259/platforms-[fabric]-1.17-1.1.1-.jar"
+hash-format = "murmur2"
+hash = "3329544672"
+
+[update]
+[update.curseforge]
+file-id = 3496259
+project-id = 536610
+release-channel = "beta"
