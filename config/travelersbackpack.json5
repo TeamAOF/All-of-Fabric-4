@@ -10,23 +10,23 @@
 	/* If true, backpack can only be worn by placing it in curios 'Back' slot
 	   WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
 	*/
-	"trinketsIntegration": false,
+	"trinketsIntegration": true,
 	"enableBackpackAbilities": true,
 	// Places backpack at place where player died
-	"backpackDeathPlace": true,
+	"backpackDeathPlace": false,
 	// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 	"backpackForceDeathPlace": false,
 	// Enables button in backpack gui, which allows to empty tank
 	"enableEmptyTankButton": true,
 	"enableSleepingBagSpawnPoint": false,
 	// Enables auto message with backpack coords after player dies
-	"enableBackpackCoordsMessage": true,
+	"enableBackpackCoordsMessage": false,
 	// Enables tool cycling via keybind (Default Z) + scroll combination, while backpack is worn
 	"enableToolCycling": true,
 	// Allows tool cycling using keybinding only (Default Z) (Do not change to false - it won't work)
 	"disableScrollWheel": true,
 	// Enables tip, how to obtain a backpack, if there's no crafting recipe for it
-	"obtainTips": true,
+	"obtainTips": false,
 	// Render tools in tool slots on the backpack, while worn
 	"renderTools": true,
 	// Render backpack if elytra is present
