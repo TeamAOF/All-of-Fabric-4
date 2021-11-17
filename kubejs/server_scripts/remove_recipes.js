@@ -33,7 +33,7 @@ onEvent('recipes', (event) => {
     'techreborn:quantum_chestplate',
     'techreborn:compressor',
     'winged:heart_of_the_sky',
-	'iron-jetpacks:basic_coil'
+	'rswires:red_alloy_compound'
     ];
 
     id.forEach((id) => {
