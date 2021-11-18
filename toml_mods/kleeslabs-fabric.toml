@@ -1,0 +1,14 @@
+name = "KleeSlabs (Fabric Edition)"
+filename = "kleeslabs-fabric-10.0.0+0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/44/kleeslabs-fabric-10.0.0+0.jar"
+hash-format = "murmur2"
+hash = "3468270092"
+
+[update]
+[update.curseforge]
+file-id = 3528044
+project-id = 547695
+release-channel = "beta"

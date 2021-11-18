@@ -1,0 +1,14 @@
+name = "Fix Experience Bug (now with FABRIC and FORGE versions)"
+filename = "fabric-experiencebugfix-1.17.1-17.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/372/fabric-experiencebugfix-1.17.1-17.0.0.jar"
+hash-format = "murmur2"
+hash = "379488647"
+
+[update]
+[update.curseforge]
+file-id = 3528372
+project-id = 486778
+release-channel = "beta"

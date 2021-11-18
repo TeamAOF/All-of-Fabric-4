@@ -1,0 +1,14 @@
+name = "NetherPortalFix (Fabric Edition)"
+filename = "netherportalfix-fabric-8.0.0+0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/47/netherportalfix-fabric-8.0.0+0.jar"
+hash-format = "murmur2"
+hash = "3202877041"
+
+[update]
+[update.curseforge]
+file-id = 3528047
+project-id = 547696
+release-channel = "beta"

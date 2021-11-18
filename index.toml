@@ -822,6 +822,10 @@ file = "toml_mods/balm-fabric.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/bamboo-tweaks.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/basic-aiots.toml"
 metafile = true
 
@@ -1082,6 +1086,10 @@ file = "toml_mods/firework-frenzy.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/fix-experience-bug.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/flonters.toml"
 metafile = true
 
@@ -1202,6 +1210,10 @@ file = "toml_mods/kibe.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/kleeslabs-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/kubejs-extras.toml"
 metafile = true
 
@@ -1243,6 +1255,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/lovely-snails.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/luminous-wool.toml"
 metafile = true
 
 [[files]]
@@ -1302,11 +1318,19 @@ file = "toml_mods/natures-compass.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/netherportalfix-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/ninjaphenixs-container-library.toml"
 metafile = true
 
 [[files]]
 file = "toml_mods/no-angled-brackets.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/no-null-processors.toml"
 metafile = true
 
 [[files]]
@@ -1535,6 +1559,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/wither-totem.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/wmitef.toml"
 metafile = true
 
 [[files]]
