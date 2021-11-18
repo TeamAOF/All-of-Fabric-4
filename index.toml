@@ -712,6 +712,9 @@ file = "kubejs/server_scripts/recipetypes/kibe/shaped.js"
 file = "kubejs/server_scripts/recipetypes/minecraft/shaped.js"
 
 [[files]]
+file = "kubejs/server_scripts/recipetypes/rswires/shapeless.js"
+
+[[files]]
 file = "kubejs/server_scripts/recipetypes/techreborn/shaped.js"
 
 [[files]]
