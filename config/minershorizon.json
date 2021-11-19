@@ -108,21 +108,21 @@
     {
       "block": "modern_industrialization:tin_ore",
       "size": 10,
-      "count": 6,
+      "count": 10,
       "minY": 100,
       "maxY": 255
     },
     {
       "block": "modern_industrialization:tin_ore",
       "size": 10,
-      "count": 6,
+      "count": 10,
       "minY": 60,
       "maxY": 100
     },
     {
       "block": "modern_industrialization:tin_ore",
       "size": 10,
-      "count": 3,
+      "count": 5,
       "minY": 30,
       "maxY": 60
     },
