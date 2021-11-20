@@ -655,6 +655,9 @@ file = "kubejs/config/client.properties"
 file = "kubejs/config/common.properties"
 
 [[files]]
+file = "kubejs/data/cosmetic-armor/tags/items/blacklist.json"
+
+[[files]]
 file = "kubejs/data/indrev/loot_tables/blocks/deepslate_silver_ore.json"
 
 [[files]]

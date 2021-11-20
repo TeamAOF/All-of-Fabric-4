@@ -1,14 +1,14 @@
-name = "WMITEF"
-filename = "wmitef-fabric-1.0.1-mc1.17.1.jar"
+name = "WMITAF"
+filename = "wmitaf-fabric-1.1.2-mc1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3527/853/wmitef-fabric-1.0.1-mc1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3530/917/wmitaf-fabric-1.1.2-mc1.17.1.jar"
 hash-format = "murmur2"
-hash = "3266089104"
+hash = "1175945181"
 
 [update]
 [update.curseforge]
-file-id = 3527853
+file-id = 3530917
 project-id = 547358
 release-channel = "beta"
