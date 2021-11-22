@@ -1,3 +1,67 @@
+<h1>1.1.1</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Changes**
+- Increased tin ore gen in Miners Horizon.
+- Blacklisted Iron Jetpacks from Cosmetic Armor slots as it crashes.
+
+**Fixes**
+- Fixed iron jetpacks not being craftable due to false unification.
+- Fixed conflicting recipes between iron rswires & iron jetpacks.
+
+**Added**
+- Botania: Botania-1.17.1-421-FABRIC.jar  
+- WMITAF: wmitaf-fabric-mc1.17.1-1.1.3.jar  
+  
+**Updated**  
+- 3d Skin Layers: 3dSkinLayers-Fabric-1.3.0.jar  
+- Additional Additions: AdditionalAdditions-2.2.0.jar  
+- Balm: balm-fabric-1.8.0+0.jar  
+- BCLib: bclib-0.5.2.jar  
+- Better End: better-end-0.12.3.jar  
+- BitsAndChisels: bitsandchisels-2.6.0.jar  
+- Carrier: carrier-1.8.2.jar  
+- CC:Restitched: cc-restiched-1.97.2.jar  
+- Conjuring: conjuring-1.0.15.jar  
+- Crafting Tweaks: craftingtweaks-fabric-13.1.0+0.jar  
+- Dark Enchanting: dark-enchanting-0.6.0-1.17.1.jar  
+- DeathLog: deathlog-0.2.2.jar  
+- Equipment Compare: EquipmentCompare-1.17.1-fabric-1.2.8.jar  
+- Expanded Storage: expandedstorage-7.3.0+1.17.1.jar  
+- Fabric API: fabric-api-0.42.1+1.17.jar  
+- FerriteCore: ferritecore-3.1.0-fabric.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.29.jar  
+- Universal Graves: graves-1.1.4+1.17.1.jar  
+- Grizzly Bear mob: grizzlybear-1.17-1.2.0.jar  
+- Industrial Revolution: indrev-1.12.0-BETA.jar  
+- Inmis: inmis-2.3.2-1.17.1.jar  
+- Kibe: kibe-1.9.4-BETA+1.17.jar  
+- Lithium: lithium-fabric-mc1.17.1-0.7.5.jar  
+- Magitek Mechs: magitekmechs-fabric-MC1.17.1-1.0.7.jar  
+- megane: megane-5.5.2.jar  
+- Modern Industrialization: Modern-Industrialization-0.6.1.jar  
+- MoreVillagersFabric: morevillagers-FABRIC-1.17-2.1.1.jar  
+- NinjaPhenix's Container Library: ninjaphenix-container-library-1.2.5+1.17.1.jar  
+- Outvoted: outvoted-1.5.0-beta.4.jar  
+- oÏ‰o: owo-lib-0.3.2+1.17.jar  
+- Patchouli: Patchouli-1.17.1-58-FABRIC.jar  
+- Quick Shulker: quickshulker-1.3.1-1.17.jar  
+- Rat's Mischief: ratsmischief-1.3.2.jar  
+- Red Bits: red-bits-1.10.1.jar  
+- Repurposed Structures: repurposed_structures_fabric-2.5.7+1.17.1.jar  
+- Rhino: rhino-fabric-1701.1.5-build.71.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.2.335.jar  
+- Stoneholm: stoneholm-1.3.jar  
+- Visuality: visuality-0.3.2-fabric.jar  
+- Wireless Networks: wirelessnetworks-1.3.1.jar  
+- Harvest Scythes: wraith-harvestscythes-2.1.0.jar  
+- Waystones: wraith-waystones-2.2.2.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.22.2_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.18.3_Fabric_1.17.1.jar  
+- ZIHLaunchpads: zihlaunchpads-1.2.0.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>1.1.0</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
