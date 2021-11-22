@@ -9,7 +9,7 @@ onEvent('recipes', (event) => {
     'techreborn:crafting_table/solar_panel/advanced_solar_panel_alt',
     'techreborn:rolling_machine/minecart',
     'vanilla-excavators:obsidian_excavator',
-    'vanilla-hammers:obsidian_hammer',
+    'vanilla-hammers:obsidian_hammer'
 
     ];
 
@@ -33,6 +33,7 @@ onEvent('recipes', (event) => {
     'techreborn:quantum_chestplate',
     'techreborn:compressor',
     'winged:heart_of_the_sky',
+	'rswires:red_alloy_compound'
     ];
 
     id.forEach((id) => {
