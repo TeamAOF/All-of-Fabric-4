@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "GildedNetherite": true,
   "Wrench": true,
   "AmethystLamp": true,
@@ -17,5 +17,11 @@
   "CopperPatina": true,
   "Ropes": true,
   "TridentShard": true,
-  "DepthMeter": true
+  "DepthMeter": true,
+  "NoteBlockAmethystSounds": true,
+  "PoweredRailsCopperRecipe": true,
+  "ChickenNugget": true,
+  "GoldRing": true,
+  "ShipwreckSpyglassLoot": true,
+  "PocketJukebox": true
 }

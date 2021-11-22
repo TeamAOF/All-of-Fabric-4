@@ -9,5 +9,9 @@
       "biomeSizeLand [default: 256]": 256,
       "biomeSizeVoid [default: 256]": 256
     }
+  },
+  "options": {
+    "customNetherBiomeSource [default: true]": true,
+    "customEndBiomeSource [default: true]": true
   }
 }
