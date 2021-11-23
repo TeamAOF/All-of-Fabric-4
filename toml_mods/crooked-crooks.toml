@@ -1,0 +1,14 @@
+name = "Crooked Crooks"
+filename = "crookedcrooks-2.0.1+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3524/186/crookedcrooks-2.0.1+1.17.1.jar"
+hash-format = "murmur2"
+hash = "3482352288"
+
+[update]
+[update.curseforge]
+file-id = 3524186
+project-id = 393714
+release-channel = "beta"
