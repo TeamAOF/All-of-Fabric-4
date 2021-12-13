@@ -1,3 +1,81 @@
+<h1>1.1.2</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed the Log4J2 vulnerability.
+- Fixed fps issues due to how zoom rendering was done.
+- Fixed TAB keybind falling back to defaults for crafting tweaks.
+
+**Added**
+- Client Tweaks
+- Default Options
+  
+**Removed**  
+- DefaultSettings
+- Ok Zoomer
+  
+**Updated**  
+- 3d Skin Layers: 3dSkinLayers-Fabric-1.3.1.jar  
+- Architectury: architectury-2.8.50.jar  
+- Armor Sound Tweak: ArmorSoundTweak-4.0.0-fabric.jar  
+- Auth Me: authme-mc1.17.1-2.1.0.jar  
+- Balm: balm-fabric-1.9.0+0.jar  
+- BCLib: bclib-0.5.5.jar  
+- Better End: better-end-0.12.5.jar  
+- Botania: Botania-1.17.1-422-FABRIC.jar  
+- Cloth Config v5: cloth-config-5.2.47-fabric.jar  
+- [Conjuring:](https://www.curseforge.com/minecraft/mc-mods/conjuring) (conjuring-1.0.12.jar -> conjuring-1.0.16.jar)  
+- Controlling For Fabric: Controlling-fabric-1.17.1-8.0.8.jar  
+- Crafting Tweaks: craftingtweaks-fabric-13.1.1+0.jar  
+- [Croptopia:](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) (Croptopia-1.17.1-FABRIC-1.6.3.jar -> Croptopia-1.17.1-FABRIC-1.7.0.jar)  
+- Dank Storage: dankstorage-2.2.2-1.17.1.jar  
+- Dark Enchanting: dark-enchanting-0.6.0-1.17.1.jar  
+- DeathLog: deathlog-0.2.2.jar  
+- Desolation: desolation-1.2.0.jar  
+- Disable Custom Worlds Advice: DisableCustomWorldsAdvice-1.4.jar  
+- Equipment Compare: EquipmentCompare-1.17.1-fabric-1.2.9.jar  
+- Expanded Storage: expandedstorage-7.3.3+1.17.1.jar  
+- Explorer's Delight: explorers-delight-1.0.0-beta.2+1.17.jar  
+- Fabric API: fabric-api-0.44.0+1.17.jar  
+- [Fabric Language Kotlin:](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) (fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar -> fabric-language-kotlin-1.7.0+kotlin.1.6.0.jar)  
+- FerriteCore: ferritecore-3.1.0-fabric.jar  
+- Geckolib: geckolib-fabric-1.17-3.0.30.jar  
+- Go Fish: go-fish-1.3.1-1.17.1.jar  
+- [Goblin Traders:](https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric) (goblin-traders-1.3.0.jar -> goblin-traders-1.4.1.jar)  
+- Universal Graves: graves-1.1.4+1.17.1.jar  
+- Grizzly Bear mob: grizzlybear-1.17-1.2.0.jar  
+- Iceberg: Iceberg-1.17.1-fabric-1.0.27.jar  
+- I Know What I'm Doing: IKnowWhatImDoing-4.0.0-fabric.jar  
+- Industrial Revolution: indrev-1.12.0-BETA.jar  
+- Inmis: inmis-2.3.2-1.17.1.jar  
+- [Kibe:](https://www.curseforge.com/minecraft/mc-mods/kibe) (kibe-1.9.3-BETA+1.17.jar -> kibe-1.9.4-BETA+1.17.jar)  
+- Legendary Tooltips: LegendaryTooltips-1.17.1-fabric-1.1.5.jar  
+- Lifts: lifts-1.4-BETA+1.17.jar  
+- Lithium: lithium-fabric-mc1.17.1-0.7.5.jar  
+- Magic Fungi: magicfungi-0.6.0-BETA+1.17.1.jar  
+- Magitek Mechs: magitekmechs-fabric-MC1.17.1-1.0.10.jar  
+- megane: megane-5.6.0.jar  
+- Modern Industrialization: Modern-Industrialization-0.7.3.jar  
+- MoreVillagersFabric: morevillagers-FABRIC-1.17-2.1.1.jar  
+- Outvoted: outvoted-1.5.0-rc.1.jar  
+- [Patchouli:](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric) (Patchouli-1.17.1-58-FABRIC.jar -> Patchouli-1.17.1-59-FABRIC.jar)  
+- Pling: pling-1.5.0.jar  
+- Rat's Mischief: ratsmischief-1.3.2.jar  
+- Red Bits: red-bits-1.10.1.jar  
+- [Repurposed Structures:](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric) (repurposed_structures_fabric-2.4.3+1.17.1.jar -> repurposed_structures_fabric-2.5.7+1.17.1.jar)  
+- Rhino: rhino-fabric-1701.1.5-build.71.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.2.351.jar  
+- Smoother Bedrock: smootherbedrock-1.0.3.jar  
+- Stoneholm: stoneholm-1.3.jar  
+- Vanilla Degus: vanilla_degus-1.17.1-v1.2.4-fabric.jar  
+- [WMITAF:](https://www.curseforge.com/minecraft/mc-mods/wmitaf) (wmitaf-fabric-mc1.17.1-1.1.3.jar -> wmitaf-fabric-mc1.17.1-1.1.4.jar)  
+- Wolves With Armor: wolves-with-armor-1.6.2-1.17.1.jar  
+- Harvest Scythes: wraith-harvestscythes-2.1.1.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.22.3_Fabric_1.17.1.jar  
+- Xaero's World Map: XaerosWorldMap_1.18.6_Fabric_1.17.1.jar  
+---------------------------------------------------------------------------------------------
+
 <h1>1.1.1</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
