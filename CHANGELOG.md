@@ -1,3 +1,11 @@
+<h1>1.1.3</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed fabric loader version.
+---------------------------------------------------------------------------------------------
+
 <h1>1.1.2</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
