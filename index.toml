@@ -16,6 +16,9 @@ file = "config/InventoryHUD/curios.json"
 file = "config/Lakeside.properties"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+
+[[files]]
 file = "config/MythicMounts.txt"
 
 [[files]]
@@ -142,6 +145,12 @@ file = "config/biome_locator_client.json5"
 file = "config/biome_locator_server.json5"
 
 [[files]]
+file = "config/botania-client.json5"
+
+[[files]]
+file = "config/botania-common.json5"
+
+[[files]]
 file = "config/bountiful/bountiful.json"
 
 [[files]]
@@ -173,6 +182,9 @@ file = "config/config.json"
 
 [[files]]
 file = "config/conjuring.json5"
+
+[[files]]
+file = "config/cosmetica/cached_cloaks.json"
 
 [[files]]
 file = "config/couplings.toml"
@@ -861,6 +873,10 @@ file = "toml_mods/boat-container.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/botania-fabric.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/bountiful-fabric.toml"
 metafile = true
 
@@ -946,6 +962,10 @@ metafile = true
 
 [[files]]
 file = "toml_mods/crafting-tweaks-fabric.toml"
+metafile = true
+
+[[files]]
+file = "toml_mods/crooked-crooks.toml"
 metafile = true
 
 [[files]]
@@ -1129,10 +1149,6 @@ file = "toml_mods/golems-galore.toml"
 metafile = true
 
 [[files]]
-file = "toml_mods/goosiks-villager-hats.toml"
-metafile = true
-
-[[files]]
 file = "toml_mods/grims-transportables.toml"
 metafile = true
 
@@ -1309,7 +1325,7 @@ file = "toml_mods/more-villagers-fabric.toml"
 metafile = true
 
 [[files]]
-file = "toml_mods/mouse-wheelie.toml"
+file = "toml_mods/mouse-tweaks.toml"
 metafile = true
 
 [[files]]
@@ -1549,6 +1565,10 @@ file = "toml_mods/vanilla-hammers.toml"
 metafile = true
 
 [[files]]
+file = "toml_mods/villager-hats-mod.toml"
+metafile = true
+
+[[files]]
 file = "toml_mods/visuality.toml"
 metafile = true
 
@@ -1565,7 +1585,7 @@ file = "toml_mods/wither-totem.toml"
 metafile = true
 
 [[files]]
-file = "toml_mods/wmitef.toml"
+file = "toml_mods/wmitaf.toml"
 metafile = true
 
 [[files]]

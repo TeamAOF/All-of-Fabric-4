@@ -43,6 +43,22 @@
     "coppergolem": {
       "health": 25.0,
       "oxidationRate": 0.001
+    },
+    "glare": {
+      "spawn": true,
+      "rate": 2,
+      "biomes": [
+        "#taiga",
+        "#jungle",
+        "#plains",
+        "#savanna",
+        "#forest",
+        "#swamp",
+        "#underground"
+      ],
+      "health": 10.0,
+      "shouldInteract": true,
+      "inventorySize": 32
     }
   },
   "misc": {
