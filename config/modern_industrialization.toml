@@ -6,5 +6,5 @@ respawnWithGuideBook = false
 disableFuelTooltips = true
 disableItemTagTooltips = true
 newVersionMessage = false
-steamDrillFuelUseFactor = 5
-steamDrillWaterUseFactor = 5
+colorWaterLava = true
+enableDebugCommands = false

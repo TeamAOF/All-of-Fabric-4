@@ -510,7 +510,10 @@
     "jellyshroom_stripped_bark [default: true]": true,
     "jellyshroom_stripped_log [default: true]": true,
     "lucernia_stripped_bark [default: true]": true,
-    "lucernia_stripped_log [default: true]": true
+    "lucernia_stripped_log [default: true]": true,
+    "dragon_bone_block [default: true]": true,
+    "dragon_bone_slab [default: true]": true,
+    "dragon_bone_stairs [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace_ore [default: true]": true,

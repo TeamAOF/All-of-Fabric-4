@@ -26,7 +26,9 @@
       "wirelessnetworks": 7408640,
       "lifts": 7408640,
       "quarrymod": 7408640,
-      "extragenerators": 7408640
+      "extragenerators": 7408640,
+      "appliedenergistics2": 6556063,
+      "modern_industrialization": 11993088
     },
     "units": {
       "megane": "E",
@@ -35,7 +37,9 @@
       "wirelessnetworks": "E",
       "lifts": "E",
       "quarrymod": "E",
-      "extragenerators": "E"
+      "extragenerators": "E",
+      "appliedenergistics2": "AE",
+      "modern_industrialization": "EU"
     },
     "blacklist": [
       "appliedenergistics2:energy_acceptor"
@@ -46,7 +50,11 @@
     "expandWhenSneak": false,
     "colors": {
       "megane:default": 855385,
-      "minecraft:water": 4159204
+      "minecraft:water": 4159204,
+      "modern_industrialization:hydrogen": 1788620,
+      "indrev:molten_tin_still": 13224393,
+      "indrev:sulfuric_acid_still": 15646,
+      "indrev:toxic_mud_still": 6044430
     },
     "blacklist": []
   },

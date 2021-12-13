@@ -55,6 +55,7 @@
 	},
 	"advanced": {
 		"filtering": {
+			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
