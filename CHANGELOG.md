@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### All of Fabric 4 | v1.1.4
 
 _Fabric Loader 0.12.12_
@@ -23,6 +24,8 @@ _Fabric Loader 0.12.12_
 
 ---
 
+=======
+>>>>>>> main
 <h1>1.1.3</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
