@@ -1,3 +1,36 @@
+### All of Fabric 4 | v1.1.4
+
+_Fabric Loader 0.12.12_
+
+**Fixes**
+
+- Fixed missing mouse settings.
+- Fixed numerous pipe-related crashes with MI.
+  
+**Updated**  
+- Architectury: architectury-2.8.53.jar  
+- BCLib: bclib-0.5.6.jar  
+- CC:Restitched: cc-restitched-1.97.3.jar  
+- Controlling For Fabric: Controlling-fabric-1.17.1-8.0.11.jar  
+- Drink Beer: drinkbeer-v3.0 for 1.17.1.jar  
+- Enchantment Descriptions: EnchantmentDescriptions-fabric-1.17.1-4.0.3.jar  
+- Mo Glass: Mo-Glass-1.6.1-MC1.17.1.jar  
+- Modern Industrialization: Modern-Industrialization-0.7.4.jar  
+- Mythic Mounts: mythic-mounts-1.17.1-4.0.jar  
+- Roughly Enough Items: RoughlyEnoughItems-6.3.355.jar  
+- WMITAF: wmitaf-fabric-mc1.17.1-1.2.0.jar  
+- Xaero's Minimap: Xaeros_Minimap_21.22.5_Fabric_1.17.1.jar  
+
+---
+
+<h1>1.1.3</h1>
+
+<h2>Be sure to always backup your world(s) before updating!</h2>
+
+**Fixes**
+- Fixed fabric loader version.
+---------------------------------------------------------------------------------------------
+
 <h1>1.1.2</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
